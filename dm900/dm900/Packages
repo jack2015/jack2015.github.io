@@ -117,9 +117,9 @@ Recommends: libc6-dbg
 Section: devel
 Architecture: dm900
 Maintainer: Openpli Developers
-MD5Sum: a65bcafd6c1dfed354ec120bad6073d9
-SHA256sum: 38acc6a11cbc972e0f079c9c034dee999a844b9d5718242f6c2d1a4b70910376
-Size: 17826
+MD5Sum: 6180e4b30b55fe40bc164732e0a4af69
+SHA256sum: 3f95cc329f607480587b30077b5af97ff38976252ffd1676a3c70cc73417f0a6
+Size: 17814
 Filename: dm900-branding-dbg_git19+f9e2457-r0_dm900.ipk
 Source: dm900-branding.bb
 Description: dm900-branding version gitAUTOINC+f9e24570bb-r0 - Debugging files
@@ -134,8 +134,8 @@ Recommends: libc6-dev, python-dev
 Section: devel
 Architecture: dm900
 Maintainer: Openpli Developers
-MD5Sum: ae7aae19ac9694369c0835d6ebc8b03a
-SHA256sum: 1f571c4bc04f3453210934de26c423be20449e266aaf759c9b4231662fa9372b
+MD5Sum: e21d923988911c727a9247a1d1612e5c
+SHA256sum: 6ef2ce1135cb3b34c74e0bfbf02d1df75240892ea1fdee2818e94fb0d3f69458
 Size: 722
 Filename: dm900-branding-dev_git19+f9e2457-r0_dm900.ipk
 Source: dm900-branding.bb
@@ -150,9 +150,9 @@ Depends: libc6 (>= 2.31+git0+1094741224)
 Section: base
 Architecture: dm900
 Maintainer: Openpli Developers
-MD5Sum: 6af026b593521999054b0ca0f4813712
-SHA256sum: 2aac24b8637f423320fd48212333f5529e47b5e66cf8f5e3f6060fcae6dc238e
-Size: 4744
+MD5Sum: f04a5132eafee1446900ab0723363d6a
+SHA256sum: 1db698334d98b7fc0db9e6cf5903bc6f4dfa67a9f15e715ef6c975c16d1cf370
+Size: 4748
 Filename: dm900-branding_git19+f9e2457-r0_dm900.ipk
 Source: dm900-branding.bb
 Description: dm900-branding version gitAUTOINC+f9e24570bb-r0
@@ -263,8 +263,8 @@ Recommends: libavahi-client-dbg, libavahi-common-dbg, libc6-dbg, libcrypt-dbg, l
 Section: devel
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bfadf53a23b7c855a7bcd53379ad4995
-SHA256sum: af5b5c0847741ae0ae2b5f5377ed9758c1e453b94a3cc76defb1bde0986ceebc
+MD5Sum: 8b3bc6f1e4b05e2ed5e2338757f13486
+SHA256sum: 0d5e3da22f62fb8f0145214b3d17ea2dd1444c940688374cad5fdb9ed16c72f0
 Size: 860
 Filename: enigma2-dbg_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -280,9 +280,9 @@ Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, dm900-branding-d
 Section: devel
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 68b9759784a8fd4f5488824dc3dfb718
-SHA256sum: 3ba63b3d9d7d3f597604e23b9792e555232cbf4ed30dee55ca7535328d4e5c42
-Size: 97972
+MD5Sum: 6200875fe0882222e02668ffa5682f90
+SHA256sum: 0f56ce01979e594928fae48a94414de07375c820864eee917a3c173aa5eb2969
+Size: 97974
 Filename: enigma2-dev_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files
@@ -295,8 +295,8 @@ Version: 2018.08.15-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: aebc08a59c40e3c6b0fe85efcd378d8f
-SHA256sum: c1b6baae0973617d9384ef7f4440e3ccae6fcde9e43138892df9c4ec33fd5d0b
+MD5Sum: 99803d52c05a5ba02e1eeb3321f5a713
+SHA256sum: 96e70daf819aa27cf3516d5a6a9da0b06be0cc4fc09093b5b5e3e2d0dee9294c
 Size: 793228
 Filename: enigma2-fonts_2018.08.15-r0_dm900.ipk
 Source: enigma2.bb
@@ -310,8 +310,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 739063f94d9e7561d4842ec5cc443c71
-SHA256sum: a108cb4ce3c3677ba5928e0381e3cd0401e1cc5ff9b542329d8e5854f89a5c86
+MD5Sum: 26bca5f7d98ac8d802e6a2392997ffbe
+SHA256sum: 3b91b0c080633032ed3f576099cca563275448aef8324d3dfca6fdf7fa864972
 Size: 4000
 Filename: enigma2-meta_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -325,8 +325,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1dec0e92a8a9486dd4bdae31dfbd9e0d
-SHA256sum: d63034bfa6dcf63d2461b64b61cdfb98ecd51312c8e8ace4a067597160ef7087
+MD5Sum: 4aa6a6d212bcdbd74028c43414f67c20
+SHA256sum: 81ca5319394d7aa64724d6406c1e960dd197af51cf163e4161f63f081fdb6771
 Size: 5278
 Filename: enigma2-plugin-extensions-cutlisteditor-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -341,8 +341,8 @@ Depends: aio-grab
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a4063646bae7fd02199e782db3b5b261
-SHA256sum: a5d36f6eab41377f58d68e470ee662ca1edc0db6f472e4233bca107915ddc5cb
+MD5Sum: 03289e717a020910d9e29c83314c9331
+SHA256sum: 19a17a9f1a82a26b99f97dccb0e9f6ba53a6228e91eb2419474e171dc2630612
 Size: 7644
 Filename: enigma2-plugin-extensions-cutlisteditor_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -356,9 +356,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 456bd2692ab0c96137a9021928d39b02
-SHA256sum: 34b6079b25f0553dbc19bb79824b9750d34261d78bbd74e8624c89b645998a60
-Size: 21734
+MD5Sum: bf89784e16233d987cefd4fab9c4cef9
+SHA256sum: 668af45a164563cceffc8c56749d2579b49a4465bfb1cc7942d1c53a170bf9e2
+Size: 21736
 Filename: enigma2-plugin-extensions-dvdburn-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn (sources)
@@ -373,8 +373,8 @@ Recommends: kernel-module-pktcdvd
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a409bde72bba29549d03d9f7ddfa3e45
-SHA256sum: f3db63b8dd8f6dcd0f5ce5c7d5b1008a4028e90a58a08bd98605f67f159659b6
+MD5Sum: d3a140e3c1fc0c976fd40b6402ace6f6
+SHA256sum: c5c5873d8099798201ac8e0688e87059cf664cf53df196c489734a2deb098322
 Size: 796568
 Filename: enigma2-plugin-extensions-dvdburn_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -388,8 +388,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9f91893ebae2c65b9255fa868ebfe5d9
-SHA256sum: 2aad5ac63156951a12a3fdea6a54480c02d008c507adb45065c66f0d8dfb8f9c
+MD5Sum: 6c50aef7682e8259035b7e5981101956
+SHA256sum: 0c2762c0102dc629a2d6ab1199557f1b48225ced9c3c4ebbe87d9715ddd27d62
 Size: 1888
 Filename: enigma2-plugin-extensions-dvdplayer-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -404,8 +404,8 @@ Recommends: kernel-module-udf
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b6d9feafa22104692be8188b12853099
-SHA256sum: f6aa872e9af73ecc4e1bcbb23387e2b57c43471ac8f31dd3df5485e6a6a6412f
+MD5Sum: 49fd368af13222e46935e6b4a3193815
+SHA256sum: 5baca52e86367452290511c1382336a2f5fbbbddcff3385f1bf986adce4e9ed4
 Size: 2620
 Filename: enigma2-plugin-extensions-dvdplayer_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -419,8 +419,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a6d8b1a5cf93712f922c681231dd6c2a
-SHA256sum: 321197ee8c378b68790063407fe84fa1541402fa83eb168e6bf193eebaa71b3f
+MD5Sum: 0e3b9f17a6fb6a9662d5cc039831be51
+SHA256sum: d927faa5aaf3bc2cd423ab8983d64e61358414bcefe658eca2f9acfc11877aec
 Size: 14768
 Filename: enigma2-plugin-extensions-graphmultiepg-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -434,8 +434,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cd6375ac13630d3084acb9573ba7b7a4
-SHA256sum: 437efa78af794bdbeb7696c670da689f8f1a7aceb9b5ca3943d81b456e857fa6
+MD5Sum: c559be89bc95cbdd6763d2a2914fd84a
+SHA256sum: 12c512e027ad261c7b47c876c8acdf21e693e421377dd42e8773ad79160b47a8
 Size: 21998
 Filename: enigma2-plugin-extensions-graphmultiepg_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -449,8 +449,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b273fb74db20123ca1647fffe237ee0f
-SHA256sum: b8f0e05ef0805eed031fa43636647a5b1854f773386d0d786ef59131bb230757
+MD5Sum: a141a2551de296d4b98b243dd7830813
+SHA256sum: 3fbfcea3ab99bb104ecbb5fc3dfe7750b30c3fbba5cd4ff7a89ff0bdaf67c40d
 Size: 11106
 Filename: enigma2-plugin-extensions-mediaplayer-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -464,9 +464,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 74f4d8e72c2e7dfa98b6590e4319bbd7
-SHA256sum: af2b34e1127917bad7163df5904f45d858ee2ebd0df374d190e9b3b2f7da9844
-Size: 20412
+MD5Sum: 810e6e2c765218fcedc94a7c83ae038a
+SHA256sum: 9503a60e033032b973a3b9f89865db286f3cf8f4df47986221ac94b64c173a4a
+Size: 20414
 Filename: enigma2-plugin-extensions-mediaplayer_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer
@@ -479,9 +479,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3ef85df6bc8963f9da2b48491818f6b4
-SHA256sum: f9de1652dd4d305396839ccee13e895278a50d1f28820246065221c8349559b4
-Size: 1970
+MD5Sum: aad86e0af745b259865d31cc45707fd9
+SHA256sum: 4286b9860d4c9f1a10a124f0fc80f3ec3d73e1d331c17ea59f93bbb91b8b6135
+Size: 1972
 Filename: enigma2-plugin-extensions-mediascanner-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: extensions-mediascanner (sources)
@@ -494,8 +494,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fa0855a9273e7b97b8c65086429fa988
-SHA256sum: 4e762abeebbbc3e89d2251c4834c3c792bac735258c03bcd88e2cbab3a25c650
+MD5Sum: 8c1cbb188476c3f79ee1c4be3b3bf60e
+SHA256sum: 952b3b3de00e68f63494e0a2b0af5a10c39847cf77c0c50399c74db5c397411d
 Size: 5318
 Filename: enigma2-plugin-extensions-mediascanner_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -589,8 +589,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a129d49da90f69fe3bedf865aa39a0b7
-SHA256sum: db95ebe5b15a3ffa45669c05283a0955431e8cf5182c93929bf46c37674294f6
+MD5Sum: 39d2f6d0ccd91e60e62f32579e9b2fc0
+SHA256sum: 6cc74a5ac500557d95903d43b362dc1c97cef361d7f166e7b93c080b57f4b30f
 Size: 6558
 Filename: enigma2-plugin-extensions-pictureplayer-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -604,8 +604,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 43f80f490565be39c1a42c3ae190c81c
-SHA256sum: 724b20886ca4eed25a72de3a93fbbed61f2ec4c4ac68af5deaabd65b5d864409
+MD5Sum: f9bc543337da0809a433010dab2d7d8a
+SHA256sum: 85118ebccfe3093a1506c4f32320df6b22ac75e42ce3d837055b545cf46785eb
 Size: 13186
 Filename: enigma2-plugin-extensions-pictureplayer_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -750,9 +750,9 @@ Recommends: libavahi-client-dbg, libavahi-common-dbg, libc6-dbg, libcrypt-dbg, l
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: be33b5acabe463962af76ecc317390a8
-SHA256sum: 1ff34e289483e11c3c8fb87c489ab6700ff9fb28be6c7f8da01e746c8ca7fde2
-Size: 9803522
+MD5Sum: 356b58783845be1ff6cbd60ec4ff4c7e
+SHA256sum: d5bcdbb070bc11918154d2f1820cf5d0e2e2af88d1811e5970bee269ae42abef
+Size: 9803524
 Filename: enigma2-plugin-extensions-socketmmi-dbg_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (debug)
@@ -765,8 +765,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 875ccd9f037416d9d7d3a0d7029319c3
-SHA256sum: 5d61483fc13f71c24c302cae900167015011ffc18ff73812d0869d6c558009ee
+MD5Sum: 7ad399d0f9d4098a28ff0ffc7f57f979
+SHA256sum: ae000d84373bb5b2519886b233d43af0a6cc1ad2a25e804814f9b3af968f66fc
 Size: 1496
 Filename: enigma2-plugin-extensions-socketmmi-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -780,8 +780,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8ffe505c3a9b0f143f0ed59a00cf8e7b
-SHA256sum: c2290dc78dfac710c1616e3976d6197f63d21bc4f33ffacc23d84217309f8810
+MD5Sum: c6fba9da37eb7d3a13399d355b3e413c
+SHA256sum: 6ca7c5c93dd0c080edcdba991b54a4cd3c3fe7d00fc415ae757d84111e8c85cf
 Size: 273470
 Filename: enigma2-plugin-extensions-socketmmi-staticdev_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -796,9 +796,9 @@ Depends: libc6 (>= 2.31+git0+1094741224), libgcc1 (>= 9.3.0), libstdc++6 (>= 9.3
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 34fbd1709236fa020c480eb575ba355c
-SHA256sum: 37bcb5f83ed557d4adc304ca17f0d01ba124f56ede2886e906427b75ca58e6d5
-Size: 9418
+MD5Sum: fe08634289c58e025f7bdeafcd519cfd
+SHA256sum: c44e66a6ec1678404895b41eb9906d6f0c385d6a73463db8ede448d2cd7018a6
+Size: 9422
 Filename: enigma2-plugin-extensions-socketmmi_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi
@@ -811,9 +811,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fa2f068c79c197218dcbe5f6d4d0313f
-SHA256sum: aee10b2a707ec9492764b95f016e15230ded005ccec7373cdef1d841f9ab6131
-Size: 1546186
+MD5Sum: ff83a25f87798850d22daef15396b4c4
+SHA256sum: c12af552d6f6c4cb9c51332f54dd13ecd289779d62f1007ecea18909b1f1d791
+Size: 1546188
 Filename: enigma2-plugin-font-wqy-microhei_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: wqy-microhei font supports Chinese EPG
@@ -827,8 +827,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4838079600c0bd566e52caa5cea8a82e
-SHA256sum: 370fdf4e7c3b823fef94f6d67a8f279898289685a8ff47680f82eaf5defa2554
+MD5Sum: c47fc4e83309b8e08150a98f895fb2c1
+SHA256sum: 4e6194bdec2b3ebffe44632e6e73bd2cae6aececdb6c9134a5892df30a0864e6
 Size: 34942
 Filename: enigma2-plugin-language-ar_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -843,8 +843,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fced0a1dedc98cb233d9d573bf62a9db
-SHA256sum: b03240b49cb40371c3118e3f92d276b98229fac94971937698325153895fedb3
+MD5Sum: 458c29f45c98d9136ba7f809136e93f3
+SHA256sum: d0672a2326daff4395c6e4d9d1d1ece65dc7115f4b6058a67a11cbea2e9f1b76
 Size: 90116
 Filename: enigma2-plugin-language-bg_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -859,9 +859,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0e63ae75d7c9b945c5f5b1e1893c6091
-SHA256sum: 83f50ef155bf588c7f4ff1595c297a26e164ed4fee421366da62c315706c9461
-Size: 85222
+MD5Sum: 8098a8d8b2c327f0afd7439481e0c76c
+SHA256sum: df61bfbf30c1ade81281702d9676a1de7e53c75561e2112c10e0eaaef0214e49
+Size: 85224
 Filename: enigma2-plugin-language-ca_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Catalan
@@ -875,8 +875,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4f91dfd3e5b1474f2b3d2d6d2a8806db
-SHA256sum: 832f3dafae2058b52ba12b27dafc58a79e4ce43ca66625b67b2a506409792f7c
+MD5Sum: da0e5aa62444a28728e42edbb3f806eb
+SHA256sum: d38e3fe5bce1e6baeaf1c2de567a23c39361197dd0d2e572db37d18ae89de111
 Size: 85440
 Filename: enigma2-plugin-language-cs_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -891,9 +891,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7f0a3de2cc902ba5cb044a18a1c2b58d
-SHA256sum: 9db066dfd5bc836d05d23c561fffd8aea1ca05726d90f944413c3a3dae9feb1f
-Size: 58458
+MD5Sum: 203860e051d93c1d34268eb5d21f12b0
+SHA256sum: ee6672b172d009f9a69b44944cd4fadf5b85cd4844661d6bd8fbaf469cf848a1
+Size: 58460
 Filename: enigma2-plugin-language-da_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Danish
@@ -907,8 +907,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6070d82be78a5c66d6d4ab1159b32d32
-SHA256sum: d5cb3ecccd9605c9b2dc1f4064902c49e6f93c7d3d9fa7455a54b6b3a75ef3bb
+MD5Sum: 153d8f291f6d0e70e8eed1c75280708a
+SHA256sum: 965181097f4fbd5ad92cce97357c8982ec88bb78149a96ecbcb0c7d943e97714
 Size: 84526
 Filename: enigma2-plugin-language-de_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -923,9 +923,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7fa04b0a8e22d4307c3c946d1b9fbc1b
-SHA256sum: d8b6035895f622a18651b6ff3ba567c60cb2132f9b40baaa3b45cf71f1c5331c
-Size: 92962
+MD5Sum: a6bbbf488b3c5d6b8e5ca21dc238d383
+SHA256sum: 0632e7d77515fd403a4180d73c9ed688ecd0b11b7fa6d8bf991648aa40e5bd59
+Size: 92964
 Filename: enigma2-plugin-language-el_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Greek
@@ -939,8 +939,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 279c20be2b89aec28d386ef815880ade
-SHA256sum: cbaa24a3da85c367f284db220b55e60be843eabc1bd2de320680335fe75f06b5
+MD5Sum: 4208ce6355a967bc70f63ce6d3d9db21
+SHA256sum: 7eb1a3bb1e6dea5bd7126ec8ad176c94bb85f4307e23e7d6a34785e5bce882f3
 Size: 28954
 Filename: enigma2-plugin-language-en_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -955,8 +955,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1330f09eb3910dc8cb1df581b22bd785
-SHA256sum: e34874ace0d17665188a2d08d2b03340b47cd6a66f3b661d2e9c8423827ede47
+MD5Sum: db3ccfa3433877b41a666d882b407d35
+SHA256sum: 790dd272527f5a206b8a152f40778363265e0d02d3db2316d9da2d1aced97260
 Size: 85116
 Filename: enigma2-plugin-language-es_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -971,9 +971,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9b4112ecb4273d4a8a1b3abdf41df4b8
-SHA256sum: 075bba96fb20bbc06dfe13c3fa3ddf369e67a557f438fdb3caf2829a59888b78
-Size: 74598
+MD5Sum: fcef8613ec346760ee00df37c5c1a9b5
+SHA256sum: cbdd692c81b2732dca67745c087e1e2d5f20d1df5ce4f2abf2fee9b9c22611d1
+Size: 74600
 Filename: enigma2-plugin-language-et_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Estonian
@@ -987,9 +987,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 845bf3715e59e8abbc5e9b1dd65ac0d0
-SHA256sum: f5076e4fca7bea59ff6b1a482c92a25c6141f53484935a164cce82bc6cfb29c2
-Size: 23566
+MD5Sum: 019f54e875417afb3140f4386f94f424
+SHA256sum: 234de74a0231bc5d3df4b6daa00797c0340dac5c81632738e2a2e2d54374fce7
+Size: 23568
 Filename: enigma2-plugin-language-fa_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Persian
@@ -1003,8 +1003,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 82aec3657e4ed47e5f93657c1a91ef86
-SHA256sum: f6e404e6374485a8ec82b3411b1aa15a0922cacdf0bc23f62e0691c0afaa285e
+MD5Sum: 2511a46ae6fed1514a64430edeca82cc
+SHA256sum: 251c03f523c82f5f0673a64dc58d730ef55e475af159d6e6482adea3bdf85261
 Size: 70920
 Filename: enigma2-plugin-language-fi_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1019,8 +1019,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a31a2d103d9603dcaacef73b4bf92ac6
-SHA256sum: 19377412ae5e5f36818c527e32b80e37214af8eba8a3aaec78a02cb1ed88a42f
+MD5Sum: fa003d360bc527b07089301418d2c372
+SHA256sum: ed5d0d8370f59234198c379099b95c0461848ed84d5fed561c6566e7f878e022
 Size: 86572
 Filename: enigma2-plugin-language-fr_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1035,9 +1035,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 786d236a5a4441bbff4e39da5c25b556
-SHA256sum: 39131abf536dc93f7d22bd2b389741a887e6f95c11ceea9fe31e8ea25e708483
-Size: 16596
+MD5Sum: a2121b6c6bf320395f1d3d18c59f3bbb
+SHA256sum: a0dc75e3d53f2b66f130d4676471d7e47036e885ace1bbd266ba4652d351a5e6
+Size: 16598
 Filename: enigma2-plugin-language-fy_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Frisian
@@ -1051,8 +1051,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7f821431edae8580f68200a50dd4a1fe
-SHA256sum: 417c9c2b76fd71d03a65898582af4713a64b24e5921a6aef903e6bcab9af77b2
+MD5Sum: 1a97a893ea20d2fb140c68834d8ba968
+SHA256sum: cac33ebe50c56a12a2bcd5a5974f95aa69e103ed064c13c1bbaf745602fa784c
 Size: 17004
 Filename: enigma2-plugin-language-he_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1067,8 +1067,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d1fb9048044c1751f8939b75a8e8cad8
-SHA256sum: 28c706e1734fe047f17fb520d353942eb1728f780f397e773c05882627a46d38
+MD5Sum: 7ab966f92ab0c2055eba6eaf4f72bfd2
+SHA256sum: ca2fe624e83ef78a9ef41d08be15764a09e7d52010f5e46b86daf732892d8721
 Size: 85956
 Filename: enigma2-plugin-language-hr_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1083,8 +1083,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a91071e049be349b3a1b671187c7daea
-SHA256sum: 1acc05d188b64e3a995e224e3c40e94368f0db83233f382fbeeefe19fdb7087a
+MD5Sum: a552fb933e7cbb97189832522f0deeae
+SHA256sum: fe0eae2f6a1d4590a61291572ed96e59a3ab885231388ff94c3ea323c83215d3
 Size: 87452
 Filename: enigma2-plugin-language-hu_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1099,9 +1099,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e7c172b3baef2f6d580782146d6975cc
-SHA256sum: 618b66c83a4887e4bbd9f70781813ca8fd83514fccbb3a7e2ae536cf8653b214
-Size: 70776
+MD5Sum: c40c8ed3b1d4ac91458505838ce1b5e5
+SHA256sum: 0429da989418baf67f83d744bbabb42c27e8e9248db86f74bf3c11c20deb9a57
+Size: 70778
 Filename: enigma2-plugin-language-id_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Indonesian
@@ -1115,8 +1115,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2ac053777dce17e7bafee7238efbc6f5
-SHA256sum: 9b0064fd58dfdc5d7a30211bafe5bff98b67253757f561412bb20ee1c9f4a2e6
+MD5Sum: df2bdad27e8bedf50f6549e26132380f
+SHA256sum: 21da041bec16cd2f87410be1f59a32e18f52aec13310494b608dab4f0a508955
 Size: 23012
 Filename: enigma2-plugin-language-is_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1131,8 +1131,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7c7a56aa4be6fd6d9aaf776fe54e550d
-SHA256sum: 85a648ec6f62bced099266562f138f076dbc7d0d60f22ed17964367b2c1fde7f
+MD5Sum: fc6025f18796f2affdbee9eddadf186b
+SHA256sum: 027a89ad61cf53abf4d29dbf6513a6b48f78cc381b019810eeef679ddf1aaf96
 Size: 81720
 Filename: enigma2-plugin-language-it_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1147,9 +1147,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5c243438ba9dc17ffb4d1ae991dabb16
-SHA256sum: 04f13baea7462be7513b3826f935e89e6f54ae7671bb06f9f1ff8ab3cf158169
-Size: 29886
+MD5Sum: 33b1b2f2381093f901e3db0c6f4c811f
+SHA256sum: 6af2e0291dd4cd39e77c58b958d5951228a51a9214e477499e539956891e313b
+Size: 29884
 Filename: enigma2-plugin-language-ku_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Kurdish
@@ -1163,8 +1163,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: edefcec1630a20d6666c8ddb2438ad3a
-SHA256sum: 7bb3fe59dd1802bd963ac6252a8911bc2648e5e813e968a162a973ae993c0018
+MD5Sum: dac2f22f117d96c4ae8d8d4d3acac369
+SHA256sum: f697f9e88137711e5787de59be0ea62391a12f4e39a1edd7132fd28738e2fdf4
 Size: 88416
 Filename: enigma2-plugin-language-lt_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1179,8 +1179,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 510e944fb753ae54009a72336abaa65e
-SHA256sum: bd96473748b81240136300e56b2393c9d06a02ebd66966c7905066263a617076
+MD5Sum: 8042fd7f3101f8106196b6f650491c2c
+SHA256sum: 3cc9e68e6b351e4d5f9e03fe7ea1548e76a7cd96058e2619c14ceaa2eb15b980
 Size: 81436
 Filename: enigma2-plugin-language-lv_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1195,8 +1195,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f9dc3e3ed2a725a8840d892353078d25
-SHA256sum: f7b9450806fd8035fe804a20e80fb6de9b5bb85c36b5d4f4f57d53d659acad02
+MD5Sum: 1a91e294cb30d7e8690a243e98c5ec62
+SHA256sum: af0c4e66353fe39ca089a18c6b88cad18195aa9ae2b37100d5c6090efea7b76c
 Size: 81966
 Filename: enigma2-plugin-language-nb_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1211,9 +1211,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 96cbf442bb2c2037655a46f7fa01ea4b
-SHA256sum: 2f24346f26a4d4e42a4b4598d4f47638eb6d7d315737fb9fdacffe6a98ae7b46
-Size: 89242
+MD5Sum: f36cffbc3c913b10bb81573f54ff3f49
+SHA256sum: cc2dce3619f74921893e0193fc45166cbee0e3c337f426755720ac1ebf8f2f51
+Size: 89244
 Filename: enigma2-plugin-language-nl_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Dutch
@@ -1227,8 +1227,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9262dfa8d2745f482a97d8d8083bd916
-SHA256sum: 4b064394b2842bb2fbdf72532eaf55da65e3fa42b1df9d0c519a63e7b9f3543a
+MD5Sum: 58da4964dcb68071f214f4ecb718e70b
+SHA256sum: bf2348b1b2ad1c1bbe60dcd105b499f37a968547be8677e8053adac7bc1e8f49
 Size: 44768
 Filename: enigma2-plugin-language-nn_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1243,9 +1243,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e34cd4135179c759b98fc69030e825bf
-SHA256sum: d50459061fb07f57d8cfd62c43d505dcde74c7bbea08a29a4fd7fc04d557f3ff
-Size: 80682
+MD5Sum: a15646e8e0871b26a020e7bb06014de9
+SHA256sum: 6a612d4bb568f7020ffc0ba212b0d933ff0141de1d1e96e43fc446895744eef0
+Size: 80684
 Filename: enigma2-plugin-language-pl_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Polish
@@ -1259,8 +1259,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: efa6e37c3103587cbea2188646d2b450
-SHA256sum: 1afcd6712dae017f9331c4946c19c6ea6768f16de51ca69c7419198b14a598b0
+MD5Sum: 2b4a91ff78c9101d8d4c014e46fc268a
+SHA256sum: df7be8d4cfc3b2de3ed59038c01fed7522dcaa3aa073af618ae713756cb529a6
 Size: 44502
 Filename: enigma2-plugin-language-pt-br_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1275,8 +1275,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 08a0728ef00c346cdf4fcedf4c71616a
-SHA256sum: 357656272dba2f5fa08726382a288faad85cd1bba77aadd1f5c47f0bf1969640
+MD5Sum: 559d9464c531f8b81aa3c30e70495304
+SHA256sum: 32b2c55c886afc6faeeaea70f257ddc8b94b8b2bed33b1ec57522fa04c77aec2
 Size: 42074
 Filename: enigma2-plugin-language-pt_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1291,8 +1291,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8e7985057c0e2707d70b040479eba803
-SHA256sum: df465c840409d132ad5463120e61044607860b73d5284b1d30d22b6dc697656b
+MD5Sum: f01d5eb543810726b5e2d4d92cfbcf33
+SHA256sum: 48c28dcef9adf448603e68868fa819e4c90f26a1ee71f6acba798bddc18100d3
 Size: 17804
 Filename: enigma2-plugin-language-ro_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1307,9 +1307,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 143699abb39d1d81461e8e10c53f1ab8
-SHA256sum: 70964cf3379f4af87edfea58e165291174903fc06276fe31189f7613613e5987
-Size: 90722
+MD5Sum: fc98b389caea20bd6eb995e7c59ce783
+SHA256sum: e30cb3d9b2716bc5e73003099fe8f593da42eb784088399efba87b79a171702c
+Size: 90724
 Filename: enigma2-plugin-language-ru_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Russian
@@ -1323,8 +1323,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: aa92e628beda0a019c9a721b0986371a
-SHA256sum: eafcd90f95eb1139989a2d3d4d7669b5d50430f593f9ff139b652e687b7cc7fa
+MD5Sum: 4dbddb25c98ac75c66f8a243bb9b4d5e
+SHA256sum: 2ce3ac5b095e8b347bc9ed81f3d0f323bda21ac47b84f00a2c807fb987ecf6fc
 Size: 87648
 Filename: enigma2-plugin-language-sk_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1339,9 +1339,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0dcf3c9f58387b3c1144fc67632641ac
-SHA256sum: 853e95871f48b95bd65fb975f1e190355092152b4d701de5a73e730e4ade353c
-Size: 51332
+MD5Sum: a3c24fbda8646e9283d2e0b3fc2ab487
+SHA256sum: c181dfdb50bbf0fe6dfc83602cdb3dc300097673f433a20a0723dadc24000dff
+Size: 51334
 Filename: enigma2-plugin-language-sl_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Slovenian
@@ -1355,8 +1355,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fec242b6b6e71301930b4c5501036455
-SHA256sum: 7f53027d21554cfb613203c076881fc0c42cc41e91c3cbfd01f2b953430c3efc
+MD5Sum: 77f1ffd421aaadbf4a8152a69d3f0951
+SHA256sum: 143fcf0c16d68b9fc00bc96b5277617b7d3a8d1663229a9c9662bbf83730dbce
 Size: 23118
 Filename: enigma2-plugin-language-sr_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1371,8 +1371,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: befd07ade2f799dc3432d3491efc5bc9
-SHA256sum: aa6bd5123bb7d78826b99480c1b11fab544a72cb8350a48ab60007e1e6dc8461
+MD5Sum: fe69b05275b1c8b4f51ae42758010723
+SHA256sum: d8b7a912cb9a7bf288738372f920a039bf757f344be3b91eba44d92a1f557344
 Size: 59732
 Filename: enigma2-plugin-language-sv_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1387,9 +1387,9 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ff186a82d5640238fd521d45b22ded8b
-SHA256sum: abeed6fac60313577478dc76a29acef9bcadb64770f93be3b5658038948f854d
-Size: 21370
+MD5Sum: aaeaf685077e4d45f128a16397f86ee6
+SHA256sum: 31ab85ef1c5c565ce4eb252b0bc97ec4a9fa9979d6af12d78a6d8909b97329e6
+Size: 21372
 Filename: enigma2-plugin-language-th_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: Thailand-Thai
@@ -1403,8 +1403,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2edd5cacc0bea4fbb846263e3111b322
-SHA256sum: 5f5250401ccc42f501a3cdb8c15de8c364a2f1ac653184837636b6fa9d613a70
+MD5Sum: 613b7d106d9ee227e69a71c42c433f71
+SHA256sum: b3bf8ffeff1010d9e4ead3b3012e79c44891524c32b64cf5b093c93644aa1c85
 Size: 57628
 Filename: enigma2-plugin-language-tr_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1419,8 +1419,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ae8ec6b842d97a16d595d3b1649803c2
-SHA256sum: e88a0d6a8170ee4875368dea83be17f77ab1c760639b60b4b536df3f2a209249
+MD5Sum: 0da23b64886c84bf4f3da9217ff3cf72
+SHA256sum: 4e9b8acc1f9fc1d7f32ff81dfc8b89fcdf573417b193545c985d9480a7748e35
 Size: 66740
 Filename: enigma2-plugin-language-uk_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1435,8 +1435,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d75c7060c65bb5859e808af74f46f965
-SHA256sum: da3e87bc2221885fc8510c6fc4a6406a7de87536d4e50260e396fbe8574db9f3
+MD5Sum: e9f27ee3e8f077098ecf6a2e06d6dffd
+SHA256sum: e1132c4e87f1cba688847d5076427332400c42174cfa8ef5336d747c3c31188b
 Size: 83688
 Filename: enigma2-plugin-language-vi_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1451,8 +1451,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0c70f37ae0a70fddf3b6701bbe9af9f5
-SHA256sum: 81f1fafc26e2ca7ac8ea658dbc9d1a52083e717e0894c8db361790da5f563842
+MD5Sum: ab091e2d10eb7a80191777fa47ccdb7e
+SHA256sum: 5f9475d94baa1648f15261c4d7ea88c807c1b73c7d2ed19b2f36079803df2eb8
 Size: 74686
 Filename: enigma2-plugin-language-zh-cn_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1467,8 +1467,8 @@ Depends: enigma2
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 59ae2cb077a7086e0ee5bf8ec09fcb0a
-SHA256sum: 881919a8575cbe5e49027623e5bdb30b96eb00cf6c134ae09638495abbd0669c
+MD5Sum: db42cd232fcd70a245491974613b532a
+SHA256sum: 87a8bd13c4beae4b7bca66e4547833f80bc6e371342efd3fb904b993fb302b64
 Size: 21184
 Filename: enigma2-plugin-language-zh-hk_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1688,8 +1688,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cd47e01ee45180c9f61d49475ea3fd6a
-SHA256sum: 0578352a228e54c544a891cfcc9ad9405aff0cc50d0c4537d7e8bda7a9b4c1f3
+MD5Sum: 93fa996580e04c3e81d5ebb6a413a0b3
+SHA256sum: 3fce7df091194f765dcff6f483f4e6189b8b4ddcd93e30e8611b4cae883de22f
 Size: 3916
 Filename: enigma2-plugin-systemplugins-cablescan-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1703,8 +1703,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 964bb086194cd8c523339767d4201e5d
-SHA256sum: 1dc76f90653eba995fdbef52d75ff03d47872d44a379f6b86bd7982de9203feb
+MD5Sum: 4eec1902c5e00db1e062324737db9398
+SHA256sum: 9cbc430173ba5275389299ebd700e445506f86ea72e6738e99f91093a171a47d
 Size: 5798
 Filename: enigma2-plugin-systemplugins-cablescan_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1718,9 +1718,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 857dca8c7b9cde82b6ebf2c1f8bfd3ad
-SHA256sum: 422dcce7fd6c74e730a62e244ed25c876959ff237713f91fa2a4f7ceede66f82
-Size: 6234
+MD5Sum: 3175506e39f68e2403ec80744b1fa832
+SHA256sum: e39d89173b156a34e95d2c36973844f83f0ffd4503ee7a01789ace2438ede34d
+Size: 6236
 Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment (sources)
@@ -1733,9 +1733,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b10d3396762915ee38367f7f5ab2f065
-SHA256sum: b483159b293cc0a3e5ff7399c313e95af77e8d0dfd3ea55caf154aaa23e71224
-Size: 9644
+MD5Sum: 04757dcb97b244af4fb71273d17923b6
+SHA256sum: 6a8ef0c44693e9a61be7ad42ff4e4a4fecf4a04c64b5a88bf7148b59e5252a40
+Size: 9646
 Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment
@@ -1748,8 +1748,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fa76ef51f8499e325d67b3f9cbb47824
-SHA256sum: e9bec167a1166bb3b510ab4db5392e10c9acb81424ec18822c2c6d871de7ba9e
+MD5Sum: 256d2394753145c0ff8b16fb41e6140c
+SHA256sum: e290376946a57a824bda9e4c09ea772b9d3c16af5df34c7014b5e0418854a5c9
 Size: 2566
 Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1763,9 +1763,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 58d6f1d5bb8383c685ea67aa4cf031cc
-SHA256sum: 7585bdd119762f37992156eb51b6f7343a921bc8ba18dfd6e2f5749fe88963a9
-Size: 3358
+MD5Sum: 525e6b425b4e2de7615823277eb50940
+SHA256sum: b7968a271a3436e57e4d412139784db35e548782893ac6b0000c0e128d48195c
+Size: 3360
 Filename: enigma2-plugin-systemplugins-defaultservicesscanner_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-defaultservicesscanner
@@ -1778,8 +1778,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d9bbad58787d8871a8bb7709321f6db2
-SHA256sum: a17038a6fc811a57f43d1dd4df2c7be2c2939bc1a51df553b3657369f746990a
+MD5Sum: 6c76a9e167a760560705df9518a1302c
+SHA256sum: a52c6356bf376024abe6c1eab80ff3f25da4db6779710323081eb2a176ce77ad
 Size: 6258
 Filename: enigma2-plugin-systemplugins-diseqctester-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1793,8 +1793,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a18ad91f45121bf04a9151665dc58bb9
-SHA256sum: 7069e6523deaf5f44b69edc5db7027f76b3d71cae2b51d738237ae4e9c07735f
+MD5Sum: 2c427c5d5980add07957abc652b783a1
+SHA256sum: 209dce0f516d2592ad688d7a42e1a85a54bd78caa98935aec3fe27536f00a38c
 Size: 8816
 Filename: enigma2-plugin-systemplugins-diseqctester_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1824,8 +1824,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2543084e4b06fa4c73dc7ea252e27932
-SHA256sum: f4dbee0e9c73dc72dde56d1aad0371f21231a6f9b82b9319faa0407d6220cf7e
+MD5Sum: 76bd80d10ec6107c7c279b7ef744f2bb
+SHA256sum: c09a768b0918f6a2085b7e87a9156824d305824c5801b56b6211039d5c53d3a3
 Size: 4964
 Filename: enigma2-plugin-systemplugins-fastscan-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1839,9 +1839,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c105935ac0d27f1f2dca8b812ee0884c
-SHA256sum: fc50a380792a803c65752dddf6538e19ed6901d1f94e8d12c52421ec247f8f9e
-Size: 7520
+MD5Sum: 2a3462cd1c0a4eb19e1cf6f55de128a4
+SHA256sum: c8e64273b646caa4d49efda417e10d4a581aa3fc7321c8b763a193c3e634698b
+Size: 7522
 Filename: enigma2-plugin-systemplugins-fastscan_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan
@@ -1854,8 +1854,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 570611764fea84fae6e02b1ff74df2df
-SHA256sum: 9e96f9d9c5d88fbafc615aa81c2890f7f879803d3555e0e2d5b4332a1ad3e0d9
+MD5Sum: 273b4b8bbd23230c185490a159dfcca2
+SHA256sum: e4179e3cb2e8d6dad46181fefc6c0869630a852ce8d4f85f857d7a0e029ca16e
 Size: 2772
 Filename: enigma2-plugin-systemplugins-hdmicec-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1869,8 +1869,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: be6c019ba5b7529b38576163e00aeba7
-SHA256sum: 1034f3bb075d708916f8a0d4acad1fbecdce5e1112d37a5c40e1996b0c5e9484
+MD5Sum: 01619cf28446eb9c103c33320f521100
+SHA256sum: 32d528564125a5370d3d0bc76bcc06b15841617c3c78a11cbd5cc9cc7e68337f
 Size: 3798
 Filename: enigma2-plugin-systemplugins-hdmicec_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1884,9 +1884,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 583753d7cc413378be229b583e918c99
-SHA256sum: 0aa6eafcf3c461ae8eb38ca48593155cf6b04a9ff5a01254f146eeec606a04f2
-Size: 1970
+MD5Sum: b67dbc7b8d2ce200cc4ee2da619b2c7f
+SHA256sum: 0226025dfe65a78bd77ce6dfd19f5923e632ea0e7147159a94d36fbc8daea648
+Size: 1972
 Filename: enigma2-plugin-systemplugins-hotplug-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug (sources)
@@ -1900,9 +1900,9 @@ Depends: hotplug-e2-helper
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 40a5ca344698883acc4b20e7ec8b6555
-SHA256sum: a1adad97e2086726309330badf9abf25fc78f6ac167eccfb59ff2cbed9d7ec2b
-Size: 2510
+MD5Sum: 9efe1a9123489bb184f7695e5bd3b2d7
+SHA256sum: e29fb2856c32e39e03b58ef3f0cb016acc58e9d15cf6d2241c3e6968e3cba1f7
+Size: 2508
 Filename: enigma2-plugin-systemplugins-hotplug_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug
@@ -1915,9 +1915,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6a7f226d62817b144b8483d1ff6fb044
-SHA256sum: 3dc9dace74b9f608bc00c7655a8f5f963dc92024fe4eb0bc871a673a5fe5a4f7
-Size: 4244
+MD5Sum: 2a0b3b774ebc0bead1fb1a2908189fbb
+SHA256sum: fbd203265741b641228a24b4b04af939767026452663900d785e93a1a21b0129
+Size: 4246
 Filename: enigma2-plugin-systemplugins-networkwizard-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard (sources)
@@ -1930,8 +1930,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d1b9edf77e1c84ed0e5f0bff3a832617
-SHA256sum: 67b9865ef389dad17c5b429873f6366e556ac957062c2b4158dbe2b9947cb1cd
+MD5Sum: 5abf52be621b22710b00ae6f09e3ade8
+SHA256sum: 684337577f80f2212a203f64d56f99738456b751ef3874562a81339d3256626b
 Size: 7292
 Filename: enigma2-plugin-systemplugins-networkwizard_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -1945,9 +1945,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b376241618b63f9745c23cbe9b14f5a8
-SHA256sum: 98f26b7f0a540a791878a3a693b736e7d9ae6a447112c370e6b105c068439960
-Size: 2458
+MD5Sum: ddfd2143af7b7f2d1dd8852867bff0a7
+SHA256sum: fb78d14850c799cf008c0c4ffad1b74fdfaf2fc936996f73271607e8098f6c8b
+Size: 2460
 Filename: enigma2-plugin-systemplugins-osd3dsetup-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup (sources)
@@ -1960,9 +1960,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f22967f44fd42edda8a08fd6b99dd375
-SHA256sum: 50a4ff37c97bb2811f8936f988aa2fe76d6131238d966d0aad9da710d1bee069
-Size: 3454
+MD5Sum: 4d5e477b6c29501898ab2f2818b09c4d
+SHA256sum: b1fc0ee2e7dfe010440178eb301f04a0de581fab532c4b5e51293d26fcd79855
+Size: 3456
 Filename: enigma2-plugin-systemplugins-osd3dsetup_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-osd3dsetup
@@ -1975,9 +1975,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4def66dbb400542ed0cc0d98d3b64830
-SHA256sum: 22ed007da20772fa281b2bea0c1f511c8f8a6bbfe52617e88af794eb895a1de6
-Size: 3976
+MD5Sum: 2f0f29ab454a738cccc6e3c8f55410a1
+SHA256sum: da1ee5ea6cde66b2af95f7ac182b3f1c0f061a3665ac75cc7a65b1d1fbce04d4
+Size: 3978
 Filename: enigma2-plugin-systemplugins-osdpositionsetup-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-osdpositionsetup (sources)
@@ -1990,8 +1990,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3f3409ef515927bc9f3915846648c43e
-SHA256sum: 6371789a625f3ae916c3efb4a57498f18b60552ba9e00d8a3531b3aa64487eb7
+MD5Sum: 2012ca59680150046ada8bb1d27f34d1
+SHA256sum: 7d3315147ec3d6671929211f8a410c8c40a394efd67975229f4343809a5d22d6
 Size: 5450
 Filename: enigma2-plugin-systemplugins-osdpositionsetup_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2005,8 +2005,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 27e4d95fd46c0055295a80a04d3c96e7
-SHA256sum: 306bb86f7ee6d76f64f8c18576126c4acaf521e2285a4fd4b45cc4500b3bd55b
+MD5Sum: c041771ea46f9dd1b543677c51b120c4
+SHA256sum: 75a78e7f815fa8713fca2d8a43769a49de8645ac9cc1e7e69e51e25756ab5be1
 Size: 14452
 Filename: enigma2-plugin-systemplugins-positionersetup-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2020,8 +2020,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b3382b376a7f223a7cf9447491e17ddb
-SHA256sum: 6261436c6f7786f8c9a7318646efa71f0f421e3da11d1c786acaa2ce58526b33
+MD5Sum: 22b56e211c5bb25fa0469d37d6a5be72
+SHA256sum: 3c8a30bbd2589aa1fcdabdf3f72455e1e5fb6ad5371ed733c235293f6a887b8f
 Size: 21132
 Filename: enigma2-plugin-systemplugins-positionersetup_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2035,8 +2035,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c34ea7d2007e1b25e40fa05a56456837
-SHA256sum: 76f0b95bee59907b57810ad699840205cb3791ab234f039a5de5d32d82d4fd16
+MD5Sum: 0422e9c6be29d77ce7939603b0d9c836
+SHA256sum: 1652bb2b1a2d4ae4d33478583ef15f5ba17e0de5b99d3f10375fa1606a042dfd
 Size: 2104
 Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2050,9 +2050,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2fe2e4b814fe02e602a4d5341e8930d6
-SHA256sum: 29fb9ffd9bf0d8b6e09d5e25ad222289d72885e658c4dfc66c09a69e27fd0ce8
-Size: 2854
+MD5Sum: f4862c9181843bd2ee2658cc7a636744
+SHA256sum: fd5fe319792d5cfeddc44fd00eb4c7912d7ebfca4e2f640124189309e7620445
+Size: 2856
 Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol
@@ -2065,8 +2065,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f9d4790d594afe3209877ce74f67beff
-SHA256sum: aad59f0d113db9174d37ee157b5dcb8c1ff8ae52ad0de587b9551eecacffa426
+MD5Sum: c834ddd9d47cb092ae6cb8e782a32dc6
+SHA256sum: 5b39602df91020720458dfb331c98531e56bb21c2232d4b41b44d3c2e8439adb
 Size: 6010
 Filename: enigma2-plugin-systemplugins-satfinder-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2080,9 +2080,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1c567c6377a74ac41859be442dec5333
-SHA256sum: 7fc1483759b782b5e2ae5d04d58f3fe67d241ab1710d57dbc2daf280914c7cb2
-Size: 7828
+MD5Sum: 4a0f277616065b03832d163165662c36
+SHA256sum: 8d114bf4cba7ed286687490b2e6a05b142924379e011c2e56bc01d61b371c739
+Size: 7830
 Filename: enigma2-plugin-systemplugins-satfinder_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder
@@ -2146,8 +2146,8 @@ Recommends: gstreamer1.0-dbg, libc6-dbg, libgcc-s-dbg, libglib-2.0-dbg, libgstau
 Section: devel
 Architecture: dm900
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d8e88bf451eff5ab46320d8186dbb028
-SHA256sum: a816f4b2b7bcc0f337389f06eb8967a1689f79d34829d4f7c92059c558253d9e
+MD5Sum: 4c6a509df51449525208eb4353ea35f6
+SHA256sum: 1a093d978ffa4dec5fba57bc4d7efebfcb2961cb01e80b2627d7209051da2e6f
 Size: 528012
 Filename: enigma2-plugin-systemplugins-servicemp3-dbg_git36+5333cb1-r0_dm900.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
@@ -2163,8 +2163,8 @@ Recommends: enigma2-dev, glib-networking-dev, gstreamer1.0-dev, gstreamer1.0-plu
 Section: devel
 Architecture: dm900
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 2539c910d340fdd510f6bee9b0dffaa2
-SHA256sum: 4aecae6330af627e438bb10bdf4198bb2f271c13b961d073b6c9e6c6eb7a8f86
+MD5Sum: 52e8ab847eaa7a338eafe459f9299ede
+SHA256sum: b7a9e3d91dff5d52a9a08b4cee358f648c58f7de755743396019100936864053
 Size: 1474
 Filename: enigma2-plugin-systemplugins-servicemp3-dev_git36+5333cb1-r0_dm900.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
@@ -2180,8 +2180,8 @@ Provides: virtual/enigma2-mediaservice
 Section: base
 Architecture: dm900
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b8a36485700b20a74270c445fcfad852
-SHA256sum: acd1aaf036a57751ba17aa6af37d8c2ea16b795ca14745fe29e99c9d0373f794
+MD5Sum: 3db64f4ebbce5e572b92e57bc700f6dd
+SHA256sum: 891ddb5f4be88f7ade93f526ad597360eaca823c7cd24a71ebb7f940fb27055e
 Size: 44388
 Filename: enigma2-plugin-systemplugins-servicemp3_git36+5333cb1-r0_dm900.ipk
 Source: enigma2-plugin-systemplugins-servicemp3.bb
@@ -2195,9 +2195,9 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3a102f4a21090e96d6ec41a23d69fc91
-SHA256sum: b46de9eff1fa55c0010455a2df3b35a66b8b18904ead56222c1bf736a15cd167
-Size: 16244
+MD5Sum: a88e0b7e9da8b3c76c12a6b8a6aaf6f0
+SHA256sum: f6c1293faecc641919b058b663734d250d5938e816c67087abcf8fabf3e4794f
+Size: 16246
 Filename: enigma2-plugin-systemplugins-softwaremanager-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: systemplugins-softwaremanager (sources)
@@ -2211,8 +2211,8 @@ Depends: python-twisted-web
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e86fe0409b379fc1ff1ea4ed7b9f0629
-SHA256sum: e17a450074b836945d6682e41aba5e77f9304c8a597ffb5bedf054745530e422
+MD5Sum: 073951ce994b5947b0eb333bf200186f
+SHA256sum: c20bac6f7291315262bda7ed836e16bb4a98ac756236770cc50e454b8c87d194
 Size: 42622
 Filename: enigma2-plugin-systemplugins-softwaremanager_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2226,8 +2226,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 943be7144a42d3fd60b0844e725b2832
-SHA256sum: 7399a6999129ec39bab26830bf0391d689955a480f966640f94b2bd647d8300e
+MD5Sum: 7738c9994f7003a9d0dd64d6b463003b
+SHA256sum: a9c3f7bf56bd31fd3e0d7bc264f095af2e88969e0ef6eb080f3a428944e9ba69
 Size: 2216
 Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2241,8 +2241,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 633f8de4feed6d68e970a904c52d547c
-SHA256sum: 69fb27355375699b0ab96e9d63bf5ed45e3188efa1f08c8c0e2e3e46bc89f35a
+MD5Sum: fb48633fc16ef8e68a1d5059de77c121
+SHA256sum: b9bff92002d1bed636301d98c795f9623bd1309bbb6cfd6dd200c6e4e72f1e2b
 Size: 2952
 Filename: enigma2-plugin-systemplugins-videoclippingsetup_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2256,8 +2256,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d7505ad1bd78129fedebc615692cbd9c
-SHA256sum: 7ca38617d342a63bcf02fbae6f4bd9b58e9257235d905abe4a449707b56cabfb
+MD5Sum: c9f288fb4f9bdea2287db86f4c33e33d
+SHA256sum: b253d0c7718573aefb5ad5d645356733e9e7c3bdbb848c5a7548b50a6aa4f7b7
 Size: 5482
 Filename: enigma2-plugin-systemplugins-videoenhancement-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2271,8 +2271,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cf2fb87b41a23edcf3d8a26fbfc56f78
-SHA256sum: a4ede0df28961edbdb15ad56ed7b0afa5029a885093fb00a3ed0ea38b3bad136
+MD5Sum: 7ded3d88b156a4eb6c3f9b5c1843862f
+SHA256sum: af901aea7f23f8fe237a59236cf6e1202e97824e2e056dacac0d5c9d03aaf332
 Size: 8190
 Filename: enigma2-plugin-systemplugins-videoenhancement_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2286,8 +2286,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2595a82a0d6147c2076e63e25b3fe418
-SHA256sum: 8250d4206ce5bae45c8306b1f4228e29f8429021f8926c8a24806c3786fcc38c
+MD5Sum: a63413a7c9d7c57714e5b9cee2492545
+SHA256sum: a6f118b346a3ba2ef849eb37170a6237da03749d54014da6f114b66fb25cc57b
 Size: 8398
 Filename: enigma2-plugin-systemplugins-videomode-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2301,8 +2301,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f4749aee3404a8fb2d680d2b1da80e29
-SHA256sum: c9700455a20f9ca55b710b0d5574ba8273f453ba8ee711402c1f95f9447d3950
+MD5Sum: 3817a2f479fceb57e821c2693382f4b2
+SHA256sum: 3e2e7045e5fe69467d5beec9b7258521d2c06889b9d0c84ff0882c3cf94d8f71
 Size: 57396
 Filename: enigma2-plugin-systemplugins-videomode_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2316,8 +2316,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4c05196e7d06c055db0aaa70be786608
-SHA256sum: d54d5df6f9d2479a01917e348101e7d55ff73b55480e01eda2c7fca07f6e22c3
+MD5Sum: 3ff9bfe35ab923cca7348a23641e598d
+SHA256sum: 8e0e7b2bef6e5be06cb55f5617a1b971a76cf93d8ce439f6cf2ca2f6dcb29d9a
 Size: 4498
 Filename: enigma2-plugin-systemplugins-videotune-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2331,8 +2331,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 436498ff6e2a314a32c76385d7f85bff
-SHA256sum: 01ff1f6d1b2ad0f71cc47ff39c7bd551348c0ce3929c156c6dcc3229d83fda3b
+MD5Sum: efe9f790bdb3043983e84a03086e6e01
+SHA256sum: 8c45ef11d4ec4c9e3d4dc4edb81b0a4b99ad89d22fa1f02547dad354fa6bb1f9
 Size: 64926
 Filename: enigma2-plugin-systemplugins-videotune_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2346,8 +2346,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 58a03f20102957b6bc69edbb14e1ea99
-SHA256sum: 63844e367383c4642d234ca70b10f794c688344af6dd2f1df51e151c6d86f817
+MD5Sum: 6da778d9b9efcf6fa8af8287df839757
+SHA256sum: 6a812ca25d128fb9ceca4eb1fa75087d20281fe21a249889a930686c65202e87
 Size: 7582
 Filename: enigma2-plugin-systemplugins-wirelesslan-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2362,8 +2362,8 @@ Depends: python-wifi, wireless-tools, wpa-supplicant
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: faf3e60e42c3ac1ce29950219a6d5885
-SHA256sum: 08da9fdce1b092b55eaeb97d5caf391235ef2303bb7686f76b8ee115dfb4d193
+MD5Sum: 4573306bdefe5d06bca4e201aa868154
+SHA256sum: 750c2d3e89278e6f0e4e53df2854849e42a7e7126e3db356536d7c4ac9bdd943
 Size: 11104
 Filename: enigma2-plugin-systemplugins-wirelesslan_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2377,8 +2377,8 @@ Version: 2.7+git18924+d1348b8-r0
 Section: devel
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f48057e826b8453836db017502ff5505
-SHA256sum: 7042e60288093faaea41e82e1814474df73a618ac9f127639e70e8033164ce88
+MD5Sum: c165936dd5e69e627ff7c017bdc021bd
+SHA256sum: 6b2e1a0f57670cd72c71655de6cb4f8881f1d9606f3ec0979f95521dd68d497c
 Size: 398092
 Filename: enigma2-src_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
@@ -2393,9 +2393,9 @@ Depends: enigma2-dev (= 2.7+git18924+d1348b8-r0)
 Section: devel
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0b408d2bbb04992c113560b8a014f9f5
-SHA256sum: 0e08dfd9ad7601757f5dcd991ed12f6ed5178241ddc9fc37c62c51d2dd454007
-Size: 7046
+MD5Sum: 3ef9e06513e3a83057e7fd7d09e03eea
+SHA256sum: 53204e0541350b4f59f241fa3ec7d3987091c3f7d152fe8b3ea082562e209c85
+Size: 7048
 Filename: enigma2-staticdev_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers - Development files (Static Libraries)
@@ -2412,9 +2412,9 @@ Recommends: glibc-gconv-utf-16, hotplug-e2-helper, libdvdcss2, python-sendfile, 
 Section: base
 Architecture: dm900
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8af4e6ed74934238116f0c2a905790c7
-SHA256sum: 41f1efcd63846b398fafe0e6708719653d9bce88a4ace216cd2b5636b22a7262
-Size: 2348852
+MD5Sum: 8bd2f67a1d786800f1e6033249f42961
+SHA256sum: 43a6a80d28136c7c990451fc86f13e32cdacd7a127d6c55821d640eb91a2f633
+Size: 2348854
 Filename: enigma2_2.7+git18924+d1348b8-r0_dm900.ipk
 Source: enigma2.bb
 Description: GUI frontend for Open Source Linux based receivers
