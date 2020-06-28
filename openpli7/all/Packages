@@ -1030,13 +1030,13 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dbg
-Version: 1.2+git3581+bb93d27-r0
+Version: 1.2+git3583+e6fafe0-r0
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: ab8eae323a1cb1053b97f96e8f0c2e40
+MD5Sum: c350707d1ba3aa49b7e587f02ee883e2
 Size: 636
-Filename: enigma2-plugin-extensions-e2iplayer-dbg_1.2+git3581+bb93d27-r0_all.ipk
+Filename: enigma2-plugin-extensions-e2iplayer-dbg_1.2+git3583+e6fafe0-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2iPlayer for Enigma2 - Debugging files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -1044,15 +1044,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer-dev
-Version: 1.2+git3581+bb93d27-r0
-Depends: enigma2-plugin-extensions-e2iplayer (= 1.2+git3581+bb93d27-r0)
+Version: 1.2+git3583+e6fafe0-r0
+Depends: enigma2-plugin-extensions-e2iplayer (= 1.2+git3583+e6fafe0-r0)
 Recommends: cmdwrapper-dev, duktape-dev, exteplayer3-dev, f4mdump-dev, ffmpeg-dev, gst-ifdsrc-dev, gstplayer-dev, hlsdl-dev, lsdir-dev, python-compression-dev, python-core-dev, python-dev, python-html-dev, python-json-dev, python-pycurl-dev, python-shell-dev, python-subprocess-dev, python-textutils-dev, rtmpdump-dev, uchardet-dev, wget-dev
 Section: devel
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 114fca6991aa1087731a68efc1668362
-Size: 802
-Filename: enigma2-plugin-extensions-e2iplayer-dev_1.2+git3581+bb93d27-r0_all.ipk
+MD5Sum: 8eac33384d58f88219bfc73d63945851
+Size: 800
+Filename: enigma2-plugin-extensions-e2iplayer-dev_1.2+git3583+e6fafe0-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2iPlayer for Enigma2 - Development files
 OE: enigma2-plugin-extensions-e2iplayer
@@ -1060,16 +1060,16 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-e2iplayer
-Version: 1.2+git3581+bb93d27-r0
+Version: 1.2+git3583+e6fafe0-r0
 Depends: cmdwrapper, duktape, exteplayer3, f4mdump, ffmpeg, gst-ifdsrc, gstplayer, hlsdl, lsdir, python-compression, python-core, python-html, python-json, python-pycurl, python-shell, python-subprocess, python-textutils, rtmpdump, uchardet, wget
 Replaces: enigma2-plugin-extensions-e2istream
 Conflicts: enigma2-plugin-extensions-e2istream
 Section: multimedia
 Architecture: all
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 676ac7501b5143b06a4cd57af7ba376d
-Size: 4752522
-Filename: enigma2-plugin-extensions-e2iplayer_1.2+git3581+bb93d27-r0_all.ipk
+MD5Sum: 9c1d5871dbd01bdcda1823575fd645c2
+Size: 4754070
+Filename: enigma2-plugin-extensions-e2iplayer_1.2+git3583+e6fafe0-r0_all.ipk
 Source: enigma2-plugin-extensions-e2iplayer.bb
 Description: E2iPlayer for Enigma2
 OE: enigma2-plugin-extensions-e2iplayer
@@ -2425,6 +2425,49 @@ OE: enigma2-plugin-settings-morph883-4.8e-13e
 License: CLOSED
 Priority: optional
 
+Package: enigma2-plugin-settings-morph883-9e-13e-19.2e-dbg
+Version: 1.0+git122+e0b14e3-r0
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ba0d79ed0ec249b1e9f89865d3ee6b9a
+Size: 662
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dbg_1.0+git122+e0b14e3-r0_all.ipk
+Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
+Description: enigma2-plugin-settings-morph883-9e-13e-19.2e version 1.0+gitAUTOINC+e0b14e3681-r0 - Debugging files
+OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
+License: CLOSED
+Priority: optional
+
+Package: enigma2-plugin-settings-morph883-9e-13e-19.2e-dev
+Version: 1.0+git122+e0b14e3-r0
+Depends: enigma2-plugin-settings-morph883-9e-13e-19.2e (= 1.0+git122+e0b14e3-r0)
+Section: devel
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 7a38ba2b16aa1420a6fdc74cf1ee5ec1
+Size: 692
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e-dev_1.0+git122+e0b14e3-r0_all.ipk
+Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
+Description: enigma2-plugin-settings-morph883-9e-13e-19.2e version 1.0+gitAUTOINC+e0b14e3681-r0 - Development files
+OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
+License: CLOSED
+Priority: optional
+
+Package: enigma2-plugin-settings-morph883-9e-13e-19.2e
+Version: 1.0+git122+e0b14e3-r0
+Section: base
+Architecture: all
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9bde423623e02ce901e1b6cd408a299e
+Size: 98154
+Filename: enigma2-plugin-settings-morph883-9e-13e-19.2e_1.0+git122+e0b14e3-r0_all.ipk
+Source: enigma2-plugin-settings-morph883-9e-13e-19.2e.bb
+Description: enigma2-plugin-settings-morph883-9e-13e-19.2e version 1.0+gitAUTOINC+e0b14e3681-r0
+OE: enigma2-plugin-settings-morph883-9e-13e-19.2e
+License: CLOSED
+Priority: optional
+
 Package: enigma2-plugin-settings-morph883-9e-13e-dbg
 Version: 1.0+git122+e0b14e3-r0
 Section: devel
@@ -2764,13 +2807,13 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullhd-dbg
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: b812310155a1415320dbf43d5fcf3851
+MD5Sum: 5a47c29e7c483137d01056b26a91f78e
 Size: 590
-Filename: enigma2-plugin-skins-pli-fullhd-dbg_0.1+git2180+a91c3e7-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-fullhd-dbg_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullhd.bb
 Description: PLi-FullHD skin - Debugging files
 OE: enigma2-plugin-skins-pli-fullhd
@@ -2778,14 +2821,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullhd-dev
-Version: 0.1+git2180+a91c3e7-r0
-Depends: enigma2-plugin-skins-pli-fullhd (= 0.1+git2180+a91c3e7-r0)
+Version: 0.1+git2188+6ce41cd-r0
+Depends: enigma2-plugin-skins-pli-fullhd (= 0.1+git2188+6ce41cd-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 573ceaa0302cf5ff82c091a16b85c9ad
-Size: 626
-Filename: enigma2-plugin-skins-pli-fullhd-dev_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: 65a01678b3d7a781e7045432f85139a8
+Size: 628
+Filename: enigma2-plugin-skins-pli-fullhd-dev_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullhd.bb
 Description: PLi-FullHD skin - Development files
 OE: enigma2-plugin-skins-pli-fullhd
@@ -2793,13 +2836,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullhd
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 378e784e44bcdf33578441cdea32e073
-Size: 177218
-Filename: enigma2-plugin-skins-pli-fullhd_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: 5643a2aa337ea78591aef0c5fd726c62
+Size: 177512
+Filename: enigma2-plugin-skins-pli-fullhd_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullhd.bb
 Description: PLi-FullHD skin
 OE: enigma2-plugin-skins-pli-fullhd
@@ -2807,13 +2850,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullnighthd-dbg
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 54f9d489cc95cbd62ecb87b006c96fc6
+MD5Sum: c29bda9daf0becb33646bd49b2b35227
 Size: 596
-Filename: enigma2-plugin-skins-pli-fullnighthd-dbg_0.1+git2180+a91c3e7-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-fullnighthd-dbg_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullnighthd.bb
 Description: PLi-FullNightHD skin - Debugging files
 OE: enigma2-plugin-skins-pli-fullnighthd
@@ -2821,14 +2864,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullnighthd-dev
-Version: 0.1+git2180+a91c3e7-r0
-Depends: enigma2-plugin-skins-pli-fullnighthd (= 0.1+git2180+a91c3e7-r0)
+Version: 0.1+git2188+6ce41cd-r0
+Depends: enigma2-plugin-skins-pli-fullnighthd (= 0.1+git2188+6ce41cd-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: b28839aad6954551b3039025d7253cd5
-Size: 634
-Filename: enigma2-plugin-skins-pli-fullnighthd-dev_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: 59b94bfb7ea6e5de70739af9c19cf505
+Size: 632
+Filename: enigma2-plugin-skins-pli-fullnighthd-dev_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullnighthd.bb
 Description: PLi-FullNightHD skin - Development files
 OE: enigma2-plugin-skins-pli-fullnighthd
@@ -2836,13 +2879,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-fullnighthd
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 15dd4313da08837105b9e1aaee5f1435
-Size: 165042
-Filename: enigma2-plugin-skins-pli-fullnighthd_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: 9fdff3e945507dcde00cf53e553b5d7d
+Size: 165110
+Filename: enigma2-plugin-skins-pli-fullnighthd_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-fullnighthd.bb
 Description: PLi-FullNightHD skin
 OE: enigma2-plugin-skins-pli-fullnighthd
@@ -2850,13 +2893,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dbg
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 43c908fc842d815baa3edb1d13b5d6d9
-Size: 586
-Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: cf1a691e7bfe0af160ab386d6210f038
+Size: 584
+Filename: enigma2-plugin-skins-pli-hd-dbg_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: PLi-HD skin - Debugging files
 OE: enigma2-plugin-skins-pli-hd
@@ -2864,14 +2907,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd-dev
-Version: 0.1+git2180+a91c3e7-r0
-Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2180+a91c3e7-r0)
+Version: 0.1+git2188+6ce41cd-r0
+Depends: enigma2-plugin-skins-pli-hd (= 0.1+git2188+6ce41cd-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 46bcd389c9af714a73cd636d9a8cb373
+MD5Sum: c87806901c235291ae69269ce9307be8
 Size: 620
-Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2180+a91c3e7-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-hd-dev_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: PLi-HD skin - Development files
 OE: enigma2-plugin-skins-pli-hd
@@ -2879,13 +2922,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd1-dbg
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 12ef340875b602a1bfb8fce12f9ee5f5
-Size: 586
-Filename: enigma2-plugin-skins-pli-hd1-dbg_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: b024fc96abb84880ff87a1808ff8f2f2
+Size: 590
+Filename: enigma2-plugin-skins-pli-hd1-dbg_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd1.bb
 Description: PLi-HD1 skin - Debugging files
 OE: enigma2-plugin-skins-pli-hd1
@@ -2893,14 +2936,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd1-dev
-Version: 0.1+git2180+a91c3e7-r0
-Depends: enigma2-plugin-skins-pli-hd1 (= 0.1+git2180+a91c3e7-r0)
+Version: 0.1+git2188+6ce41cd-r0
+Depends: enigma2-plugin-skins-pli-hd1 (= 0.1+git2188+6ce41cd-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: a6ee0b5ff44e04b883f2e60a571cbbf9
+MD5Sum: 0cf155d4bbaaa31a635ef410f8355d96
 Size: 622
-Filename: enigma2-plugin-skins-pli-hd1-dev_0.1+git2180+a91c3e7-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-hd1-dev_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd1.bb
 Description: PLi-HD1 skin - Development files
 OE: enigma2-plugin-skins-pli-hd1
@@ -2908,13 +2951,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd1
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 4d7f092c4a0a7d7359e72df927574fcb
-Size: 73902
-Filename: enigma2-plugin-skins-pli-hd1_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: b29feb976e7c1a77558e7b675c2717f0
+Size: 73986
+Filename: enigma2-plugin-skins-pli-hd1_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd1.bb
 Description: PLi-HD1 skin
 OE: enigma2-plugin-skins-pli-hd1
@@ -2922,13 +2965,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd2-dbg
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: fbb1a74105acef91b07e924d3b398e13
-Size: 588
-Filename: enigma2-plugin-skins-pli-hd2-dbg_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: 25ef79e0d2b8900af1cc723785d475c9
+Size: 586
+Filename: enigma2-plugin-skins-pli-hd2-dbg_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd2.bb
 Description: PLi-HD2 skin - Debugging files
 OE: enigma2-plugin-skins-pli-hd2
@@ -2936,14 +2979,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd2-dev
-Version: 0.1+git2180+a91c3e7-r0
-Depends: enigma2-plugin-skins-pli-hd2 (= 0.1+git2180+a91c3e7-r0)
+Version: 0.1+git2188+6ce41cd-r0
+Depends: enigma2-plugin-skins-pli-hd2 (= 0.1+git2188+6ce41cd-r0)
 Section: devel
 Architecture: all
 Maintainer: littlesat
-MD5Sum: 4c13f20d7b264019bfb3289cf9934792
-Size: 620
-Filename: enigma2-plugin-skins-pli-hd2-dev_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: 053f57de91952a67fbbbc1a2050cdc98
+Size: 622
+Filename: enigma2-plugin-skins-pli-hd2-dev_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd2.bb
 Description: PLi-HD2 skin - Development files
 OE: enigma2-plugin-skins-pli-hd2
@@ -2951,13 +2994,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd2
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: b87902833b27b6b3596e6848f5f01d03
+MD5Sum: edea109581d25315ce41be14ac43e451
 Size: 64000
-Filename: enigma2-plugin-skins-pli-hd2_0.1+git2180+a91c3e7-r0_all.ipk
+Filename: enigma2-plugin-skins-pli-hd2_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd2.bb
 Description: PLi-HD2 skin
 OE: enigma2-plugin-skins-pli-hd2
@@ -2965,13 +3008,13 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-skins-pli-hd
-Version: 0.1+git2180+a91c3e7-r0
+Version: 0.1+git2188+6ce41cd-r0
 Section: base
 Architecture: all
 Maintainer: littlesat
-MD5Sum: aaedd863dd12105f5e1836becf6bdf4d
-Size: 151090
-Filename: enigma2-plugin-skins-pli-hd_0.1+git2180+a91c3e7-r0_all.ipk
+MD5Sum: 7d14f98b21fa7936b55d9f1b2c0e2c5a
+Size: 151094
+Filename: enigma2-plugin-skins-pli-hd_0.1+git2188+6ce41cd-r0_all.ipk
 Source: enigma2-plugin-skins-pli-hd.bb
 Description: PLi-HD skin
 OE: enigma2-plugin-skins-pli-hd
