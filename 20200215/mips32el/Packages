@@ -6764,15 +6764,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-aihdcontroler-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 452e65a0d75b421667b055b5383e9f41
-SHA256sum: b7687239180dbbd754e7712fc794611aaa4908adc36c387e4eb00b712472fab5
-Size: 6566
-Filename: enigma2-plugin-extensions-aihdcontroler-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: cff1279a8cc27b6a58abf88992855b9c
+SHA256sum: 144f26ad4990da434547227b6aba5a6649ffba1dfaf077dbb9e6b0d09a39bfca
+Size: 6568
+Filename: enigma2-plugin-extensions-aihdcontroler-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-aihdcontroler (source files)
 OE: enigma2-plugins
@@ -6780,14 +6780,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-aihdcontroler
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b9ed8b6386a3c339e4c20cf3164bcfc2
-SHA256sum: 0af35bc40af4f3f9bdd16d65659b8d6470210e33f76ac764a184922ddd00bf6b
-Size: 421068
-Filename: enigma2-plugin-extensions-aihdcontroler_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 28068b13bd2113c2611e9366b29ffbd9
+SHA256sum: ceb53b5a693bf96969fc3c5d1371c4fa1b2d36479aa883bccf8b4b9a140eb535
+Size: 421078
+Filename: enigma2-plugin-extensions-aihdcontroler_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Ai.HD skins Control
 OE: enigma2-plugins
@@ -6927,15 +6927,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-antiscrollbar-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e98270ccfb9854ddb2b3c350456201a1
-SHA256sum: 88d2e5c76050af3fd4f479785a4e4b99ec8b738fe80f6b21e7f5236308ed0c83
-Size: 3214
-Filename: enigma2-plugin-extensions-antiscrollbar-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 22535486c3405ac88de1dbfed20ba7ee
+SHA256sum: 1bb8c8892339c5890714327938a1a141bf108c4d21051a3f42622a53dec62792
+Size: 3218
+Filename: enigma2-plugin-extensions-antiscrollbar-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-antiscrollbar (source files)
 OE: enigma2-plugins
@@ -6943,14 +6943,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-antiscrollbar
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a9f8182272756db1044717d0a1ce3fc9
-SHA256sum: 15dc463f6f28d1c76d1b672c56799b9ce9bcfe8b9aadcf2656ea89acd2808e7d
-Size: 8854
-Filename: enigma2-plugin-extensions-antiscrollbar_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: ccb86dcbadda44509a1ed1444abaf690
+SHA256sum: 5284c20d968ec6065d1e6dfcf5f4410755b87e6505292aef391778d6579f5f9b
+Size: 8862
+Filename: enigma2-plugin-extensions-antiscrollbar_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: overlay for scrollbars on your tvscreen
 OE: enigma2-plugins
@@ -6958,15 +6958,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-audiosync-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0a508029a5ca90b238254585f48214b3
-SHA256sum: aecf6f655bdae9944045def01dc2463da3efd4c836072c66a48260c0a77f76ef
-Size: 8668
-Filename: enigma2-plugin-extensions-audiosync-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 4b13eb28d893cee7957fc13b5fee4897
+SHA256sum: 8a5635362480fc6e10a2e9e98a470d394839c8af12206efe502e594cc94f2636
+Size: 8672
+Filename: enigma2-plugin-extensions-audiosync-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-audiosync (source files)
 OE: enigma2-plugins
@@ -6974,16 +6974,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-audiosync
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Replaces: enigma2-plugin-extensions-ac3lipsync
 Conflicts: enigma2-plugin-extensions-ac3lipsync
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 96922efbbeab2da3d31ac52be9ba6f15
-SHA256sum: 40e21e364cb97660fc9b58abbccd617ff04756aada9b2600d1e9416898671263
-Size: 41448
-Filename: enigma2-plugin-extensions-audiosync_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 28d273714fa91a33d07afb90c2eac858
+SHA256sum: aefb6d1881cf230f705514caae006d14cfa41f99c63352a778f2b01cb8fe739f
+Size: 41452
+Filename: enigma2-plugin-extensions-audiosync_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Set Audio delay
 OE: enigma2-plugins
@@ -7107,15 +7107,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-autotimer-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0aec0c0457f229caa892196fb313b2da
-SHA256sum: 862ff019f53c808c1127ce659d03fa35b94e7c4a6cbf92833ba354af061589af
-Size: 52224
-Filename: enigma2-plugin-extensions-autotimer-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 1b2dab1cd51e1c7bad7e97b668f3f8af
+SHA256sum: 8991abd6267fdbf452448f52bdec2efb79415b5bdebb0e3961a36a609461b135
+Size: 52256
+Filename: enigma2-plugin-extensions-autotimer-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-autotimer (source files)
 OE: enigma2-plugins
@@ -7123,15 +7123,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-autotimer
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugin-systemplugins-mphelp, python-codecs, python-difflib, python-re, python-xml
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bc18d5eb19a931654a38bb49903a9b09
-SHA256sum: dc387dc74b0577d51c7aed01f92c13a24d902cc36344d93e036b6adeb0b19c72
-Size: 245326
-Filename: enigma2-plugin-extensions-autotimer_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 4383072208fb6087323ef78d86d721e9
+SHA256sum: 8c09335fdb957590abbdd76aaf329297e749c5dd629780652a9735c184a35b23
+Size: 245104
+Filename: enigma2-plugin-extensions-autotimer_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Automatically add Timers based on simple rules
 OE: enigma2-plugins
@@ -7139,15 +7139,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-babelzapper-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f89db97c1d61dfab56c8acc5e720a551
-SHA256sum: 7c77d1d9c153004e7fcda66cc0af5636f2fc4ee4dd5b4e6c857eaac3d317138a
+MD5Sum: 682e2b0106ad28b8608ebf3d873a85dc
+SHA256sum: c2c644290bbb287fdf45ee9c9fc022d966e100f01a11cd386c796cc9ed277c4f
 Size: 4610
-Filename: enigma2-plugin-extensions-babelzapper-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-babelzapper-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-babelzapper (source files)
 OE: enigma2-plugins
@@ -7155,14 +7155,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-babelzapper
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 71e9cdf8399e490e811483bbdcd35531
-SHA256sum: ca1bb6635b12f432b7d08a5816c720e1159e6f54a9cf6371456f672489507b28
-Size: 16086
-Filename: enigma2-plugin-extensions-babelzapper_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: aec8aef829c5a270a2071283b3e895d8
+SHA256sum: d362e477ad7ee792d4751a8106f26ce091f7a1ca0ead5fb1e80f538a7d87ca4d
+Size: 16094
+Filename: enigma2-plugin-extensions-babelzapper_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Control your dreambox with only the MUTE button
 OE: enigma2-plugins
@@ -7419,15 +7419,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-bonjour-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9138f17336ebe5bfaac54616c94a1dea
-SHA256sum: 9622d4492dd0c32d17bfc5fe13a42b67572fe4e82770e750a5167ab68d13e893
-Size: 3432
-Filename: enigma2-plugin-extensions-bonjour-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: c70bf1ed6912fd355cc349c713d9485d
+SHA256sum: 083484265de160ab0e68da9009df336264221e8d8e1b0de89d3627b4a0e74eab
+Size: 3436
+Filename: enigma2-plugin-extensions-bonjour-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-bonjour (source files)
 OE: enigma2-plugins
@@ -7435,15 +7435,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-bonjour
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: avahi-daemon
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5b13a55df146803a197fea2ce892ba04
-SHA256sum: a93b1d8128c42c26e7d4556258c904a2b46ed319b370f87a212a4339f9373320
-Size: 5006
-Filename: enigma2-plugin-extensions-bonjour_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: ca4f2bbbf80053f469b6387e83313f85
+SHA256sum: f4d94bdf15c90c3632d3bea1d7a690263b195d9f6b0952c77ebff1c093d59c71
+Size: 5008
+Filename: enigma2-plugin-extensions-bonjour_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Bonjour/avahi-daemon management for your Dreambox
 OE: enigma2-plugins
@@ -7581,15 +7581,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-cdinfo-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: daf0cf83d7d4e94a9376bf4fefa6f531
-SHA256sum: 4384fc03064eb4745e996a424033cc397b1b970fbd222cef02fbada9bbddec47
+MD5Sum: 966e0542912be3f0d7bebe7afb80c90a
+SHA256sum: 096b8b7a3fe49d27042aa9ab46d3a9cca20692d8ee97eca64d2a8ed9a435d8e8
 Size: 3712
-Filename: enigma2-plugin-extensions-cdinfo-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-cdinfo-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-cdinfo (source files)
 OE: enigma2-plugins
@@ -7597,15 +7597,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-cdinfo
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: libcddb (>= 1.3.0), libcdio19 (>= 0.80)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a307e7c5136c08bde094ef07c106292f
-SHA256sum: 39245a4a319a04c8bab5088ca456611d6fda0180f581fb75ca958cd961faa5e9
+MD5Sum: 6842083ee3f591d6ec24f35fbdb3540c
+SHA256sum: 8f73cb70170baaaf84aab0148b1521e57bc2ef465275c832bf1b6637bb11683e
 Size: 8794
-Filename: enigma2-plugin-extensions-cdinfo_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-cdinfo_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: read audio CD-Text or query CDDB for album and track info
 OE: enigma2-plugins
@@ -7677,15 +7677,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-dreamexplorer-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 85d3c8c5b518dd9858531723d5128270
-SHA256sum: f948e6b6050394581af028b728466c4b178443b750074ebf94ddf87e8a5a0a46
-Size: 12810
-Filename: enigma2-plugin-extensions-dreamexplorer-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: fb1cc98e58443613305de3671d1c00eb
+SHA256sum: 8e78b8ef466020c5f9a273247dca7d4c740385e2f948adf182ebc68030977cc0
+Size: 12806
+Filename: enigma2-plugin-extensions-dreamexplorer-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-dreamexplorer (source files)
 OE: enigma2-plugins
@@ -7693,16 +7693,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dreamexplorer
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Recommends: gst-plugins-good-flv
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 130fac6b61a93eefe9183c5df3c7b52e
-SHA256sum: 1a2306cff80bf61903294e7f41e12297a6772c9ddd14e8b6a14fe5c00e2f8a92
-Size: 56412
-Filename: enigma2-plugin-extensions-dreamexplorer_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 4775e0688e1cfb22ddfe0095d00df62e
+SHA256sum: 93e4feb57f0e7612e79ee1b657e1cd383e7a243bc5ff6d2aa308c960eca7ee33
+Size: 56398
+Filename: enigma2-plugin-extensions-dreamexplorer_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: DreamExplorer: manage files on your box
 OE: enigma2-plugins
@@ -7710,15 +7710,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dreamirc-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: af585ba6751b0615825233ebd504951b
-SHA256sum: 3d8ef631b89e5a3f1d29d1eece1ab18011c4839c8ef29ece189551e9be5d0e77
-Size: 31162
-Filename: enigma2-plugin-extensions-dreamirc-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: e1a9adbef110291358d767c1242109fa
+SHA256sum: a9dc1d41e5b76c260f3ea349421b971880b5f3575224457bcb6aac0c9a536590
+Size: 31170
+Filename: enigma2-plugin-extensions-dreamirc-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-dreamirc (source files)
 OE: enigma2-plugins
@@ -7726,14 +7726,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dreamirc
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6cd4de4c85998094476b3c018b278124
-SHA256sum: a838b2de843d1b53d4bb7187b4794604e42304d7449d299157862324f902a52b
-Size: 33762
-Filename: enigma2-plugin-extensions-dreamirc_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 56799ddff57773042093615b32e266f2
+SHA256sum: d8fe2ec652bda1442c727a7feedde59ee78253ae264415f56100c7ba67af7e3f
+Size: 33756
+Filename: enigma2-plugin-extensions-dreamirc_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: simple IRC GroupChat client for e2
 OE: enigma2-plugins
@@ -7741,15 +7741,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dreammediathek-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c7a1381e512373dc4be0ba79646a5b4f
-SHA256sum: 508e6c4715a4e0c391963c7c7f8e5bb08ab1087bfc88e2453a2cd8311a4c343f
-Size: 5556
-Filename: enigma2-plugin-extensions-dreammediathek-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 6990a5267ba28629d02470097e41137a
+SHA256sum: 24e1828099ae2322565b6d9020b9099ac82436ac651a2ee0d5ca707883c4c5d9
+Size: 5552
+Filename: enigma2-plugin-extensions-dreammediathek-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-dreammediathek (source files)
 OE: enigma2-plugins
@@ -7757,15 +7757,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dreammediathek
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7eac44bf38ee48594ab5cbcdaced75ca
-SHA256sum: 45eadff53ef4f9140342cc345ef02329f503977a89a4919f5156129660a6b8b3
-Size: 8944
-Filename: enigma2-plugin-extensions-dreammediathek_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 86b7f5b32730a36017998cc3033ce730
+SHA256sum: ad09e9ea7fd86a6a8dbf73fe1994f37826b78da3e3131225e91443958a06b8db
+Size: 8940
+Filename: enigma2-plugin-extensions-dreammediathek_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Play rtp Stream on your Dreambox
 OE: enigma2-plugins
@@ -7773,15 +7773,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdbackup-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4a1125e999242d3a6727f2d60f8e0a71
-SHA256sum: 5d38b7e6d762f111907ba65a9da92fba0d59ba30e27e8afe49c1bdecbb0cd310
-Size: 6524
-Filename: enigma2-plugin-extensions-dvdbackup-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 1744fe116ac792067080a59ca7b3fbec
+SHA256sum: 7cc6aeed0d74cb44252a12cb87d28a2cd7defc2391af06795436ce38d404314b
+Size: 6528
+Filename: enigma2-plugin-extensions-dvdbackup-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-dvdbackup (source files)
 OE: enigma2-plugins
@@ -7789,15 +7789,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dvdbackup
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: dvdbackup, libdvdread8
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5110410d028ddb5583055d3c301f5b7c
-SHA256sum: 8379ba02c2fd606a35bea9d57dd4cf23038753241b20d6beab4b15e005069791
-Size: 16144
-Filename: enigma2-plugin-extensions-dvdbackup_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: ea2fa43db2f9df9ddfd63f2f845178aa
+SHA256sum: 12f23f695adb48d34cbf9fe2445877914216ac1ba05196fe3a56d767053cc040
+Size: 16148
+Filename: enigma2-plugin-extensions-dvdbackup_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Create a backup of your Video-DVD
 OE: enigma2-plugins
@@ -7805,15 +7805,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dyndns-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8c700bc76286874d0e84ee2c61e28686
-SHA256sum: 77c0dec51c920321a776b55d50b03da9f2be3d722cd0d7f36d158a9a0c981625
-Size: 2610
-Filename: enigma2-plugin-extensions-dyndns-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 8c5d59d494a290e2681c359ca10d55b3
+SHA256sum: 99b4cceddd3222c0fbf91fde986c4383816a7ef6e1bfe26d558d24450e73636a
+Size: 2612
+Filename: enigma2-plugin-extensions-dyndns-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-dyndns (source files)
 OE: enigma2-plugins
@@ -7821,14 +7821,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-dyndns
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 070f1b75d292ee2a0ff4f235c2bde084
-SHA256sum: 9830f077c386f35484b30b33a6497ba5597c07c991b6e8aa026da6c2b1c961ba
-Size: 7462
-Filename: enigma2-plugin-extensions-dyndns_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 62c8dfce6cbd66cd0a8c43b7c1447a2e
+SHA256sum: de28b5d33c5f0a2c43df89bb712a2d0185955170c59d55b2bb7be27195d1d906
+Size: 7464
+Filename: enigma2-plugin-extensions-dyndns_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: a client for www.dyndns.org
 OE: enigma2-plugins
@@ -7836,15 +7836,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-easyinfo-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 83ae129cd4a40184e04739e9db588f64
-SHA256sum: fbfbab7393fe3cb41b8c53913d0dd1e29a60f50c9d192f7b5068c3d0809e8912
-Size: 9410
-Filename: enigma2-plugin-extensions-easyinfo-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: a99304992d1b613db16ad5b457a8409f
+SHA256sum: 09fa64de82abb74096602f00ba5c2580ea6a9e177a3472056e1b87d367b230b3
+Size: 9408
+Filename: enigma2-plugin-extensions-easyinfo-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-easyinfo (source files)
 OE: enigma2-plugins
@@ -7852,14 +7852,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-easyinfo
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: af391643d909fae4ede3bbafc3fc57ec
-SHA256sum: 4377124383393e35e3ce818e7caaf012eabfd6d5027cd62f3078b163eb0ccf71
-Size: 32766
-Filename: enigma2-plugin-extensions-easyinfo_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 15f8133ab8cb7b3f20b2a2c698d7d4f9
+SHA256sum: 025601da6f0d668a1d49420e5e515318f5b37eb9505e33663ba1637262d4458d
+Size: 32774
+Filename: enigma2-plugin-extensions-easyinfo_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: You can use the EasyInfo for manage your EPG plugins from info button.
 OE: enigma2-plugins
@@ -7867,15 +7867,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-easymedia-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4d88765a720c51ced8981d28d73bcc72
-SHA256sum: fedfeaac5b69102f7764756eda48afa49aa69c0af087008b197df57437c40e94
-Size: 6132
-Filename: enigma2-plugin-extensions-easymedia-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 0e9f77e24f1a0f7484bdcf1c9e84431c
+SHA256sum: 678d69e11bfa08deb277ed2ac45d4ad3f7514c7d6cd294c072b1ccc5b8ad723f
+Size: 6136
+Filename: enigma2-plugin-extensions-easymedia-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-easymedia (source files)
 OE: enigma2-plugins
@@ -7883,14 +7883,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-easymedia
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 71734b95b99228da96f7044b52bfa0b8
-SHA256sum: 561c3e83a470ed5f3f6d74f400b3d370fba4f935267ffc690e982171ba576a64
-Size: 78860
-Filename: enigma2-plugin-extensions-easymedia_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: d7af86ec6dece7ff57f9c96e34b01653
+SHA256sum: e9b1769febd3cb64d967f26be229ed4371a6e4193fba67f313b519d2f41da37f
+Size: 78872
+Filename: enigma2-plugin-extensions-easymedia_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Start easy your multimedia plugins with the PVR-button.
 OE: enigma2-plugins
@@ -7898,15 +7898,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-eibox-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f70760e4aa8a7a6cc888a50e6f8147fe
-SHA256sum: 9d2194ac831b0a1824c82366aa8ad5479f1b02347d9feeec7b397f1748047e50
-Size: 6972
-Filename: enigma2-plugin-extensions-eibox-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 8ad64aebccb63fb926436d98c6493b47
+SHA256sum: c5e35d99abef1c9acd8bff1e5636cad6e9343c9994666bc1966724759e546560
+Size: 6978
+Filename: enigma2-plugin-extensions-eibox-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-eibox (source files)
 OE: enigma2-plugins
@@ -7914,14 +7914,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-eibox
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c1eed5b20bf88894c1e8e5222c55b32b
-SHA256sum: 911799db11ec262e5dea592f59d722ef86e8192b8c0cb5692a1d55b6a13416d4
-Size: 58268
-Filename: enigma2-plugin-extensions-eibox_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 88a3d47814981500d796b451955b2f07
+SHA256sum: d134867c9e35dd79202a36037212541c72ce1502bc4330e19668c41d24ef6b03
+Size: 58346
+Filename: enigma2-plugin-extensions-eibox_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: graphical European Installation Bus visualization
 OE: enigma2-plugins
@@ -7929,15 +7929,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-elektro-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3de5148c62d192b0c2c2de9d50cc78c3
-SHA256sum: 320f06768172576fdc0439d43016b79d5e4264016375c145d9b9f628098f3851
-Size: 10290
-Filename: enigma2-plugin-extensions-elektro-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 8091dc0572b720e0bc4179d2c7f546d6
+SHA256sum: 91c948e900cb0222aacdbb3a9426889432bd869edb65acb6a5fbfc8991e9e693
+Size: 10294
+Filename: enigma2-plugin-extensions-elektro-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-elektro (source files)
 OE: enigma2-plugins
@@ -7945,14 +7945,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-elektro
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4a23d4f81688bf3533859b84896fbff2
-SHA256sum: 953cd0068b0baee63bc004272ddfa4bc1e85c9e812f867a40f89d0f78161524e
-Size: 28728
-Filename: enigma2-plugin-extensions-elektro_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 795ec74a74f5bbe6191a5643b102dea6
+SHA256sum: 5e571d926e568efb393177199253baf3dcd221e5b93665044bda551ec8323c05
+Size: 28742
+Filename: enigma2-plugin-extensions-elektro_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Automatically shuts down the Dreambox to deep standby (Power Save Mode)
 OE: enigma2-plugins
@@ -7960,15 +7960,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-emailclient-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 25f4176399f0c6556bb3aa6273b8ef0f
-SHA256sum: 9887a9d9807ace99474ae290716fb1752ee5944b7ec17e41ed2efbe0e89cbc31
-Size: 15772
-Filename: enigma2-plugin-extensions-emailclient-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 070e00f378338d5bfba866a88c98c33e
+SHA256sum: 3dc2d17c8cedb5471adc6aea134c41ca919b55f6c12b7f1706959931205f3544
+Size: 15768
+Filename: enigma2-plugin-extensions-emailclient-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-emailclient (source files)
 OE: enigma2-plugins
@@ -7976,15 +7976,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-emailclient
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-email, python-pyopenssl, python-shell, python-textutils, python-twisted-mail, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ef333a372f5ea2ecd37f36b55c0b9b83
-SHA256sum: 7d0cb85872a0bd00d66bb1daf87dc89f2c452632cfd4cd6a01464855d8f72739
-Size: 34034
-Filename: enigma2-plugin-extensions-emailclient_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 8b31c2bf0a1294ddc03c59e28084af57
+SHA256sum: 07d42cce5ffee6c005f44b26735aa9840a3125124aac1ee86dd5714802925dc6
+Size: 34042
+Filename: enigma2-plugin-extensions-emailclient_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: a imap4 client to access imap accounts and read emails
 OE: enigma2-plugins
@@ -8090,15 +8090,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-epgrefresh-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d2dbfbbb85fd1055bc00393f0b64157a
-SHA256sum: 50f358ea2c51b34bbb27d5f8940decc613f0552f7a0dd25ae9119f4a2a70b33f
-Size: 21322
-Filename: enigma2-plugin-extensions-epgrefresh-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: c8dca0fa596e16938131fd05f6b4436f
+SHA256sum: 79b1b1af7e3bc874cffe48d477c62891d0f8db93a271b47aec4dc3fd138946a6
+Size: 21332
+Filename: enigma2-plugin-extensions-epgrefresh-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-epgrefresh (source files)
 OE: enigma2-plugins
@@ -8106,15 +8106,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-epgrefresh
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugin-systemplugins-mphelp, python-codecs, python-difflib, python-xml
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7740d8336973738999932c37d246f925
-SHA256sum: c692c0737fd21d8c05b59067f525e1b49a02dab0fe8648da4d3be4fe438537fa
-Size: 68506
-Filename: enigma2-plugin-extensions-epgrefresh_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 6e201e217fc43e07b41c0d2bb52ba581
+SHA256sum: b4071d8c3fa681026bb4b4348ac72f519218a5a8655ac22b3d1ff6794e96774a
+Size: 68514
+Filename: enigma2-plugin-extensions-epgrefresh_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Plugin to refresh EPG Data when Receiver is inactive
 OE: enigma2-plugins
@@ -8122,15 +8122,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-epgsearch-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bd1eba572d18f1abbbc5a2b40c7cae22
-SHA256sum: 3ef4f9e3a8b1770aa89d5fc05ecc20babb7bacc628f44981f217aa8dfdddd7db
-Size: 12090
-Filename: enigma2-plugin-extensions-epgsearch-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 92266c044ad40dec82c699b2bf49ba2f
+SHA256sum: f469fb7a8ad87d2f8b193dd2644979f1d4a57004ce52f3e6648d9482b9b0e62f
+Size: 12096
+Filename: enigma2-plugin-extensions-epgsearch-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-epgsearch (source files)
 OE: enigma2-plugins
@@ -8138,14 +8138,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-epgsearch
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8a50c2eecdf8fb60a7e973c95f9d213e
-SHA256sum: 7f0326530fe6a6545bfd162769060419ca9fa1f828f78ab9a74465842562b164
-Size: 52942
-Filename: enigma2-plugin-extensions-epgsearch_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 868f668d70c7918cfbab0ee36be130b4
+SHA256sum: f6373080402ef6331920cf6f9476cddf4c46e15a803008e4392a935642d82ee0
+Size: 53018
+Filename: enigma2-plugin-extensions-epgsearch_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: search the epg and list results
 OE: enigma2-plugins
@@ -8153,15 +8153,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-fancontrol2-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 654c9bbcf7c8ef75fcb54e3032f27dc0
-SHA256sum: 1b8fe475f8323174026b40a19e1f73e2cfeeb75233d286bd2bff309fd08f9e90
-Size: 14880
-Filename: enigma2-plugin-extensions-fancontrol2-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: d189464f816121498681a13319b372f2
+SHA256sum: 99915e306730f1bcffb0f6c6e6d6b74d6cbdd490677aa6b0772bcbd475dd2831
+Size: 14890
+Filename: enigma2-plugin-extensions-fancontrol2-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-fancontrol2 (source files)
 OE: enigma2-plugins
@@ -8169,14 +8169,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-fancontrol2
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c460ae6da8ddd283e4a7dded68b6e245
-SHA256sum: 1fe6c669f8c52de55148adbca03625c8b847a8937e91fb350b1c9898fe2fcaae
-Size: 81404
-Filename: enigma2-plugin-extensions-fancontrol2_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 28bdf87eb8da84174d2c15c13e67e3e2
+SHA256sum: b9d3d78b706b811a1c04aa75032f33da637ada4547485019456519f92a008ced
+Size: 81312
+Filename: enigma2-plugin-extensions-fancontrol2_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Temperature dependent fan control
 OE: enigma2-plugins
@@ -8184,15 +8184,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-filebrowser-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a57b42ead0cc9a3343e5e95714e3b838
-SHA256sum: 0dddfc75ce669d54391db4bcf14b60fd9bbbed0c7e6a556d060c5a8c1bbfef26
+MD5Sum: 229665246eb087b828a8c2045a60ab69
+SHA256sum: b75e8001ea3b3025d6aa0bd33ebe7a7833ac0a8f29c45be17c0837b33a6a4bd3
 Size: 5468
-Filename: enigma2-plugin-extensions-filebrowser-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-filebrowser-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-filebrowser (source files)
 OE: enigma2-plugins
@@ -8200,14 +8200,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-filebrowser
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6de9481a60d9fb6e04fac5933c3d88fb
-SHA256sum: bae369e5ca94e6c656a63ef9c19e8b56c791721d0357b794c1bc6d9d8a4e992e
-Size: 10562
-Filename: enigma2-plugin-extensions-filebrowser_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: cf74f14e993427cc6129edec39974699
+SHA256sum: cb44a422ccfd4498d4353002b9462a964ed30e6e1ee1726a50f8e17625181f2d
+Size: 10560
+Filename: enigma2-plugin-extensions-filebrowser_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: manage local Files
 OE: enigma2-plugins
@@ -8215,14 +8215,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-dbg
-Version: 2.0+git137+4a05bfc-r1
+Version: 2.0+git138+808c5fb-r1
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 7fb0e59baade06f69559b7c2f8d82a9b
-SHA256sum: fced9b5e93e05def90544f7e850a5584967f6d48a83072c24a96cf9948f1d7bf
-Size: 708
-Filename: enigma2-plugin-extensions-filecommander-dbg_2.0+git137+4a05bfc-r1_mips32el.ipk
+MD5Sum: 033a87c7e699a8ae34effe841e20967c
+SHA256sum: 71e86986cdbf28945ae7a7e4d440a4c7d55e176abb7d99756439da453f5ecb19
+Size: 710
+Filename: enigma2-plugin-extensions-filecommander-dbg_2.0+git138+808c5fb-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
 Description: File manager based on OpenATV one - Debugging files
 OE: enigma2-plugin-extensions-filecommander
@@ -8230,16 +8230,16 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-dev
-Version: 2.0+git137+4a05bfc-r1
-Depends: enigma2-plugin-extensions-filecommander (= 2.0+git137+4a05bfc-r1)
+Version: 2.0+git138+808c5fb-r1
+Depends: enigma2-plugin-extensions-filecommander (= 2.0+git138+808c5fb-r1)
 Recommends: python-core-dev, python-dev
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 986ca391d04e3ca3401e59a42cb73ba4
-SHA256sum: d4ba61ab0a0672df5d5c7a3aee0d8e8e36ce134d6d0325501da919ad0a9b74f0
+MD5Sum: 91be9e819d0d51556aa2f8ff8b5292cd
+SHA256sum: 0e255a0da42a5753d56247599473c81541be2dbc11001a1844890275013c67ed
 Size: 762
-Filename: enigma2-plugin-extensions-filecommander-dev_2.0+git137+4a05bfc-r1_mips32el.ipk
+Filename: enigma2-plugin-extensions-filecommander-dev_2.0+git138+808c5fb-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
 Description: File manager based on OpenATV one - Development files
 OE: enigma2-plugin-extensions-filecommander
@@ -8247,15 +8247,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander-src
-Version: 2.0+git137+4a05bfc-r1
+Version: 2.0+git138+808c5fb-r1
 Depends: enigma2-plugin-extensions-filecommander
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e19c838a6b4c3c0fac96dde8789afc0a
-SHA256sum: 29803395507b94021e770a7847383f305cb1e577c0f2f86b94bbc2ab8f013666
-Size: 43090
-Filename: enigma2-plugin-extensions-filecommander-src_2.0+git137+4a05bfc-r1_mips32el.ipk
+MD5Sum: 265e9663857de70aaa546aad38007c3a
+SHA256sum: 08014ecb984423a6d1971becd0a2c3fc4d365949d1f4d45fb21d9e12a1e1f497
+Size: 43108
+Filename: enigma2-plugin-extensions-filecommander-src_2.0+git138+808c5fb-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
 Description: File manager based on OpenATV one - Source files
 OE: enigma2-plugin-extensions-filecommander
@@ -8263,17 +8263,17 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-filecommander
-Version: 2.0+git137+4a05bfc-r1
+Version: 2.0+git138+808c5fb-r1
 Depends: python-core
 Replaces: enigma2-plugin-pli-filecommander
 Conflicts: enigma2-plugin-pli-filecommander
 Section: base
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6b0106ae9c2b5a70ec8aa2ac208533d0
-SHA256sum: 2a53b564c48784a89e5b10431dbba83b94d2234438d21f3f733bb2d563920c7b
-Size: 120508
-Filename: enigma2-plugin-extensions-filecommander_2.0+git137+4a05bfc-r1_mips32el.ipk
+MD5Sum: 631baa01b05c3bbabe55b6d47dd4d7f0
+SHA256sum: 9c5829c9b993483952b7c0084997f45c407f9c1759cf96a3458e90b1ff44d454
+Size: 120588
+Filename: enigma2-plugin-extensions-filecommander_2.0+git138+808c5fb-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-filecommander.bb
 Description: File manager based on OpenATV one
 OE: enigma2-plugin-extensions-filecommander
@@ -8329,14 +8329,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-foreca-dbg
-Version: git167+6ae59fa-r0
+Version: git172+21bc53e-r0
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 20175d52c583eb108b4c00c5c136903a
-SHA256sum: 220e8ce2b54e90d0514f70162e690b343fd4abea64c4fcd6ed6fce930f5158e8
-Size: 706
-Filename: enigma2-plugin-extensions-foreca-dbg_git167+6ae59fa-r0_mips32el.ipk
+MD5Sum: 474fea18ded937fea99924a37bcf0db1
+SHA256sum: 80c3d2c63ed7abf275125f86fbd69c6806fbfbe797fc282a74bb09d07f0b0877
+Size: 704
+Filename: enigma2-plugin-extensions-foreca-dbg_git172+21bc53e-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-foreca.bb
 Description: Weather forecast for the upcoming 10 days - Debugging files
 OE: enigma2-plugin-extensions-foreca
@@ -8344,16 +8344,16 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-foreca-dev
-Version: git167+6ae59fa-r0
-Depends: enigma2-plugin-extensions-foreca (= git167+6ae59fa-r0)
+Version: git172+21bc53e-r0
+Depends: enigma2-plugin-extensions-foreca (= git172+21bc53e-r0)
 Recommends: python-core-dev, python-dev, python-html-dev
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4572aca3bc31055d81bfdc3dd129411e
-SHA256sum: 2d5d210c1264512e598c64666c0938f54d176e74a5122d5a087ad516b525755c
+MD5Sum: 682689f278348ca385ff3c73bb79e2d7
+SHA256sum: eb1ab6b56c438700885e329ee03eb4758aaff368b2c89a7acd6e9cf8005965fa
 Size: 762
-Filename: enigma2-plugin-extensions-foreca-dev_git167+6ae59fa-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-foreca-dev_git172+21bc53e-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-foreca.bb
 Description: Weather forecast for the upcoming 10 days - Development files
 OE: enigma2-plugin-extensions-foreca
@@ -8361,15 +8361,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-foreca-src
-Version: git167+6ae59fa-r0
+Version: git172+21bc53e-r0
 Depends: enigma2-plugin-extensions-foreca
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f7b5f896f35d7289548bf12125c45a7c
-SHA256sum: ad0e40700b0663b23903d97f9a033db88d8681dc849cfdb4e7a24cc349e8ade0
-Size: 15668
-Filename: enigma2-plugin-extensions-foreca-src_git167+6ae59fa-r0_mips32el.ipk
+MD5Sum: 5952f5efebd4dd66ef7d382f79e7b38a
+SHA256sum: b9c0df25ed00ed406198096a975ef1b6b3215703cb5c44ef7b0adfb859bc1e2e
+Size: 15672
+Filename: enigma2-plugin-extensions-foreca-src_git172+21bc53e-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-foreca.bb
 Description: Weather forecast for the upcoming 10 days - Source files
 OE: enigma2-plugin-extensions-foreca
@@ -8377,15 +8377,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-foreca
-Version: git167+6ae59fa-r0
+Version: git172+21bc53e-r0
 Depends: python-core, python-html
 Section: base
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d4f2888bcdfaeab1c519efc6a3aa7622
-SHA256sum: 68c1887e81680d4dcfe6eeb3099e6a47a81d50a468f40654631166d5811898c0
-Size: 543856
-Filename: enigma2-plugin-extensions-foreca_git167+6ae59fa-r0_mips32el.ipk
+MD5Sum: d46b5f5ab0dc7f3f1031af95cb953c3a
+SHA256sum: 43543cd75a1ffdfc0dadc6ec2a162363bb4fb944124afc412eb8cc146b41b072
+Size: 543748
+Filename: enigma2-plugin-extensions-foreca_git172+21bc53e-r0_mips32el.ipk
 Source: enigma2-plugin-extensions-foreca.bb
 Description: Weather forecast for the upcoming 10 days
 OE: enigma2-plugin-extensions-foreca
@@ -8393,15 +8393,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-fritzcall-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b395541e3d6a4fa27bf8169e8570cc75
-SHA256sum: 3468111cf55ee654c6517c8c554aabd54da37aae940e65a8218eb97d1bd85f4b
-Size: 57964
-Filename: enigma2-plugin-extensions-fritzcall-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 80ee53d81453d45478ce5656aa92af62
+SHA256sum: 3878af96b44ef2aaea7872c60f0d1d453f32c5ccb9cea76411bf43a45dd8bcec
+Size: 57980
+Filename: enigma2-plugin-extensions-fritzcall-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-fritzcall (source files)
 OE: enigma2-plugins
@@ -8409,15 +8409,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-fritzcall
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-html, python-json, python-textutils, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 34ca6c9697364530672992905a5a7e5f
-SHA256sum: 1750a2212b373109f6fda6853185f72ab1a4d11888fe9989d1e7bc2e80777671
-Size: 307720
-Filename: enigma2-plugin-extensions-fritzcall_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 4fefd42917a594ac8c6da7c7717f4e5d
+SHA256sum: 951528ca621359f970aa36e23f54c80fc0cc5e3883bb654e2c71f33905d4e5a3
+Size: 307796
+Filename: enigma2-plugin-extensions-fritzcall_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Show Incoming and Outgoing Calls on your TV Screen with a Fritz!Box
 OE: enigma2-plugins
@@ -8425,15 +8425,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-fstabeditor-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6b3b15202ca8f478ae4dfa7bfcf7151d
-SHA256sum: 0b474706a5a506c9a1c1118d89364af61d13722347e961d74479591d31b1979d
-Size: 5174
-Filename: enigma2-plugin-extensions-fstabeditor-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 5903a4b2dafa9d2453763b4165e7f860
+SHA256sum: e964dee982f4ca2ba9d686f1f572da63ddf26b77c505a45bf802fa5ff81ca632
+Size: 5176
+Filename: enigma2-plugin-extensions-fstabeditor-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-fstabeditor (source files)
 OE: enigma2-plugins
@@ -8441,14 +8441,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-fstabeditor
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d00e90fced54d1563ad649a94be6e5ed
-SHA256sum: 0fa5d45e358c12915ed8202502ea160c368fe6a6d58e9ebc5dd55213cfdd7ec4
-Size: 14200
-Filename: enigma2-plugin-extensions-fstabeditor_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 295faaf626b417705d86d955150b0e50
+SHA256sum: 3e611c3c4b8bb285ce2a6f53bf659d7b1ca21b437f46ad141860bd618d35c834
+Size: 14210
+Filename: enigma2-plugin-extensions-fstabeditor_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Editor for fstab
 OE: enigma2-plugins
@@ -8456,15 +8456,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-ftpbrowser-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0d40bae0d922e1087ed3c0899615af8d
-SHA256sum: 3b3b2c7922cb010a3cc00d7761714a42df6d9076f28b80003ff863eb134782b4
-Size: 10656
-Filename: enigma2-plugin-extensions-ftpbrowser-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 6bec6698c7dcaec36ed2e0e43b54c581
+SHA256sum: 676a38f064878a45088ebd059a7e8c89c6ee10871363183ba3318a5a382261ea
+Size: 10660
+Filename: enigma2-plugin-extensions-ftpbrowser-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-ftpbrowser (source files)
 OE: enigma2-plugins
@@ -8472,15 +8472,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-ftpbrowser
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-shell, python-twisted-protocols
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 24e0299a15db00d816d82e5112d1485b
-SHA256sum: a31ecf8388944ff5182e16d1fb5228f3766246f8893a6c669067b2892806e611
-Size: 27878
-Filename: enigma2-plugin-extensions-ftpbrowser_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 90a1dc4a4ab0349def9bd7435d656ea3
+SHA256sum: 1dd1531edcd6b151c244d4e0200d0d505be5b7727d428ca0abd2bc9d85fec5e5
+Size: 27866
+Filename: enigma2-plugin-extensions-ftpbrowser_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: FTP-Browser-Plugin for Enigma2
 OE: enigma2-plugins
@@ -8488,15 +8488,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-growlee-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7b1580d081025b8ba3f0267187891872
-SHA256sum: 4127f9af9b16e8c3d171352995b3465ef646b8de3262fdc0d762abc47b6c7522
-Size: 7424
-Filename: enigma2-plugin-extensions-growlee-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 187092a157236eeee4015f222484bc9c
+SHA256sum: 7e1764c0db9a6dfdb1a498a6c1fed18d8bd91adc7f72e697f655be4e88a3f55e
+Size: 7422
+Filename: enigma2-plugin-extensions-growlee-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-growlee (source files)
 OE: enigma2-plugins
@@ -8504,15 +8504,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-growlee
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-protocols
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f5c85d3293bcda2948a3f376c9bcde29
-SHA256sum: d0c65097715b48eace7e6bf786e638f842d670b4f6ff0ce81c6b594e0ff99a04
-Size: 11194
-Filename: enigma2-plugin-extensions-growlee_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: ecf9a3dba088f139a3f9793065f3c930
+SHA256sum: c4fccbb962ffb645918eca15f3187c9415f708bc4818ccdd73ce1b45823ba889
+Size: 11190
+Filename: enigma2-plugin-extensions-growlee_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: redirect notifications to growl
 OE: enigma2-plugins
@@ -8637,15 +8637,15 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-httpproxy-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 317877df8ac2988734de60bbc552010e
-SHA256sum: c12672808c8a773af12a446f86eac6ca6e413369c7db32e89c7d0bea907d7fc9
+MD5Sum: 6d7bd3319bd541f921952ca77aaa0663
+SHA256sum: 37aa04b177d5a00a5ad49fb0219340d20f6955edbf83ce8d4e6a2140229fde1e
 Size: 2744
-Filename: enigma2-plugin-extensions-httpproxy-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-httpproxy-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-httpproxy (source files)
 OE: enigma2-plugins
@@ -8653,15 +8653,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-httpproxy
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 99bb0e6ca67e7f05b2f95598cd9abf62
-SHA256sum: 0d22338e67437923f269a8bbdef4528e3a0117fbf913aa53a28eac874c5029ad
+MD5Sum: f0fdff5e65f99b6edc11b333ddd71f53
+SHA256sum: bf07cf3aea1bcd1363777c6a53cc81f64e021498c34e4a960d7c2c68c5236da3
 Size: 4040
-Filename: enigma2-plugin-extensions-httpproxy_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-httpproxy_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: use your Dreambox as Web Proxy
 OE: enigma2-plugins
@@ -8669,15 +8669,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-imdb-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a5d288237ee51833155c267399432b57
-SHA256sum: c2153acd26743304bf88c7fa2c2e201aa941e8fe1ef6e595d934c1c71ab7d30d
-Size: 11202
-Filename: enigma2-plugin-extensions-imdb-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 11ada1e713e9d024d462e83b9e123dd5
+SHA256sum: 9971f5d280b45bd07107524462882a4be7522b70298fc6043bc55d589ec0ea2a
+Size: 11210
+Filename: enigma2-plugin-extensions-imdb-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-imdb (source files)
 OE: enigma2-plugins
@@ -8685,15 +8685,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-imdb
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-html, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fb913c1410885d986f5a8ebd29ba2d9a
-SHA256sum: 7a383144e105ee344d656fdca25d7fd7af9119be47a3a9409b8fa2aaec416346
-Size: 41042
-Filename: enigma2-plugin-extensions-imdb_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 74222552b39f6d51a31cbd2f72377581
+SHA256sum: 4104ab0904c829802b23f264e8fba157d5839011dd557565fe044a2bff6934c7
+Size: 41070
+Filename: enigma2-plugin-extensions-imdb_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: query movie details from the Internet Movie Database
 OE: enigma2-plugins
@@ -8765,15 +8765,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-kiddytimer-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 87a200afa54e4a39532b3a543eb88c6f
-SHA256sum: 2387f2c457488f725e07c8d2cade7a201db2a3783d521c8fdaee4270f9ebba01
-Size: 8632
-Filename: enigma2-plugin-extensions-kiddytimer-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: a798332188b2507e86da31da316b6f8c
+SHA256sum: 2da37b108f08d55333073c6ea1bcb99f4a498a7ce356ba4d5f259b92f0617143
+Size: 8630
+Filename: enigma2-plugin-extensions-kiddytimer-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-kiddytimer (source files)
 OE: enigma2-plugins
@@ -8781,14 +8781,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-kiddytimer
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 843b92f6cff4545d0a24adfd87fd41b5
-SHA256sum: 320b930d0bf9efb93d13f43eb2f08c28e3f7c3c7321ee400666b21bcf9e6a89a
-Size: 91032
-Filename: enigma2-plugin-extensions-kiddytimer_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 674c65d201d9fa56b89da012568eb6e0
+SHA256sum: 40cc991f9e4c5d382d0f06cdb3ea263b6e84491b3f9ed193101d047e1754fa1d
+Size: 90998
+Filename: enigma2-plugin-extensions-kiddytimer_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Allows to control the Kids' daily TV usage
 OE: enigma2-plugins
@@ -8796,15 +8796,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-letterbox-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e8cc95745321b70fc0477c8f6385c7e8
-SHA256sum: 4285564ce5029003984bc178e60b4cc9debd75fa8e91601f9f40827b6f95f21e
+MD5Sum: 57d52522eb1ca6fecd2353f042eda4bd
+SHA256sum: c99a2a05f7dbc1254d7e393f3fe022321575bdc37e13b5e95f694d96109673e9
 Size: 1512
-Filename: enigma2-plugin-extensions-letterbox-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-letterbox-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-letterbox (source files)
 OE: enigma2-plugins
@@ -8812,14 +8812,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-letterbox
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d19e474a92aaafe7b4737127d8965afb
-SHA256sum: cd70f4894b3821e4606f94eb399c4788aa1711d7521add488af9dbf4e81e77d1
-Size: 1984
-Filename: enigma2-plugin-extensions-letterbox_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: ac2fcff5e10d44270c9aac46571b6e75
+SHA256sum: 972f91de8f567af1a123569088da3914024e20f66087718ccebf713ffcf0c6f8
+Size: 1988
+Filename: enigma2-plugin-extensions-letterbox_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Zoom into letterboxed/anamorph movies
 OE: enigma2-plugins
@@ -8827,15 +8827,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-logomanager-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b91c3e417a95b9593a1c07eedbe65a2d
-SHA256sum: e2754d973fabdb0c6afb5f32ff8e6c0269e8245ebd30a12ea33713be5ff9c921
-Size: 4200
-Filename: enigma2-plugin-extensions-logomanager-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 36c248eeaa8c4b12830e9ba7b4842c0a
+SHA256sum: 4568f9f54bcc893ac2e6f2646f34eea035b6e0aee5514a9aa22605d50e050eeb
+Size: 4204
+Filename: enigma2-plugin-extensions-logomanager-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-logomanager (source files)
 OE: enigma2-plugins
@@ -8843,15 +8843,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-logomanager
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugin-extensions-filebrowser, enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: cc61f1aad750163e4e64386ec49f2478
-SHA256sum: c027f84a2273c49b11ea98f9eda8daed0d0276ec684aeb282c4ac1ca804d2eba
-Size: 12218
-Filename: enigma2-plugin-extensions-logomanager_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 4d97c16bf074e1fae312fa4f65f18cb0
+SHA256sum: bdfd45281e840e9406213833760d37df1c93abd2beb5029bcc388380abe8c802
+Size: 12226
+Filename: enigma2-plugin-extensions-logomanager_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: manage logos to display at boottime/radiomode/reboot/restart gui
 OE: enigma2-plugins
@@ -8907,15 +8907,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediadownloader-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 19b7c1313f9db778366443a16f35484b
-SHA256sum: d18347b2411969ab3e9c005e21cdbe9d3fe0cde406ee76a1c0c7c3a9cf0567fe
-Size: 6016
-Filename: enigma2-plugin-extensions-mediadownloader-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: d706138b63db238555c1d191ed2f6389
+SHA256sum: 9f9aef1718a0460584ea50e88b08f0307d555a278073b2d07f1912912e121fd7
+Size: 6012
+Filename: enigma2-plugin-extensions-mediadownloader-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-mediadownloader (source files)
 OE: enigma2-plugins
@@ -8923,15 +8923,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-mediadownloader
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-netclient, python-shell, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a9317e51d96b2a79696f90c219518d40
-SHA256sum: f63b4864b1a8191ff8c7d99c5f3573e3e44a78e68ea61273d3e50cd363169fa7
-Size: 11160
-Filename: enigma2-plugin-extensions-mediadownloader_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 8b420e278bfa2b318c9de032b9d0c388
+SHA256sum: 17af64c337f1854cd37b813a2956c9df824503215fa37a17cd2b10df92390405
+Size: 11148
+Filename: enigma2-plugin-extensions-mediadownloader_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Media File Downloader Plugin for Enigma2
 OE: enigma2-plugins
@@ -8939,15 +8939,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-merlinepg-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ae554fa41c5f20379f5939cb986adbb4
-SHA256sum: 88d5750e718df8e02cb100bd800115613dda773fa786df279468389fce6e6a0f
-Size: 8470
-Filename: enigma2-plugin-extensions-merlinepg-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 08ccd58364d6c3224958f6234346337b
+SHA256sum: 8b81c651ac5b63d3adb6710cde79d0c00bee30c26c354517fe0741bf88d0190e
+Size: 8472
+Filename: enigma2-plugin-extensions-merlinepg-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-merlinepg (source files)
 OE: enigma2-plugins
@@ -8955,14 +8955,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-merlinepg
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9148f7703ae492d8b3ab14e83d724cfd
-SHA256sum: 59161e5c349b1b36fa90d546972fbff4ed4f45ae5042a8b2bb0a6cf31e58a6ee
-Size: 134646
-Filename: enigma2-plugin-extensions-merlinepg_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 3b420c872a467ff9d0018986f9105094
+SHA256sum: deb11d3530b04c8e90579476a7292fe8c1a5bccfe8651470e24153c99bf525cb
+Size: 134670
+Filename: enigma2-plugin-extensions-merlinepg_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Merlin Programm Guide
 OE: enigma2-plugins
@@ -8970,15 +8970,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-merlinepgcenter-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 284f80cc871894d6a05565cdde246258
-SHA256sum: 14e916472dc4af01a4ae93441f99dbb7f8d195d487bf54db3d035e3560aea48a
-Size: 24698
-Filename: enigma2-plugin-extensions-merlinepgcenter-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: a87a4ff0346ab6b077c393d841544f2b
+SHA256sum: e40683ef180533a18c1609900b2c77f7548c2dc35c2e9a6f26ba5039b051a605
+Size: 24718
+Filename: enigma2-plugin-extensions-merlinepgcenter-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-merlinepgcenter (source files)
 OE: enigma2-plugins
@@ -8986,15 +8986,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-merlinepgcenter
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d1f4249a53f426432b36a5835d7339e0
-SHA256sum: 5f5e282767b37b0b0061e9dc85998e4321897f406e90d6ee6c5036b4133d9490
-Size: 59406
-Filename: enigma2-plugin-extensions-merlinepgcenter_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: cbae079a58c447dd7e0f4f845bc430cd
+SHA256sum: 98b454e2e38a511fd9061132c80e97fd6827611dc028adf2abb50d695108c6df
+Size: 59420
+Filename: enigma2-plugin-extensions-merlinepgcenter_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: MerlinEPGCenter: more than just an EPG...
 OE: enigma2-plugins
@@ -9002,15 +9002,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-merlinmusicplayer-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a33dd99c63c265b816f616cacdb9273c
-SHA256sum: a8b797672baf853b9cc23c7b640d7eff147eeb6ebe806ca1ebe5b7567d65198d
-Size: 22174
-Filename: enigma2-plugin-extensions-merlinmusicplayer-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 14cbba8d93aa2b5362bf47c9d0b3c086
+SHA256sum: ed6336b5299c52f00eb3a9f9bba2d81b74ffc90264693f76a1cbd53473542c15
+Size: 22170
+Filename: enigma2-plugin-extensions-merlinmusicplayer-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-merlinmusicplayer (source files)
 OE: enigma2-plugins
@@ -9018,15 +9018,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-merlinmusicplayer
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-mutagen, python-sqlite3, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 50aacd9575491950ae0f1c5fae0c0731
-SHA256sum: d16156107d6e693796fdb5b5bbe22b950421ec39d8a6da57b6754bc4b7d0853e
-Size: 67416
-Filename: enigma2-plugin-extensions-merlinmusicplayer_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 6b01353096568a3553ef753d3d02efc8
+SHA256sum: 553bb6b73ed25462cf7667698ff55bb6060383df174318297f698f2b8bfa1263
+Size: 67404
+Filename: enigma2-plugin-extensions-merlinmusicplayer_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Merlin Music Player and iDream (music management)
 OE: enigma2-plugins
@@ -9212,15 +9212,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-mosaic-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9ed557423202e597a279629bef97c594
-SHA256sum: 47b992c5c9837d1f4f278ddd61decd4072c72c95e87b68bb8436cfab7d1dd6e6
+MD5Sum: 4977853cd428b025e13c167f059d0a55
+SHA256sum: 63cc3a03ddc250f52c1511b9da075c58856a509057dd8cd64e4481b4f5beab90
 Size: 4270
-Filename: enigma2-plugin-extensions-mosaic-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-mosaic-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-mosaic (source files)
 OE: enigma2-plugins
@@ -9228,15 +9228,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-mosaic
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: aio-grab (>= 0.8cvs20081209)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8b0708640155d5178e02a2d6cd4bf820
-SHA256sum: 01634d8cea1a7c769f468ed2ae0b39464f9fd908b0e13640ff7af9335b318d89
-Size: 8816
-Filename: enigma2-plugin-extensions-mosaic_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: f33dcdceb9e78d97f63738f657cee6ea
+SHA256sum: 2b7d5638b457ba29387dea31c123a1bf983c8b27f19cc805262178695cce91da
+Size: 8810
+Filename: enigma2-plugin-extensions-mosaic_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Shows you screenshots of the services in a selected bouquet
 OE: enigma2-plugins
@@ -9244,15 +9244,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-moviecut-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: edbbbdd2767bbf980221a9f97af3e9b8
-SHA256sum: 71b71ff35a1caf44309d487a5cf410fc44267cdef593b2c3e3d897e8fae5e9e1
-Size: 4066
-Filename: enigma2-plugin-extensions-moviecut-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: e29faacb5e13dc5102654e30a7671642
+SHA256sum: b7578b5018d66ee42801d605d7f3da11cc270a9d2a7b23c4f651cdfffa1c951a
+Size: 4070
+Filename: enigma2-plugin-extensions-moviecut-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-moviecut (source files)
 OE: enigma2-plugins
@@ -9260,15 +9260,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-moviecut
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: libc6 (>= 2.31+git0+1094741224), libgcc1 (>= 9.3.0), libstdc++6 (>= 9.3.0)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a845da645db92bda1ce0da9f18bc5209
-SHA256sum: 704f9c888fbc789f491e36ee27d94a8043b904e56595fef432c162abc5b1ba37
+MD5Sum: de17b66d76130773f709559c835ca4f7
+SHA256sum: d73c01a83adc426f7ae2940985d7261efa83274a856179e94911da7ece75e2a3
 Size: 22700
-Filename: enigma2-plugin-extensions-moviecut_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-moviecut_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Perform the cuts specified with the Cutlist editor
 OE: enigma2-plugins
@@ -9324,15 +9324,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-movieretitle-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6cfe791fe96c339267294c35bb0d6d39
-SHA256sum: 92eb314b480ca672e23261096ee36e26189209390b7485d869bdbc3707a6c2c0
-Size: 3926
-Filename: enigma2-plugin-extensions-movieretitle-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 3ed56290c6724480f83e53db27679a91
+SHA256sum: 3d0d55f4dc7b873ba7796676fdbfe6099bb0de2b1de9f8ad011f0d2d3c6a43eb
+Size: 3930
+Filename: enigma2-plugin-extensions-movieretitle-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-movieretitle (source files)
 OE: enigma2-plugins
@@ -9340,14 +9340,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-movieretitle
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8883c07e16f78437982ad400df2b2214
-SHA256sum: bb4b4a027ce61d39c95a613ed8df7794258d966ec0210d27d34f1dfd42bd1234
-Size: 10256
-Filename: enigma2-plugin-extensions-movieretitle_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 48ab4e836dfe775a23caeff077d97dcc
+SHA256sum: a212df37ede67cdf1a88ea023bfaaa78ae0cc141dfcefe142519f1c75d3ecaf2
+Size: 10258
+Filename: enigma2-plugin-extensions-movieretitle_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Change the filename, title, description and location of a movie
 OE: enigma2-plugins
@@ -9355,15 +9355,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-movietagger-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1131fd2b826123c8ae2e43de5ca9e292
-SHA256sum: 7acf4ad6c8a3b310e9fc77a7c07d00102a5e212eba727fa5ec00f2fc46b1f61b
-Size: 3924
-Filename: enigma2-plugin-extensions-movietagger-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 718786e8a9787bdc438a20929ced24ca
+SHA256sum: cf612fd10ddaa0a1dc0b34303408aeec7550eec0a742a3415a3d34234e5bc991
+Size: 3928
+Filename: enigma2-plugin-extensions-movietagger-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-movietagger (source files)
 OE: enigma2-plugins
@@ -9371,14 +9371,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-movietagger
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1695e5ef357cb44bb02367cfbd5d8274
-SHA256sum: 08a6f82f0bdcde26242caa07af5b4731eabbc991594dc5f08ceb8287048c78af
-Size: 8408
-Filename: enigma2-plugin-extensions-movietagger_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 73bf3fa6abe04d665afca5f41c3e3a86
+SHA256sum: f1f231c6248f7c19ff5db8943cbf81db492e6df0a6fb6eac1f48ae86ed5f115a
+Size: 8414
+Filename: enigma2-plugin-extensions-movietagger_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Add tags to recorded movies, to sort a large list of movies
 OE: enigma2-plugins
@@ -9386,15 +9386,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-multirc-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9a94bc2f6ec5ae22fbafacc5e0b52258
-SHA256sum: 325146b14eb42b0130e7cad82b5d1771710d07372ae112e38f6d453eb41c882f
+MD5Sum: d34b447458437f5fa2bb364693e2297e
+SHA256sum: 7e32edaea82adabebb6bea6afa86e411ea3902f285a04f7a30b27fc2f9dbf7a1
 Size: 2632
-Filename: enigma2-plugin-extensions-multirc-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-multirc-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-multirc (source files)
 OE: enigma2-plugins
@@ -9402,14 +9402,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-multirc
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 547096d0f5fa8502484586e601348ea7
-SHA256sum: 41ccbe11ab95edc568174a06291c11215a54bdc8dff29bad0612919a523bf6e9
-Size: 3156
-Filename: enigma2-plugin-extensions-multirc_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: cd45226574f0aacf08658a0ee84d28bb
+SHA256sum: d7014ca53af8a21c1b072b961e5002a0190a4532e00a3f2ff44a7733a634e8cc
+Size: 3160
+Filename: enigma2-plugin-extensions-multirc_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Use multiple Dreamboxes with different RCs
 OE: enigma2-plugins
@@ -9417,15 +9417,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-ncidclient-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ceebffb5cab5dd55d89439e91f4db077
-SHA256sum: 86ba11d4df1e238bc92e2d48f2d50065415151fa1af885a8d097ecbdf47f1a6c
-Size: 14306
-Filename: enigma2-plugin-extensions-ncidclient-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 05de8989bab29a8f9f13059ea8889ae9
+SHA256sum: 6b987afdf287f81c20b3c0a5ebf70422efa64841f6a6191c4c55c3f106fd77d8
+Size: 14312
+Filename: enigma2-plugin-extensions-ncidclient-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-ncidclient (source files)
 OE: enigma2-plugins
@@ -9433,15 +9433,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-ncidclient
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-html, python-textutils, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2457540c0074c2f045652101938703ab
-SHA256sum: b865de9e5636b6ef1e4de2e70690c12e7f82e9ed0146a1c54408b7ffd9bda7bd
-Size: 98178
-Filename: enigma2-plugin-extensions-ncidclient_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 602cf4dc7ae1759fda59fea7ad07cd59
+SHA256sum: 891636ae537bcdb3c36a757f4a8e3fd283c613703f30e6511f7e29694f036e84
+Size: 98214
+Filename: enigma2-plugin-extensions-ncidclient_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Show Incoming Calls on your TV Screen using any NCID server (e.g. VF EasyBox)
 OE: enigma2-plugins
@@ -9581,15 +9581,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-ofdb-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d7c0cd25cf2a650af4950383d54a9266
-SHA256sum: 05e20bcb4acfda67dba587389e9b53c3484fe3a370ffbb1ceb2c0723ed5ebdaa
+MD5Sum: 537a5e8f79ab6476057ee327ea9abda6
+SHA256sum: 2b039785ac444aa7ed889e4aed0fdd448385c6b0404e75f55fcf9c7e01fc3ad2
 Size: 5654
-Filename: enigma2-plugin-extensions-ofdb-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-ofdb-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-ofdb (source files)
 OE: enigma2-plugins
@@ -9597,15 +9597,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-ofdb
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-html, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 385054f5c954c640cf1a424ee6dcf638
-SHA256sum: aece24c695b29c67991c32ea55462f6a537098d8b48f94a4f8f8de152d70c9b7
+MD5Sum: ffd6dd75d060acc03a975ef1643a3ec6
+SHA256sum: 4b6bb93dbd7c3e53280604e4e8e2878b6a1a83cf2b61be5d526d2bed55108a23
 Size: 24020
-Filename: enigma2-plugin-extensions-ofdb_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-ofdb_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: query movie details from the Online Film Datenbank
 OE: enigma2-plugins
@@ -9729,15 +9729,15 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-orfat-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 276470afb27377438a11d63e2efe2080
-SHA256sum: 769eb1fdbb642a10e31f4641237327ee84505a994b1929a3859eaac3419f7f98
+MD5Sum: 56d5153bf03f1df9b452481977e09b3c
+SHA256sum: e2f67b7242af5e6121f68a5eeb22fa16542d1c47d9176aef8f85a934c6f1706e
 Size: 3802
-Filename: enigma2-plugin-extensions-orfat-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-orfat-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-orfat (source files)
 OE: enigma2-plugins
@@ -9745,15 +9745,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-orfat
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugin-extensions-vlcplayer, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6b6bbd59d91e4d449d3a24536723e59e
-SHA256sum: dee046e8504d73e81bdf020cf46ac8572a96d13ed76b0da453b1aa1ad4d45bcf
-Size: 16586
-Filename: enigma2-plugin-extensions-orfat_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 3c22a361edf48dc95013df02b188852b
+SHA256sum: 73ca9e1d4881b4ef7292e81f4541a967839394c0dacace46023dfe9ad24e6f13
+Size: 16594
+Filename: enigma2-plugin-extensions-orfat_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Streaming modules for the orf.at web page
 OE: enigma2-plugins
@@ -9761,15 +9761,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-orfteletext-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9af3d6dace542a66f46c54525a34caae
-SHA256sum: ac528e55d2d2e35eb7683da9d26390759bd44c15d33d2c80e018648042496859
+MD5Sum: 2bd32b72aefff7c193a19c308cc72b5e
+SHA256sum: 7f569423c2b624fa6e5955a087c07942def9ecd45ea586e12979cdd71d11baee
 Size: 3116
-Filename: enigma2-plugin-extensions-orfteletext-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-orfteletext-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-orfteletext (source files)
 OE: enigma2-plugins
@@ -9777,14 +9777,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-orfteletext
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a2f14f912f58bac92d4ee01281734243
-SHA256sum: 2e7920f9b7a8f8a28be18f1b252e78c705db576d7fdd5a6b44910246be181d9d
-Size: 4768
-Filename: enigma2-plugin-extensions-orfteletext_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: a2d178151e4ca4465be2d2c73e223cf6
+SHA256sum: d281e996a586693ccc03daebae8554ea6a06284215185d2e8218efdc762550cc
+Size: 4772
+Filename: enigma2-plugin-extensions-orfteletext_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Browse ORF and SAT1 Teletext independent from channel. This need I-net conection.
 OE: enigma2-plugins
@@ -9920,15 +9920,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-partnerbox-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 84a031679d2289d3500cd89cfac254fd
-SHA256sum: 4f2867e84c9165cd72492d6defeff96ffb68e3718139391ed5165aa732d1f8df
+MD5Sum: 97fb804377130edf7a5e5e8290ae9e57
+SHA256sum: ef05754ac1673313f8577eb28fa020e896108f10853a506650044d21d94b0852
 Size: 33144
-Filename: enigma2-plugin-extensions-partnerbox-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-partnerbox-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-partnerbox (source files)
 OE: enigma2-plugins
@@ -9936,15 +9936,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-partnerbox
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: add3758a3528f847118fb100bab238ed
-SHA256sum: 5000e254ca4d9a7dc13650f23f92bef42e1d7afb3d42ade01726f4de56399810
-Size: 81248
-Filename: enigma2-plugin-extensions-partnerbox_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 8c7c1351deaec66f75a6b3b1174ed167
+SHA256sum: d0b4b4ab8069e53637bf96244b5f8b9fb3f1538d3419f5c6a3a37f8fd4769342
+Size: 81284
+Filename: enigma2-plugin-extensions-partnerbox_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Partnerbox (Remote Timer and Remote TV Player)
 OE: enigma2-plugins
@@ -9952,15 +9952,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-permanentclock-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7bc75581fa4eb62fc47b4a774e71bb18
-SHA256sum: 8c91235ae8ba10d2b88db48419ed328b598a8836e47fb02f8458e662bd19bf72
-Size: 5136
-Filename: enigma2-plugin-extensions-permanentclock-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: bb5a01775ef4fa3f9e88d8cc1da54868
+SHA256sum: 5aefc3f3f6a9e5e03b6b813db909418c3a55b20d5a8f63bb309cf9ef1684a4d9
+Size: 5134
+Filename: enigma2-plugin-extensions-permanentclock-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-permanentclock (source files)
 OE: enigma2-plugins
@@ -9968,14 +9968,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-permanentclock
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5da9d62ae7552e26098e26a6f4e08db4
-SHA256sum: e32069316e87b352fe0d49359f354d0ef8e88a2a39f2c59f4d9d3ca6e857f951
-Size: 29960
-Filename: enigma2-plugin-extensions-permanentclock_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: bfa10f73cf38b5d30dc4a34683491893
+SHA256sum: 7399c9a7f6399dc72e2e938706dd954c7fd8af59d89ffb9415f3526d70bed788
+Size: 29984
+Filename: enigma2-plugin-extensions-permanentclock_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Shows the clock permanent on the screen
 OE: enigma2-plugins
@@ -10113,15 +10113,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-porncenter-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: edb224362981d292398814e3e0537069
-SHA256sum: c3a5a25d2a9dc9b10564d92645c8c790c46028d8c4cc014ea35072383a93607f
+MD5Sum: b69bcd641c62d86f3ed6f87a2701945e
+SHA256sum: b5243b262ef242db3ae0a8036c8a0ec0df3a0ea745abe81cef86597dba8af445
 Size: 7930
-Filename: enigma2-plugin-extensions-porncenter-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-porncenter-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-porncenter (source files)
 OE: enigma2-plugins
@@ -10129,15 +10129,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-porncenter
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8ae4558fe0042cbcc8e26cba3cb909f8
-SHA256sum: d9ea4a1798aa37d216e48110b46d6f2cec591dd31a7b97860e64d42db3d26b06
-Size: 87474
-Filename: enigma2-plugin-extensions-porncenter_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 43a185772ecbd20fa8d22fd9a1a07bb2
+SHA256sum: 2e122f2a4010350faf0fdf5d40f72157368f78acee3415dab2beb0ccb78d1965
+Size: 87446
+Filename: enigma2-plugin-extensions-porncenter_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Adult streaming plugin.
 OE: enigma2-plugins
@@ -10226,15 +10226,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-primetimemanager-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f291627fe8e75962759e899e9d40a9bb
-SHA256sum: 3b03379a89c785a3903267d7cd72ea11fb10e8b7dc4c74c2c50056559cda3726
-Size: 27230
-Filename: enigma2-plugin-extensions-primetimemanager-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: c2be26e6d4b12d7a6ea85237ffdc794b
+SHA256sum: 9e3b3870f97cb707030c17d8fa59f1575623b5fe48bcc0103ac27593930cf49f
+Size: 27234
+Filename: enigma2-plugin-extensions-primetimemanager-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-primetimemanager (source files)
 OE: enigma2-plugins
@@ -10242,15 +10242,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-primetimemanager
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7eba82877882cc90784e9aeacc6bb9ee
-SHA256sum: 2ce7aa16e885204a880dd03253bfc9d9c11138a43a79ae1bd99345e414f078d0
-Size: 53878
-Filename: enigma2-plugin-extensions-primetimemanager_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: eb9fefb1c7d6685ef3b73d14358ed8f9
+SHA256sum: a533700b2463fff39ff14b2a5e4a56a863f35f1124e354faf2783ecf3156b937
+Size: 53906
+Filename: enigma2-plugin-extensions-primetimemanager_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Prime Time Manager for timers
 OE: enigma2-plugins
@@ -10258,15 +10258,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-reconstructapsc-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4380363668971cbece0e6cc7ca20d70c
-SHA256sum: 1d829396eb0ac206e82a2f242ef7a9751575e53a19133b71c454eb58271f5671
-Size: 2016
-Filename: enigma2-plugin-extensions-reconstructapsc-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 2b235828d23d8693641aab51fadab0c1
+SHA256sum: f01a81bf1121256682dfe506b45f68014d34e6ff237a1bef9807873b72c12aed
+Size: 2014
+Filename: enigma2-plugin-extensions-reconstructapsc-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-reconstructapsc (source files)
 OE: enigma2-plugins
@@ -10274,14 +10274,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-reconstructapsc
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2f31f7fcab73ba22eaa736a2dc9a06fc
-SHA256sum: b3fb1fb0033b6a0fd5bb80aa78e3d148fb5f796c9ffee708057c3f408e3f8e03
-Size: 4440
-Filename: enigma2-plugin-extensions-reconstructapsc_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 3772974c78de4dec3d069fe3a5da313e
+SHA256sum: 5b552e85e7220aacb645c8fb54e1cd4dd32c22a35521f91aacf4e4dd8d3e9422
+Size: 4442
+Filename: enigma2-plugin-extensions-reconstructapsc_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Reconstruct missing or corrupt .ap and .sc files of movies
 OE: enigma2-plugins
@@ -10469,15 +10469,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-seekbar-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 71b526ab6eac1b8b26037d85ded37647
-SHA256sum: 5d6de254ca0b28caa9a8351047d32b756ecbcfad49926656b0c9139dfa2b49e1
+MD5Sum: 6903f23fdb33080ecc2b9be945c4a218
+SHA256sum: 063b5d4420bc2dc0f0558c23c5b01c24b70945d4b54db3cbc25989ddec3d4b84
 Size: 4232
-Filename: enigma2-plugin-extensions-seekbar-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-seekbar-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-seekbar (source files)
 OE: enigma2-plugins
@@ -10485,14 +10485,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-seekbar
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 9a895ed4223cc2be3bda05eef71a458f
-SHA256sum: a5ba2ef589faf2ffacef0619aaf55563e96dec1367a09a086e7c7553efac262a
-Size: 7008
-Filename: enigma2-plugin-extensions-seekbar_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 6593369cfb75711a55e177ec582b75b7
+SHA256sum: d285afeeea5fd5c00968ceec65e4e4c8b82f0c21b6dee71710389493f89adbb0
+Size: 7016
+Filename: enigma2-plugin-extensions-seekbar_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Replaces the minute input screen for seek functions
 OE: enigma2-plugins
@@ -10566,15 +10566,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-shoutcast-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 82692c2d151d1bd39eb92cd2a7710bf4
-SHA256sum: 4130f0c799cb9f9354ba496bfbfaf1f9872a7b9474ff2228c894e9a555a3c1b9
-Size: 12508
-Filename: enigma2-plugin-extensions-shoutcast-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 5736cd485a34f65d331af33c9b0ac41e
+SHA256sum: bade897f97aacae4923acff7b5f6f9897b5845af997eaaab2d7215c4d385d207
+Size: 12504
+Filename: enigma2-plugin-extensions-shoutcast-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-shoutcast (source files)
 OE: enigma2-plugins
@@ -10582,15 +10582,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-shoutcast
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-web, streamripper
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d648f40eb30db8f11daef99676b7cc88
-SHA256sum: e9dd608fdb3ce11f57085a3a144112984d8c95096fd509288b36b9c713ef90c2
-Size: 32784
-Filename: enigma2-plugin-extensions-shoutcast_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 2a3665ace41706daed281c3ce91551fc
+SHA256sum: 98db1cd7f45fdd5d74ca06c4e83beeef286a728a5d87395f590523ed9513a5c1
+Size: 32788
+Filename: enigma2-plugin-extensions-shoutcast_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: A client to listen and record SHOUTcast internet radio
 OE: enigma2-plugins
@@ -10598,15 +10598,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-showclock-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 802c56cbde8493dc953cb0728b763d13
-SHA256sum: cb0abfa8ef79b0ac2a500a87b02d8c324887d904e2d574c923ab9d1e5cf10f5a
-Size: 5268
-Filename: enigma2-plugin-extensions-showclock-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 88c8ef0b0327bb7bc589470e6e230e8a
+SHA256sum: 407f18ab6eb316a4faca41c4c45f067a102ee32b892181146353a4264d749334
+Size: 5270
+Filename: enigma2-plugin-extensions-showclock-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-showclock (source files)
 OE: enigma2-plugins
@@ -10614,14 +10614,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-showclock
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bcaa2f883899f1edb9608f117a2b82bd
-SHA256sum: 3c5549d6158084c71e99c425452847a73acc7a7ca455fedb855070dc101e479c
-Size: 11590
-Filename: enigma2-plugin-extensions-showclock_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 6f5cc9ca6bc3693527c7847b36650431
+SHA256sum: 056e0b77871e70d4c11758b00961e1aef863f3a8c9864f1061232e2e7c8d0b79
+Size: 11546
+Filename: enigma2-plugin-extensions-showclock_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Push key 'Exit long' to show the clock while watching TV
 OE: enigma2-plugins
@@ -10629,15 +10629,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-simplerss-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f4232c49b91defea2c1e011741a6c53f
-SHA256sum: 523371d66f28187c6f7ab8efa02c952be18d27ab6c9d42908e735e38408b9288
-Size: 14322
-Filename: enigma2-plugin-extensions-simplerss-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 9e1833a9ec8ba7c8cf963f521e041bf9
+SHA256sum: ea225c849621a1f8d67054a1af416bb8016dae7ccfaaacdd16679046283563b5
+Size: 14326
+Filename: enigma2-plugin-extensions-simplerss-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-simplerss (source files)
 OE: enigma2-plugins
@@ -10645,15 +10645,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-simplerss
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugin-extensions-mediadownloader, python-codecs, python-html, python-twisted-web, python-xml
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c5bdce0b4e220978cd43794481dbce8f
-SHA256sum: 36af1679834a97e0707872823ff750bff8c16d529d7b764682684c9b0eacea48
-Size: 29624
-Filename: enigma2-plugin-extensions-simplerss_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 53933383620518e52caf8abbeab6f57c
+SHA256sum: 825eae60952b1c97ae7905f93a1fcccaa60abe4970c213cdbc19b32dab20f3d9
+Size: 29632
+Filename: enigma2-plugin-extensions-simplerss_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: rss viewer for the enigma2 gui
 OE: enigma2-plugins
@@ -10925,15 +10925,15 @@ License: GPLv2
 Priority: optional
 
 Package: enigma2-plugin-extensions-svdrp-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4b19dbc9376fc84b0c63649b56fb7b00
-SHA256sum: 3b892f6ece14b952399ed5bbfd1f7f69f6014a34ff7320a5c3215092e81ee671
+MD5Sum: 0cf73b1ac5474b3e1c09ffb135581cea
+SHA256sum: e7309b6a72cb728541483b58044fdae54bdf99e404b2e584915eb885728e731e
 Size: 6040
-Filename: enigma2-plugin-extensions-svdrp-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-svdrp-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-svdrp (source files)
 OE: enigma2-plugins
@@ -10941,15 +10941,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-svdrp
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-protocols
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5ad501914e01996fa046d10ed20581f8
-SHA256sum: a35c188c35a93600cc0400a6c84406fb0532e2975d9cff9ea1f39755e19291e0
-Size: 8654
-Filename: enigma2-plugin-extensions-svdrp_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 542a9e2d372692f4e3483dbcc27602b0
+SHA256sum: b30587e97a3e2dccea67c1f59861e735db5bb60933b641c8fad74f2d00103fdb
+Size: 8664
+Filename: enigma2-plugin-extensions-svdrp_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: basic remote control server using svdrp
 OE: enigma2-plugins
@@ -11023,15 +11023,15 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-extensions-tageditor-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 198a1f88863b6bef5caa85c3fbbbd695
-SHA256sum: 68adbde6779e0393925f401f0e8a81a2a16f9221650649e717650647078a87bc
-Size: 3962
-Filename: enigma2-plugin-extensions-tageditor-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 63cec80bc6c31e13628f4454f9f3cd11
+SHA256sum: 79257122bfea022afd94f5bca1ee44d7d28d0d8a54b45cac7c2ed98e5dfd0bd5
+Size: 3958
+Filename: enigma2-plugin-extensions-tageditor-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-tageditor (source files)
 OE: enigma2-plugins
@@ -11039,14 +11039,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-tageditor
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f4b2253ea12641020862c65bb13069ad
-SHA256sum: 4791de3ad0b0d7983cc7198c01021957c70ee5f4e3b2cdc10717bac9f93c9366
-Size: 9894
-Filename: enigma2-plugin-extensions-tageditor_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: db032228ced30372521dfdbc92cb8f19
+SHA256sum: a2ebda459c954c6df58c08a8974e2b6ac54d486874ba46e127213f820ffaa8cc
+Size: 9898
+Filename: enigma2-plugin-extensions-tageditor_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Edit tags of movies, and in timers
 OE: enigma2-plugins
@@ -11171,15 +11171,15 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-trafficinfo-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ddc91e98d18bedd7f1c99f4a12012f31
-SHA256sum: 4b53a2334acecc5891b0ad2492e6d0e0dd4c16660477c721d2a78c8c053ec261
+MD5Sum: dce8d79f619aa33891a228a2cc2837fc
+SHA256sum: b395e98475667f31b50be24a3370f68d01679683db7c4319f5ffabf678036a87
 Size: 3216
-Filename: enigma2-plugin-extensions-trafficinfo-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-trafficinfo-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-trafficinfo (source files)
 OE: enigma2-plugins
@@ -11187,15 +11187,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-trafficinfo
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 79619961aa973ef91a557da8a57f67d2
-SHA256sum: e30a2862df6826bd733920c16ae4699906ffbae65d9e7c2348191e9ce7c0d059
+MD5Sum: 4c335b37441ea6b1156361a740f499c1
+SHA256sum: 2faa35fb10c5ee167858268c3612fe1f52d0530e1107918e84fc2753da63401c
 Size: 7986
-Filename: enigma2-plugin-extensions-trafficinfo_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-trafficinfo_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Show German traffic jams
 OE: enigma2-plugins
@@ -11203,15 +11203,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-transmission-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 062eec9d08e28eaef2d1446abd01bd61
-SHA256sum: 34d5b9311615f760657ee8171eb3472db95ce07441bffce6e690fccade807c9c
+MD5Sum: 0122aac8ccb0392ed4a9656c0418fb02
+SHA256sum: 5fbdd6f7ac7b8b81baedeb5202c5bdb43ebd5350c24e020381e053abfaa20d13
 Size: 2422
-Filename: enigma2-plugin-extensions-transmission-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-transmission-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-transmission (source files)
 OE: enigma2-plugins
@@ -11219,16 +11219,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-transmission
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: transmission, transmission-client
 Recommends: transmission, transmission-client
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 29f4f0f63a13c29e28fcbbd711aa9b9e
-SHA256sum: 86561694b8a883eddf5b228e5e41a555d1499ed2e0885f961e11de18e508b7ad
-Size: 8914
-Filename: enigma2-plugin-extensions-transmission_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 673624f5fffe584205b4a55032142ee9
+SHA256sum: 9d6d863213af6166b7c6d9170cdd99b9c888fb38888bc8aa5f34ba860396e909
+Size: 8912
+Filename: enigma2-plugin-extensions-transmission_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Bittorrent client for enigma2
 OE: enigma2-plugins
@@ -11236,15 +11236,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-tvcharts-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: dce9e13a4cfe41f5a52af2375a6fb071
-SHA256sum: 37b4cb21a7e40878027b134d00953136079eabc4e807e4d0168da96e15f6f978
+MD5Sum: a0b108a9b78e1f27911ae1a332cca92c
+SHA256sum: c66bcbb2db3566c775dcc8c9cfbe2dcae5fac7e051f2076894d0c93b459e56d3
 Size: 6632
-Filename: enigma2-plugin-extensions-tvcharts-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-tvcharts-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-tvcharts (source files)
 OE: enigma2-plugins
@@ -11252,15 +11252,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-tvcharts
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 74de72040b0d3314077950ee94b93cee
-SHA256sum: 86b971458edade678e1ac2f3befdcca58710cc87df99aec798fab893c769cb70
-Size: 9798
-Filename: enigma2-plugin-extensions-tvcharts_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: e422cb2019d047a491ca68500b5f7fd6
+SHA256sum: ca13dc2aa2aeefdd9a6536abd750dde04531d91ab8ae7b7d7cf465ffdea0fbfe
+Size: 9802
+Filename: enigma2-plugin-extensions-tvcharts_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Generates and Shows TV Charts of all users having this plugin installed.
 OE: enigma2-plugins
@@ -11268,15 +11268,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-unwetterinfo-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2df43c89d9d4da40ab738e05999ff733
-SHA256sum: dd99f78437565829c1b99fe8ef87a24fa83643abd8e2c2563bc191a3d4e97365
-Size: 3976
-Filename: enigma2-plugin-extensions-unwetterinfo-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 7acb29d72f5e1f96f43e1bcfa1c6a277
+SHA256sum: c0d13eb63e4a19494e907f6618504544ade562b347b605928e6000720f65d40c
+Size: 3978
+Filename: enigma2-plugin-extensions-unwetterinfo-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-unwetterinfo (source files)
 OE: enigma2-plugins
@@ -11284,15 +11284,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-unwetterinfo
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 468a2268d297e4ee6bead95069ec4047
-SHA256sum: 11bc85099fe957f2da8fbdd4fd1090c452800c456c379f6ff6c09de684716fb9
-Size: 50836
-Filename: enigma2-plugin-extensions-unwetterinfo_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: bf80549a07443b8d10766a42a55adba1
+SHA256sum: ddccbfffda751b96e7fec7b652c100ea008ff267c6c0bf0cb56d8cbc9cddf559
+Size: 50848
+Filename: enigma2-plugin-extensions-unwetterinfo_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: UnwetterInfo shows German storm information.
 OE: enigma2-plugins
@@ -11300,15 +11300,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-valixdcontrol-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 79146a6de25af9eb4a4332249398ca0e
-SHA256sum: 4da65b68bd3ca6f60cf355ab49e0b03d248ffa2610a2c2d4f0efc4234d03eb48
-Size: 7732
-Filename: enigma2-plugin-extensions-valixdcontrol-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 13dd24a095463e1d5290448218e65433
+SHA256sum: 1344e098e484dc7a6461635007a5b59c2073ccd22c194af3ab7d82ea95c24ed7
+Size: 7738
+Filename: enigma2-plugin-extensions-valixdcontrol-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-valixdcontrol (source files)
 OE: enigma2-plugins
@@ -11316,14 +11316,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-valixdcontrol
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4a204433a257a381da03b0e0a4008541
-SHA256sum: 3e3e2cec310516c3f2f480062ed6242ee6fe9f848741fae6a2f4ece389a622ee
-Size: 60090
-Filename: enigma2-plugin-extensions-valixdcontrol_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 8a395c1e559edb6174584fdaab892baa
+SHA256sum: 5fef791dd28382c998e59d539a919bf80f71350e12a0ee18fde288dfc69790b8
+Size: 60060
+Filename: enigma2-plugin-extensions-valixdcontrol_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Customize Vali-XD skins by yourself.
 OE: enigma2-plugins
@@ -11382,15 +11382,15 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-virtualzap-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: f3f2c6e38cd05eb810035576fdae361f
-SHA256sum: ed6ccc50a5f368d1d23dd24322b5f575f2ff937291a4dd0a63b19f2d71f006ba
-Size: 13552
-Filename: enigma2-plugin-extensions-virtualzap-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: efe450f15cd329c17e41a4cf84194ab8
+SHA256sum: 941cfa46d84de2a3b938e8a6e260cb5c1851aa2c9a33927abb4d722787ed1176
+Size: 13554
+Filename: enigma2-plugin-extensions-virtualzap-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-virtualzap (source files)
 OE: enigma2-plugins
@@ -11398,15 +11398,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-virtualzap
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 864d32fced26203c98fbf50729e3e7e8
-SHA256sum: ce4a799c8ff0732b7ae1b35b857004a2d9aa9f75aa45f2e2a5f499bf128898fc
-Size: 34042
-Filename: enigma2-plugin-extensions-virtualzap_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 7bce66b7cffca2ce69f324022d8a25dd
+SHA256sum: ce07c7461fb6c0a4a28a4b8c24a126501ece752fac995df3774f91a5a865834a
+Size: 34026
+Filename: enigma2-plugin-extensions-virtualzap_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: See service-epg (and PiP) from other channels in an infobar.
 OE: enigma2-plugins
@@ -11414,15 +11414,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-vlcplayer-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 78c8afb6c53ecef617766957e7a63fdd
-SHA256sum: 01f17651a149999238c792d9597f45d1c44efdfbc62a462b897de9cc86363002
-Size: 15750
-Filename: enigma2-plugin-extensions-vlcplayer-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 3d69955d2d0550b0532bbea2cbdfaa70
+SHA256sum: e8f71f730451c6f46489e843a1cbcfdc5d1eb8515b9530317db7ff14913e0c98
+Size: 15752
+Filename: enigma2-plugin-extensions-vlcplayer-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-vlcplayer (source files)
 OE: enigma2-plugins
@@ -11430,14 +11430,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-vlcplayer
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 0e52509afe89c1b03700cba274788c02
-SHA256sum: 2e5330596cda8911392b77e4cb94430b7b1880c1f9b17a986dd5a270281846f0
-Size: 37878
-Filename: enigma2-plugin-extensions-vlcplayer_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: abf4b30cbc5d4d0ea073673a18a052fc
+SHA256sum: 0f06317752325091a11cc3699b7ce922e2cac7e8a2885610b89659ded496c800
+Size: 37914
+Filename: enigma2-plugin-extensions-vlcplayer_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Play AVI/DIVX/WMV... videos from PC on your Dreambox.Needs a running VLC on your pc.
 OE: enigma2-plugins
@@ -11557,15 +11557,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-extensions-webcamviewer-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c598f899448a322b38e527f4f559c251
-SHA256sum: 46c5203a637a821c43f82013e08c3b9e0a450973c237d3d5bf651dc17d9d04bc
-Size: 12162
-Filename: enigma2-plugin-extensions-webcamviewer-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 155de182fea3fcfa31d66d1d4bd8d5ed
+SHA256sum: 0a085d91c542ce85e7b1b12341b48e7ec91d3c84e3b536e0ca8d8e1093fd2c07
+Size: 12168
+Filename: enigma2-plugin-extensions-webcamviewer-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-webcamviewer (source files)
 OE: enigma2-plugins
@@ -11573,15 +11573,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-webcamviewer
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-shell, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 87937c0a8386921daf79f453e1d499d3
-SHA256sum: a55210cc280d53b97317123ec7868c703faecf57160676032ff4975a0e4f1589
-Size: 29166
-Filename: enigma2-plugin-extensions-webcamviewer_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 763a090b53c80423d268eb2cbe792cc8
+SHA256sum: 98de7cd0ac0c7cab26fe2776cbac269ef747c3242033e58c27fcb299df4a684b
+Size: 29162
+Filename: enigma2-plugin-extensions-webcamviewer_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: With WebcamViewer you can watch webcams on your TV Screen.
 OE: enigma2-plugins
@@ -11589,15 +11589,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-werbezapper-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5542062746ce7b55d0a4fe66b2658e92
-SHA256sum: e727f5d9b3a6d3b474896a25ace29f79f4a847a0e9a9cc4edbb3927ae4056349
-Size: 8060
-Filename: enigma2-plugin-extensions-werbezapper-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 55e968c30d86e6ba13d8df537c00fa94
+SHA256sum: 5ba046a09f94dd5a19a5fc60fd9348adf09f442a6813455be767f5d4a87ed1e3
+Size: 8062
+Filename: enigma2-plugin-extensions-werbezapper-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-werbezapper (source files)
 OE: enigma2-plugins
@@ -11605,14 +11605,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-werbezapper
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 101645efeaedbee3bcf60051d4f7c2a6
-SHA256sum: 3579ff90ddebf2261095206789b4eb7276c1bdc5a14a10dcf718a3edcf9eddf7
-Size: 20732
-Filename: enigma2-plugin-extensions-werbezapper_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 51e22f03517b470f7fbaf7008db64065
+SHA256sum: ea20a00da846a15e4e034de84ddb3a720937ddfcf1a122930ab812d6d3b808d4
+Size: 20740
+Filename: enigma2-plugin-extensions-werbezapper_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: With Werbezapper you can bridge commercials by creating short timers.
 OE: enigma2-plugins
@@ -11771,14 +11771,14 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube-dl-dbg
-Version: 2020.06.06+git17716+9a7e5cb-r1
+Version: 2020.06.06+git17717+e942cfd-r1
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: e61f7b48e2410da9e5b2e0ed7c525b0f
-SHA256sum: 49a24833546dbd7f750d9e665e467a72d320952593ea940c3851688931fe5b72
+MD5Sum: 984ba65d2d7ef56200493a7826e3ae6b
+SHA256sum: 5f84d7955e3e559c81a40afc6e9e10318c44b9a040e95dbe5121d5f7e79cb22c
 Size: 856
-Filename: enigma2-plugin-extensions-youtube-dl-dbg_2020.06.06+git17716+9a7e5cb-r1_mips32el.ipk
+Filename: enigma2-plugin-extensions-youtube-dl-dbg_2020.06.06+git17717+e942cfd-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube-dl.bb
 Description: Download videos from YouTube (and more sites) - Debugging files
 OE: enigma2-plugin-extensions-youtube-dl
@@ -11787,16 +11787,16 @@ License: LGPLv2.1
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube-dl-dev
-Version: 2020.06.06+git17716+9a7e5cb-r1
-Depends: enigma2-plugin-extensions-youtube-dl (= 2020.06.06+git17716+9a7e5cb-r1)
+Version: 2020.06.06+git17717+e942cfd-r1
+Depends: enigma2-plugin-extensions-youtube-dl (= 2020.06.06+git17717+e942cfd-r1)
 Recommends: bash-completion-dev, libxml2-dev, python-argparse-dev, python-ctypes-dev, python-dev, python-email-dev, python-html-dev, python-subprocess-dev, python-unixadmin-dev
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 351fc7955966919bb260b0f0907c1fcd
-SHA256sum: 1982e6dedfed90121ebad0b89a7fa547d4915b8403da8ce8b3aad20c04e812f6
+MD5Sum: 5585b34e45e1bd17007017e517f92d9c
+SHA256sum: e29cf6ea30760cacd9a498003a9c6fb446564545bd0117d301292554124a261b
 Size: 956
-Filename: enigma2-plugin-extensions-youtube-dl-dev_2020.06.06+git17716+9a7e5cb-r1_mips32el.ipk
+Filename: enigma2-plugin-extensions-youtube-dl-dev_2020.06.06+git17717+e942cfd-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube-dl.bb
 Description: Download videos from YouTube (and more sites) - Development files
 OE: enigma2-plugin-extensions-youtube-dl
@@ -11805,14 +11805,14 @@ License: LGPLv2.1
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube-dl-doc
-Version: 2020.06.06+git17716+9a7e5cb-r1
+Version: 2020.06.06+git17717+e942cfd-r1
 Section: doc
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b63b33133f11ec036a10cf80e761fa79
-SHA256sum: 309ad039afa8a8ee374762d2c99398d112b112c2d33731da5178bc455e066781
+MD5Sum: 6027ebd6fdb506ac9705a57f12bc4fdd
+SHA256sum: 707b09aa7d193249d3233fbcd4770c5e425372f78e0d74581ec45c1b7de97ce6
 Size: 956
-Filename: enigma2-plugin-extensions-youtube-dl-doc_2020.06.06+git17716+9a7e5cb-r1_mips32el.ipk
+Filename: enigma2-plugin-extensions-youtube-dl-doc_2020.06.06+git17717+e942cfd-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube-dl.bb
 Description: Download videos from YouTube (and more sites) - Documentation files
 OE: enigma2-plugin-extensions-youtube-dl
@@ -11821,14 +11821,14 @@ License: LGPLv2.1
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube-dl-src
-Version: 2020.06.06+git17716+9a7e5cb-r1
+Version: 2020.06.06+git17717+e942cfd-r1
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8d6b6a8e659a48271bc128a1788674b4
-SHA256sum: 35168d1d23e3fec8b717ec03ace3b56b1e258ee5fd1ddad720433c664dec70c8
-Size: 947238
-Filename: enigma2-plugin-extensions-youtube-dl-src_2020.06.06+git17716+9a7e5cb-r1_mips32el.ipk
+MD5Sum: bbcd0ce648eac5cb99c4a728fd393730
+SHA256sum: a8c418c444f8a5869cd6d7968f67d7658158c67b827623d76d8a5c3db060ce03
+Size: 947244
+Filename: enigma2-plugin-extensions-youtube-dl-src_2020.06.06+git17717+e942cfd-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube-dl.bb
 Description: Download videos from YouTube (and more sites) - Source files
 OE: enigma2-plugin-extensions-youtube-dl
@@ -11837,15 +11837,15 @@ License: LGPLv2.1
 Priority: optional
 
 Package: enigma2-plugin-extensions-youtube-dl
-Version: 2020.06.06+git17716+9a7e5cb-r1
+Version: 2020.06.06+git17717+e942cfd-r1
 Depends: python-argparse, python-ctypes, python-email, python-html, python-subprocess, python-unixadmin
 Section: devel/python
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 02cf8d0dc6d7b0858d2807b2f7d57c49
-SHA256sum: 229d71d8721ed0295273b5e319a3f26f6508a99a9c27f118151cead7ad599338
-Size: 1249848
-Filename: enigma2-plugin-extensions-youtube-dl_2020.06.06+git17716+9a7e5cb-r1_mips32el.ipk
+MD5Sum: af041972210213d79901afbeeb23df59
+SHA256sum: 9f44ab701f9e2702f3578813e923efb09b90787e0df5de99442eec50a1761f0a
+Size: 1249940
+Filename: enigma2-plugin-extensions-youtube-dl_2020.06.06+git17717+e942cfd-r1_mips32el.ipk
 Source: enigma2-plugin-extensions-youtube-dl.bb
 Description: Download videos from YouTube (and more sites)
 OE: enigma2-plugin-extensions-youtube-dl
@@ -11887,15 +11887,15 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-extensions-zaphistorybrowser-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: fff9d8c23444191e88ffbbeea73a205c
-SHA256sum: 9b98d95a2bd7dff71bccc03f7494663cd0ff2267f61aae401e4ac5895c6c7c8f
-Size: 3594
-Filename: enigma2-plugin-extensions-zaphistorybrowser-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 53bef8fcbecdfad9d7991b9f3f55fb99
+SHA256sum: 4ff2ec42357947833f25bb30af16d0c11c8ba2ae1dfd1385365e298adb09be3f
+Size: 3222
+Filename: enigma2-plugin-extensions-zaphistorybrowser-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-zaphistorybrowser (source files)
 OE: enigma2-plugins
@@ -11903,14 +11903,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-zaphistorybrowser
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4ea477cb0f1bdd4fcab60b2e3775cfc8
-SHA256sum: 7340f786cf1be245c91b1ad356a981c801d163f80fdc997ee32e6f242c88248f
-Size: 8822
-Filename: enigma2-plugin-extensions-zaphistorybrowser_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 4b725cf33a4231501309ce2b7a2f079d
+SHA256sum: b937cb444a97833fbb852c5f76f7d69aa427900f04c127bf4af106b46d8ef607
+Size: 8552
+Filename: enigma2-plugin-extensions-zaphistorybrowser_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: Shows a list containing the zapping-history and allows user to zap to the entries or to modify them.
 OE: enigma2-plugins
@@ -11918,15 +11918,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-zapstatistic-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ecb5254ed715be86cd3fe45d5aa1f5b4
-SHA256sum: 29d8211b06d715a8efdf75d8d185ac541a3c8f684c6e9ab51d0f0a6df98aafc5
+MD5Sum: 99798887de1d86e94e858cc9b308b3ae
+SHA256sum: de670199bfa3f88d501dc86a108ff7ddd695fc263da1ec16bcbea68f92be22d7
 Size: 4362
-Filename: enigma2-plugin-extensions-zapstatistic-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-extensions-zapstatistic-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-zapstatistic (source files)
 OE: enigma2-plugins
@@ -11934,14 +11934,14 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-zapstatistic
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7c6c2bcc41ee4b7796f9c6a3e9a7e04c
-SHA256sum: 54de671987de6c9fffd95d085c4ece41a21b45cf643deeaab96cf5dc9a8a09bb
-Size: 9340
-Filename: enigma2-plugin-extensions-zapstatistic_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 0928a558ce7c78ea3ef0fbb75cebe0f9
+SHA256sum: f36343cf749983abbfb02c6fe0f42d2382ee56f91ba68da05a9b96abb186fa38
+Size: 9330
+Filename: enigma2-plugin-extensions-zapstatistic_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: ZapStatistic shows the watched services with some statistics.
 OE: enigma2-plugins
@@ -11949,15 +11949,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-zdfmediathek-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ae7bc4ef4f432418290f7707ddeacf31
-SHA256sum: 005c08a51d7c3cd51bdeb703bb96688216c368d91326d0f346f272bc5ca56612
-Size: 7260
-Filename: enigma2-plugin-extensions-zdfmediathek-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 4dc4b1bdbed62ffe46286c3b4b934c86
+SHA256sum: 02f3d2a4206cc8d83eb82ba09e66f46f5e80b6de06004a749c17f0e471bb5564
+Size: 7264
+Filename: enigma2-plugin-extensions-zdfmediathek-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: extensions-zdfmediathek (source files)
 OE: enigma2-plugins
@@ -11965,15 +11965,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-extensions-zdfmediathek
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: python-html, python-twisted-web
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: d50fed44f3a3ed72f0dddeff22b3e910
-SHA256sum: ae1d8eb3c9cb778113f6b0e6744b815eadf853ffe67b81488eb489e606f7a4e9
-Size: 22268
-Filename: enigma2-plugin-extensions-zdfmediathek_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: c251543b13c4be63be485cfd6474b6d9
+SHA256sum: f34416b9131ad83c81455b3705553f17bb087f466bb78202aa8f0cac42dadb21
+Size: 22260
+Filename: enigma2-plugin-extensions-zdfmediathek_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: ZDFMediathek allows you to watch streams from ZDF Mediathek.
 OE: enigma2-plugins
@@ -12030,16 +12030,16 @@ License: GPLv2+
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker-dbg
-Version: 3.1+git744+c4ce6d3-r0
+Version: 3.1+git745+ff3c626-r0
 Depends: enigma2-plugin-systemplugins-autobouquetsmaker
 Recommends: libc6-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 70f5d60eb888b4848f856f8a3ad7d398
-SHA256sum: 5d29160814479198ed43468298d50aaa6658c9581f5f7158c7917ba90cc7bac5
-Size: 23326
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dbg_3.1+git744+c4ce6d3-r0_mips32el.ipk
+MD5Sum: 23b7b291d16421e8741b74279ec466ef
+SHA256sum: 36a3be11d73a9c50fb9716ad9a0c759dfab60e679d714167a44990cda15659ce
+Size: 23386
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dbg_3.1+git745+ff3c626-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: Automatically build and update bouquets from the DVB stream. - Debugging files
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12047,16 +12047,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker-dev
-Version: 3.1+git744+c4ce6d3-r0
-Depends: enigma2-plugin-systemplugins-autobouquetsmaker (= 3.1+git744+c4ce6d3-r0)
+Version: 3.1+git745+ff3c626-r0
+Depends: enigma2-plugin-systemplugins-autobouquetsmaker (= 3.1+git745+ff3c626-r0)
 Recommends: enigma2-dev, libc6-dev
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 907c94e67f01be7562e9f9513b335e11
-SHA256sum: be87249fa533fdf2f8a6acf4174fa8552b97003d4d3ea755a15750f73d27a423
-Size: 752
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dev_3.1+git744+c4ce6d3-r0_mips32el.ipk
+MD5Sum: 0b28952819d089bd1f02719a13cae468
+SHA256sum: 2d995c75defab9d8665ceb79faef0f6436a28e15a517698c053e123f3ca87e7c
+Size: 754
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker-dev_3.1+git745+ff3c626-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: Automatically build and update bouquets from the DVB stream. - Development files
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12064,15 +12064,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker-po
-Version: 3.1+git744+c4ce6d3-r0
+Version: 3.1+git745+ff3c626-r0
 Depends: enigma2-plugin-systemplugins-autobouquetsmaker
 Section: base
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 5048c5ab14c57464c105625ad724346f
-SHA256sum: 524168ef3d63e96274fdc7a6e908d77d93be61162ea7ade02ee3e6fb53573f4a
-Size: 38296
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker-po_3.1+git744+c4ce6d3-r0_mips32el.ipk
+MD5Sum: f4a840c0b3e31037da1b2bda7b633c45
+SHA256sum: 4fa9e8849ea9089b298a1f712022f28c1cfd14ae0bd837e9e16a600274a83445
+Size: 38290
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker-po_3.1+git745+ff3c626-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: systemplugins-autobouquetsmaker (translations)
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12080,15 +12080,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker-src
-Version: 3.1+git744+c4ce6d3-r0
+Version: 3.1+git745+ff3c626-r0
 Depends: enigma2
 Section: devel
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: df923aef4050c0ac3930304fbc44fcf8
-SHA256sum: 45a21c8e0fce1a1f275b5b84abcef1c76e9bc805a6b4de86f9e8d1969172aa9d
-Size: 47778
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker-src_3.1+git744+c4ce6d3-r0_mips32el.ipk
+MD5Sum: 63edd2a9c45cffee9975fda7f3fbcc72
+SHA256sum: af8dbf57f8389c12ca942d7a1cf266036c74a1b3a91451085eea958957279a73
+Size: 47750
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker-src_3.1+git745+ff3c626-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: Automatically build and update bouquets from the DVB stream. - Source files
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12096,15 +12096,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autobouquetsmaker
-Version: 3.1+git744+c4ce6d3-r0
+Version: 3.1+git745+ff3c626-r0
 Depends: enigma2, libc6 (>= 2.31+git0+1094741224)
 Section: base
 Architecture: mips32el
 Maintainer: oe-alliance team
-MD5Sum: 66430cf7e279d1c3aef6b70223071de5
-SHA256sum: 5ec46bc1f7e9167a8547bd85e14e2e95fda00fcede2d053d63b648c4c08a0079
-Size: 219176
-Filename: enigma2-plugin-systemplugins-autobouquetsmaker_3.1+git744+c4ce6d3-r0_mips32el.ipk
+MD5Sum: 85041f1af20dba53fde4333a25cef8ea
+SHA256sum: 0ec1c14b19dbc3ee7bd3b2713e37f81e52b3d5ba4db36baa003b3e8e8ccd2456
+Size: 218938
+Filename: enigma2-plugin-systemplugins-autobouquetsmaker_3.1+git745+ff3c626-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-autobouquetsmaker.bb
 Description: systemplugins-autobouquetsmaker
 OE: enigma2-plugin-systemplugins-autobouquetsmaker
@@ -12112,15 +12112,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-automaticcleanup-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1aee8e711d0938dff288e28a5b489e9b
-SHA256sum: 9bdd2f64f40a1be2eb34356834f04d39aa0b8dc981cd1a76565d201d3b435738
-Size: 6564
-Filename: enigma2-plugin-systemplugins-automaticcleanup-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 713ff27e56bbbb2818a92955ddb3b7b0
+SHA256sum: 433fb66b78de3332669927f6bcb76210bf1ff18a43d78362521575dfeee2600f
+Size: 6568
+Filename: enigma2-plugin-systemplugins-automaticcleanup-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-automaticcleanup (source files)
 OE: enigma2-plugins
@@ -12128,15 +12128,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-automaticcleanup
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 181e6e7dda0dba8930eef3a94864c419
-SHA256sum: 79796136ce08c693a7e7a48985722d31f0103263ca670ca90a6ceef07c8d5455
-Size: 10860
-Filename: enigma2-plugin-systemplugins-automaticcleanup_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 2967cf97e2bb3cbf5c6c99e15b541503
+SHA256sum: e14a1b3c13ca6b39ad8c24f3ad5d3fef427edbf2b0b43c930e4a6e0d1bf72130
+Size: 10862
+Filename: enigma2-plugin-systemplugins-automaticcleanup_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-automaticcleanup
 OE: enigma2-plugins
@@ -12144,15 +12144,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-automaticvolumeadjustment-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6fac4f403fccbc12c662ab6c0a94402a
-SHA256sum: 6fbefe49c93ba4a04ad19fc0bf4ca64cbce2cd4ef54c56db0118ea134c20f194
+MD5Sum: a174c7766fc3d4d0d8b8991c22da831a
+SHA256sum: 32c01ce0df88dea4b39b3d04030e227875af8fa0c6eecb27ee033b409dbf0ce3
 Size: 7602
-Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-automaticvolumeadjustment (source files)
 OE: enigma2-plugins
@@ -12160,15 +12160,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-automaticvolumeadjustment
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c253eb2520cc752eb63522a4511f23a4
-SHA256sum: d1bca599f4de15d20ca1bb030c2b273b0969140688f1ef689c1abb0f78a9a35d
-Size: 13894
-Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: fa86fd12a36e85be6bea291d6c0829ed
+SHA256sum: 01e5eb5acfabfab77bd2494b67bf02ad3e514598d1bcb9ec812e65e1bd45cce6
+Size: 13930
+Filename: enigma2-plugin-systemplugins-automaticvolumeadjustment_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-automaticvolumeadjustment
 OE: enigma2-plugins
@@ -12176,15 +12176,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autoresolution-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c6e0a66f2a5e933de29b7769289d5194
-SHA256sum: df3310b387e4e0c55eb25cc62f949a6832c70193fefdf29aafa699bf904dfd73
-Size: 7858
-Filename: enigma2-plugin-systemplugins-autoresolution-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: b12a16f762b9a500943a61ff5a4ec47e
+SHA256sum: 2f2ed92d300f3617863aca9694d2b7ed156339c92cac70f44a7c9532ce212708
+Size: 7862
+Filename: enigma2-plugin-systemplugins-autoresolution-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-autoresolution (source files)
 OE: enigma2-plugins
@@ -12192,15 +12192,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-autoresolution
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 1194ccab8dd31ab1475fd70648dd9e30
-SHA256sum: 82aafa79e64275ec051621518ed7d189985dbc63091d993063d8d3be8f9e9357
-Size: 17854
-Filename: enigma2-plugin-systemplugins-autoresolution_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 0ff762adb992d953d2984da9be1fa342
+SHA256sum: 55edb3c66efce2cbc90a26a584166682d8b28331cc9abf54d54d8e7f6d4e1e28
+Size: 17870
+Filename: enigma2-plugin-systemplugins-autoresolution_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-autoresolution
 OE: enigma2-plugins
@@ -12208,15 +12208,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-blindscan-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 2b3f57d700e4d4899964f0fa0b8c606e
-SHA256sum: 90ee6ec96cf787650e0771b55257b43bbf68a4c960c9832a38572073a57d8e83
-Size: 22244
-Filename: enigma2-plugin-systemplugins-blindscan-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 608f211af0715c03cd9fc056bea338e9
+SHA256sum: 8a30183300990416f17e5c96263ece7ebc90aeebaeb89198f8ff379b51653c48
+Size: 22252
+Filename: enigma2-plugin-systemplugins-blindscan-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-blindscan (source files)
 OE: enigma2-plugins
@@ -12224,16 +12224,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-blindscan
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Recommends: virtual/blindscan-dvbs
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 7cedd035f2ee3e60b41adc5bc7d40307
-SHA256sum: b3d80468813c453bd08921e1abc9379bdeb14d2211dd65126d1752bf462ebe89
-Size: 59274
-Filename: enigma2-plugin-systemplugins-blindscan_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: d5d88e69b4b1aba50b6cf14b430ba1fb
+SHA256sum: f97c7cbdb155fbb186476207baea689c16353aa4b942b7c9ee31a58ee41b8529
+Size: 59302
+Filename: enigma2-plugin-systemplugins-blindscan_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-blindscan
 OE: enigma2-plugins
@@ -12246,8 +12246,8 @@ Recommends: libc6-dbg, libcurl-dbg, libxml2-dbg, libz-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 3d72404586c49651b9769d507da67fdb
-SHA256sum: 05c632b79ebcee5eed25d4aee546bed85b75308e8f3584784fe4cefde446327c
+MD5Sum: ee7b15f741fdd4051e47485076f9a0f6
+SHA256sum: 40fc568e89134736a578fd56cf5ac0dd3d9858577e199ddd666a802b1b6c3bbe
 Size: 810
 Filename: enigma2-plugin-systemplugins-crossepg-dbg_0.8.6+gitr497+14d2184-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
@@ -12264,9 +12264,9 @@ Recommends: curl-dev, enigma2-dev, libc6-dev, libcurl-dev, libxml2-dev, libz-dev
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 4e95974ef319cab32d2b0aea173e7f52
-SHA256sum: eba729563090614170dc36c83fe755442f54aab01d1623ec7cc6efc707b9ac74
-Size: 874
+MD5Sum: 355a64a93be944e68b915b948f0facc8
+SHA256sum: 9a973f57f253f4eed0fdfc63235143b776f9ffa81c4e60eabdd10a7e81ecb36f
+Size: 872
 Filename: enigma2-plugin-systemplugins-crossepg-dev_0.8.6+gitr497+14d2184-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: Handle your EPG on enigma2 from various sources (opentv, xmltv, custom sources) - Development files
@@ -12281,9 +12281,9 @@ Depends: enigma2-plugin-systemplugins-crossepg
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 865cce69a3b444c7ac340e42d1a3d056
-SHA256sum: f4364167b1f537129c0060ad8f7659bd3f9e2ddfb894bf25b45119b655d42924
-Size: 22868
+MD5Sum: 655b17a52462454f67d59083a1e8b708
+SHA256sum: 54a57e0c97642ba187df2c1b5595cae47ddabb390e2e3c023ba35b64465905c3
+Size: 22870
 Filename: enigma2-plugin-systemplugins-crossepg-src_0.8.6+gitr497+14d2184-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
 Description: Handle your EPG on enigma2 from various sources (opentv, xmltv, custom sources) - Source files
@@ -12298,8 +12298,8 @@ Depends: enigma2, libc6 (>= 2.31+git0+1094741224), libcurl4 (>= 7.69.1), libxml2
 Section: base
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f283595b492ea3bc6f9e4e2daeca7d75
-SHA256sum: 4e4b75363f96e98ee1e5e5ce609af8ba81b403a7eb885da2fe040a93d664f812
+MD5Sum: 9105c35a60bc04676b14a0907c4afa9f
+SHA256sum: 08156fac8421c7a2decd432ce6939dff50b6030b6d9b81a9528c770e761f8043
 Size: 301096
 Filename: enigma2-plugin-systemplugins-crossepg_0.8.6+gitr497+14d2184-r0_mips32el.ipk
 Source: enigma2-plugin-systemplugins-crossepg.bb
@@ -12494,15 +12494,15 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-mphelp-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 70b7c4c48d6f227d3276d13ce866faa7
-SHA256sum: 9f620707c238aba2299042ed4d4b823a5e15df6a9f57082e6e120cba64a765c9
-Size: 2902
-Filename: enigma2-plugin-systemplugins-mphelp-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 6b288765fa37a322723ac805259fcba5
+SHA256sum: 5888809e452d87b884f5be20f616e6eeb1eaa2fc78287b09a29ec4fb3f29ba62
+Size: 2906
+Filename: enigma2-plugin-systemplugins-mphelp-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-mphelp (source files)
 OE: enigma2-plugins
@@ -12510,15 +12510,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-mphelp
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins, python-xml
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5614c9add3fb9a6cc804a9a2621ed3f9
-SHA256sum: f8760d1067874457023e6f9eb0d6005f2eabe80d96552013cc94ce6325f5150a
-Size: 4600
-Filename: enigma2-plugin-systemplugins-mphelp_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: c612cf9d64fe7ec81f83b4c87d08e54b
+SHA256sum: d8b833489016d72a066b0f9f6a2980b891dfc522783befc43a218108e656c577
+Size: 4606
+Filename: enigma2-plugin-systemplugins-mphelp_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-mphelp
 OE: enigma2-plugins
@@ -12526,15 +12526,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkbrowser-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: be600b43107c79a41ff09d4ad5237716
-SHA256sum: 08e75d4c088eca647932ff2e3680c2b3dcd29454abbf2e7460e109996257a445
-Size: 13808
-Filename: enigma2-plugin-systemplugins-networkbrowser-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 78e52bfa2aab7597904e3f1d3630c093
+SHA256sum: b354590e481ddeae0badc6ac8516eb9553163986c9e26ca1959d4480f19fad6c
+Size: 13800
+Filename: enigma2-plugin-systemplugins-networkbrowser-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-networkbrowser (source files)
 OE: enigma2-plugins
@@ -12542,15 +12542,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkbrowser-staticdev
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: a246e8820747d92f10c285c2a43cc219
-SHA256sum: 36178a0ac11f6efe1e5e82193af6517d0a1eacd64f3d557ac855f70680bb2ceb
-Size: 85740
-Filename: enigma2-plugin-systemplugins-networkbrowser-staticdev_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 36117515ef85dc4467d1faedca8f9c23
+SHA256sum: 6dca33b16c14778be661b16e2b4cf709986a6e7bc98ae1e363b7c9c78257bb6b
+Size: 85596
+Filename: enigma2-plugin-systemplugins-networkbrowser-staticdev_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-networkbrowser (static development)
 OE: enigma2-plugins
@@ -12558,15 +12558,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-networkbrowser
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins, libc6 (>= 2.31+git0+1094741224)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: ab01ab6080fe9e812a8b4d04bec35f05
-SHA256sum: 7b268318c134049a57be0f33fdc6ac071dced4242afaa60e90b2986baf273100
-Size: 73280
-Filename: enigma2-plugin-systemplugins-networkbrowser_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: b74c7c1de3d0f92a108c87b1550c269b
+SHA256sum: 1e55a80e5fa93267ce45153bf758d25964ba7fd5f9e5a1a82cf4f39cbd3e645c
+Size: 73268
+Filename: enigma2-plugin-systemplugins-networkbrowser_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-networkbrowser
 OE: enigma2-plugins
@@ -12638,15 +12638,15 @@ License: GPLv3
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-recinfobar-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 715ebde5ef89320fdce35ea9eb2aa100
-SHA256sum: 99abf6e2e284498c756624346463c7833373c58fb0e34ddc3a900ac1e1814ba2
+MD5Sum: 1aadc022ec430ad66cbc39f56d2e3981
+SHA256sum: fbb7648ae821ab10dfd99cf3f532b9a3ab9e0d59bb6a9d3242d357c18daef618
 Size: 9568
-Filename: enigma2-plugin-systemplugins-recinfobar-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-systemplugins-recinfobar-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-recinfobar (source files)
 OE: enigma2-plugins
@@ -12654,15 +12654,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-recinfobar
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 8ceffe2b2940cef8b7a56dd99750c76e
-SHA256sum: 2c9e73c2f9c4455f970a716384de9a3a8f1fd362951ab4ddf13134fe9cf9ce0d
-Size: 20192
-Filename: enigma2-plugin-systemplugins-recinfobar_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 314193e2d7de42b2712264b21e425ee7
+SHA256sum: d6c433865b8aae854371e0d7fd08784d99ad03b8a38fab59213d8db3e008742a
+Size: 20200
+Filename: enigma2-plugin-systemplugins-recinfobar_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-recinfobar
 OE: enigma2-plugins
@@ -12670,15 +12670,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satipclient-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: de79f2fff1c602c3b4bfac607f226686
-SHA256sum: bb5e3393dafd1dd6adf75cee1c738ef7f67d17c419327e2a28e4d14df676d6a2
-Size: 7086
-Filename: enigma2-plugin-systemplugins-satipclient-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 27cf4602969b430ffc453af2433dcbc6
+SHA256sum: dac5a667fea976f7321d83b34025dda29b5dbd485e395b40215dc67141a9cba0
+Size: 7088
+Filename: enigma2-plugin-systemplugins-satipclient-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-satipclient (source files)
 OE: enigma2-plugins
@@ -12686,15 +12686,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-satipclient
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6eb1d2d9b3cc09135afce4eeb0ed8fd1
-SHA256sum: d3ea53f69ffca353a5eefd26100a5ba7349d0e044e0d87a0765d6b10c1ed5f47
-Size: 13570
-Filename: enigma2-plugin-systemplugins-satipclient_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 8eee59ea06902ba864aed7dd1d526fa8
+SHA256sum: 8f9d8c7d45563a409e0e472bd81a1031357fdaa1c88efb45d08c0f760a5accd2
+Size: 13566
+Filename: enigma2-plugin-systemplugins-satipclient_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-satipclient
 OE: enigma2-plugins
@@ -12702,15 +12702,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-setpasswd-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 4dc6819b84999d1eba6e4d893565a4cc
-SHA256sum: 3465dc573b93475d681e513e899b59721607d5d44f88a40caa0bafd7e509d611
+MD5Sum: bd413386c639a3d546f960e4b9db7fe3
+SHA256sum: 1eeb4a581b16f111bc660cf52978db849ad348d6a9972f0e734c42a358e46e53
 Size: 2652
-Filename: enigma2-plugin-systemplugins-setpasswd-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugin-systemplugins-setpasswd-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-setpasswd (source files)
 OE: enigma2-plugins
@@ -12718,15 +12718,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-setpasswd
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: bbdc9e01cc6a4b9d67b9b5c46291d349
-SHA256sum: ea5c0b2e277a4de49fc89b66edb31ef776a4c1aa50723ff9b1631b136d35c2d8
-Size: 7144
-Filename: enigma2-plugin-systemplugins-setpasswd_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: cc955b30f762be2c2147511c110f8069
+SHA256sum: 262ac1413204be0fc22af4199c2c043c010127b6f1449d8816becafd40ac138d
+Size: 7142
+Filename: enigma2-plugin-systemplugins-setpasswd_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-setpasswd
 OE: enigma2-plugins
@@ -12785,15 +12785,15 @@ License: PD
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-systemtime-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b7858da83d2748bd7e90f1e49476e107
-SHA256sum: 48572056d691db56bde56fb93e272756c4825242d2846899b31eb2f9f22d0b52
-Size: 5978
-Filename: enigma2-plugin-systemplugins-systemtime-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: b0a06d8da4b4e7add8b2339aea9fd00c
+SHA256sum: 8712e49216488f0f5e405bd9b3a5931fc02bb7c0409d9513c41938fcf02b1ebf
+Size: 5974
+Filename: enigma2-plugin-systemplugins-systemtime-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-systemtime (source files)
 OE: enigma2-plugins
@@ -12801,16 +12801,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-systemtime
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins, ntpdate
 Recommends: ntpdate
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 6fd2b0f7eb2f0fa0025f10e22860630f
-SHA256sum: 96ea401395acd61b2f43c0c8f5fb88940491006c1f684f5293fe90d000f9e24c
-Size: 15722
-Filename: enigma2-plugin-systemplugins-systemtime_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: b0c86dae7e1045bdf43248f503644269
+SHA256sum: 988c9c36a68de6bbd17dc40e776720850ba6a4b337c23687d12d18f3151248e6
+Size: 15736
+Filename: enigma2-plugin-systemplugins-systemtime_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-systemtime
 OE: enigma2-plugins
@@ -12818,15 +12818,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-terrestrialscan-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3248b5b457e0a6225311106bc99456be
-SHA256sum: 189193604cdeb234b56aed489b4b615871a372b15c0d123ab6e66795a44ce5ca
-Size: 6252
-Filename: enigma2-plugin-systemplugins-terrestrialscan-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 70eb537bce25734b1a2f21559743d364
+SHA256sum: 15594f73a4012f46a557acfff3db09d8f01199f4187ceef5b617ab1bb5e9cca1
+Size: 6258
+Filename: enigma2-plugin-systemplugins-terrestrialscan-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-terrestrialscan (source files)
 OE: enigma2-plugins
@@ -12834,15 +12834,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-terrestrialscan
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: dfdf8b5e348612dd575e031ff5b214c2
-SHA256sum: 9cfc988b492aad8de13a30ab55aa4e57ebd9f0fd7169a99092cd38b780ef2977
-Size: 30368
-Filename: enigma2-plugin-systemplugins-terrestrialscan_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: e192da166bb10b49d15855b67ffa9b92
+SHA256sum: a73357e140f64df62812dec807f5909ee1e2ffe715b8fb6cb71135d3c8c1a85d
+Size: 30352
+Filename: enigma2-plugin-systemplugins-terrestrialscan_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-terrestrialscan
 OE: enigma2-plugins
@@ -12850,15 +12850,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-transcodingsetup-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 76360c1f1c7a8c5262fcdf45afcb9a15
-SHA256sum: 474d1426559cb45f97159d127d7509a87df843ee763feb254f064b10670385c2
-Size: 3118
-Filename: enigma2-plugin-systemplugins-transcodingsetup-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 49fd6e14362a2dd0a6f90510991c66ed
+SHA256sum: c7ae58d31b296812bd4a866855ff82502453cb068ccc1703a8df20768ccd7aad
+Size: 3120
+Filename: enigma2-plugin-systemplugins-transcodingsetup-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-transcodingsetup (source files)
 OE: enigma2-plugins
@@ -12866,15 +12866,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-transcodingsetup
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: df248a8d1d8cec5fc7feb42c6bd400b3
-SHA256sum: a7f8d1554c30c61bda0874d29a9603d00a9f11357f5b8d7ae8ee80393f9ea0cb
-Size: 13984
-Filename: enigma2-plugin-systemplugins-transcodingsetup_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: e4f7b851724f25d7ddf44d231f289ea2
+SHA256sum: f4859f67d2020a01c31d3f30b64a0b7b112f14d394065ee33ead0e7250232da7
+Size: 13978
+Filename: enigma2-plugin-systemplugins-transcodingsetup_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-transcodingsetup
 OE: enigma2-plugins
@@ -12882,15 +12882,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-vfdcontrol-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c265fc8ac7dc01af1797938c6610a208
-SHA256sum: 873e4243c572408c57ea340b79b125a482052be206993143327d9129fb7f214b
-Size: 4174
-Filename: enigma2-plugin-systemplugins-vfdcontrol-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: ff9036a2e31bcfb8ea81ae0c89f64e6e
+SHA256sum: 928764dcb90fd3c2c7ed7e9a26e810b82553d17215711cd6c1520cd3d36b71dd
+Size: 4176
+Filename: enigma2-plugin-systemplugins-vfdcontrol-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-vfdcontrol (source files)
 OE: enigma2-plugins
@@ -12898,15 +12898,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-vfdcontrol
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 5eecbd8d94bf6bb91ae1a4f244c2e959
-SHA256sum: 35e48c39ecda07a74bd6badd3b34af5fa6d1add7385f3d1a2424536689760bf7
-Size: 9074
-Filename: enigma2-plugin-systemplugins-vfdcontrol_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 9890fb2b7b5a0e6ec5b9860f26c0067b
+SHA256sum: 214a1619e27b43e8a225ef63387535a807cd86e33925482eb78e5fe956b32631
+Size: 9078
+Filename: enigma2-plugin-systemplugins-vfdcontrol_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-vfdcontrol
 OE: enigma2-plugins
@@ -12914,16 +12914,16 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-vps-dbg
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Recommends: libc6-dbg, libgcc-s-dbg, libstdc++-dbg
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: b5f6b87dc7548338708d4d7f9cfed7ef
-SHA256sum: a2b94bc35c679bd23fd0502dd06fbc67888f43de80d34a1fa6b2a3434a4be090
-Size: 116896
-Filename: enigma2-plugin-systemplugins-vps-dbg_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 222165c3edb9c36eeb6542e484b32bf0
+SHA256sum: 56f35a738cb6a0e25aefe5272353ce3435205803b3b6a0751fc9ac7289f94854
+Size: 116910
+Filename: enigma2-plugin-systemplugins-vps-dbg_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-vps (debug)
 OE: enigma2-plugins
@@ -12931,15 +12931,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-vps-src
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: c426f309c165ac362c7398d23b72febb
-SHA256sum: cd666acc3146984b2bcafc04e6cde1774acca737bcaee29aaf3ba09cb586d210
-Size: 12384
-Filename: enigma2-plugin-systemplugins-vps-src_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 000385c2b51ca0bc49a5b9b580732535
+SHA256sum: 88639a3a18f731b947bb883d45f0cdc28b01174e809475b35b968b3e073803a7
+Size: 12382
+Filename: enigma2-plugin-systemplugins-vps-src_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-vps (source files)
 OE: enigma2-plugins
@@ -12947,15 +12947,15 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-vps
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Depends: enigma2-plugins, libc6 (>= 2.31+git0+1094741224), libgcc1 (>= 9.3.0), libstdc++6 (>= 9.3.0)
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e24e773b4504a914c5be41fc74cf03ed
-SHA256sum: 0602722c584ca5d9640999b944a6d11b800d487e3581c95034bfad5e245c5a0a
-Size: 33024
-Filename: enigma2-plugin-systemplugins-vps_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 1658624a8e9916a2c5f59f7741dd29cd
+SHA256sum: 025774c0faacd28e66a1cfff12a2e09d9daff08ebe1be39a59080a44680fd5c9
+Size: 33010
+Filename: enigma2-plugin-systemplugins-vps_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
 Description: systemplugins-vps
 OE: enigma2-plugins
@@ -12963,64 +12963,64 @@ License: Proprietary
 Priority: optional
 
 Package: enigma2-plugins-dbg
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Recommends: libc6-dbg, libgcc-s-dbg, libstdc++-dbg
 Section: devel
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 86e3a5bbdfb906dc258f85150680e901
-SHA256sum: 40538445021f30a90230be932562897c39e986fc6149291e0bba32cadb64d04b
-Size: 728
-Filename: enigma2-plugins-dbg_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 90f821e6caa4ac284e656e8cb94373a1
+SHA256sum: 413a009f8f62d08ce2c1d3efb6fa6d2cb50e4d3875e9bd3222b69a4919737d1d
+Size: 726
+Filename: enigma2-plugins-dbg_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
-Description: enigma2-plugins version 9.3.0-gitAUTOINC+31850ad132-r0 - Debugging files
+Description: enigma2-plugins version 9.3.0-gitAUTOINC+575bfb2055-r0 - Debugging files
 OE: enigma2-plugins
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugins-dev
-Version: 9.3.0-git5002+31850ad-r0
-Depends: enigma2-plugins (= 9.3.0-git5002+31850ad-r0)
+Version: 9.3.0-git5005+575bfb2-r0
+Depends: enigma2-plugins (= 9.3.0-git5005+575bfb2-r0)
 Recommends: aio-grab-dev, avahi-daemon-dev, dvdbackup-dev, enigma2-plugin-extensions-filebrowser-dev, enigma2-plugin-extensions-mediadownloader-dev, enigma2-plugin-extensions-vlcplayer-dev, enigma2-plugin-systemplugins-mphelp-dev, libc6-dev, libcddb-dev, libcdio-dev, libdvdread-dev, libgcc-s-dev, libstdc++-dev, libtirpc-dev, ntpdate-dev, python-codecs-dev, python-daap-dev, python-difflib-dev, python-email-dev, python-html-dev, python-json-dev, python-mutagen-dev, python-netclient-dev, python-pyopenssl-dev, python-re-dev, python-shell-dev, python-sqlite3-dev, python-textutils-dev, python-twisted-dev, python-twisted-mail-dev, python-twisted-protocols-dev, python-twisted-web-dev, python-xml-dev, streamripper-dev, transmission-client-dev, transmission-dev
 Section: devel
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: e52da2dc0ac46c87fbc369e549c76782
-SHA256sum: 8ffb84f4c4a31fd3ad7a81f2010b03ee993657a253bf77249815dc4e96801999
-Size: 984
-Filename: enigma2-plugins-dev_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: b42efc44220ddabd64225d780c51b759
+SHA256sum: 3df3c2e9523400b8bedddccfca54f7b1c631dd79f901321a7747c5995ec55977
+Size: 986
+Filename: enigma2-plugins-dev_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
-Description: enigma2-plugins version 9.3.0-gitAUTOINC+31850ad132-r0 - Development files
+Description: enigma2-plugins version 9.3.0-gitAUTOINC+575bfb2055-r0 - Development files
 OE: enigma2-plugins
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugins-meta
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 3b1d473cd6919b45f339b8817dd82458
-SHA256sum: 3fa826c90ef069278a4a5d2a76f89ec9b29c1258b863bb699ea74b5fbe1ef8f6
-Size: 11052
-Filename: enigma2-plugins-meta_9.3.0-git5002+31850ad-r0_mips32el.ipk
+MD5Sum: 40090b8c4240148aff54e5c86a2f7834
+SHA256sum: 3ec6dc659d3ecf630555c9849b0d1be478a777ff20c9d810bd055f65b9210b81
+Size: 11062
+Filename: enigma2-plugins-meta_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
-Description: enigma2-plugins version 9.3.0-gitAUTOINC+31850ad132-r0
+Description: enigma2-plugins version 9.3.0-gitAUTOINC+575bfb2055-r0
 OE: enigma2-plugins
 License: Proprietary
 Priority: optional
 
 Package: enigma2-plugins
-Version: 9.3.0-git5002+31850ad-r0
+Version: 9.3.0-git5005+575bfb2-r0
 Section: base
 Architecture: mips32el
 Maintainer: OpenPLi team <info@openpli.org>
-MD5Sum: 82338be9839a92ebe7d2c84fd3edfc50
-SHA256sum: 951573ae8a2e78988fc237c83fbe956079bcab4a377c32bd7e7091bca6926f8c
+MD5Sum: bf4fb684f9f16e30161e6d1ab7f0103c
+SHA256sum: 9e55dd6192f0531e645b062b918357d728b8e8f9fb453f37897b73484998b084
 Size: 630
-Filename: enigma2-plugins_9.3.0-git5002+31850ad-r0_mips32el.ipk
+Filename: enigma2-plugins_9.3.0-git5005+575bfb2-r0_mips32el.ipk
 Source: enigma2-plugins.bb
-Description: enigma2-plugins version 9.3.0-gitAUTOINC+31850ad132-r0
+Description: enigma2-plugins version 9.3.0-gitAUTOINC+575bfb2055-r0
 OE: enigma2-plugins
 License: Proprietary
 Priority: optional
@@ -79975,14 +79975,14 @@ License: Apache-2.0
 Priority: optional
 
 Package: openpli-bootlogo-dbg
-Version: 20200625-r0
+Version: 20200628-r0
 Section: devel
 Architecture: mips32el
 Maintainer: PLi team
-MD5Sum: df7543bff95646ab0451026fac6b1b43
-SHA256sum: 047853424220824757df22e38bbec85abe06544708c7ce07f67068d09e783651
+MD5Sum: 6c5c105156e361ab66646429e8953e8e
+SHA256sum: 082ab5a2b20e90b4ef5c390cae61fad736e53361db36039b4278940ecc807fcb
 Size: 656
-Filename: openpli-bootlogo-dbg_20200625-r0_mips32el.ipk
+Filename: openpli-bootlogo-dbg_20200628-r0_mips32el.ipk
 Source: openpli-bootlogo.bb
 Description: openpli-bootlogo version 1.0-r0 - Debugging files
 OE: openpli-bootlogo
@@ -79990,16 +79990,16 @@ License: CC-BY-NC-ND-4.0
 Priority: required
 
 Package: openpli-bootlogo-dev
-Version: 20200625-r0
-Depends: openpli-bootlogo (= 20200625-r0)
+Version: 20200628-r0
+Depends: openpli-bootlogo (= 20200628-r0)
 Recommends: initscripts-dev, showiframe-dev, update-rc.d-dev
 Section: devel
 Architecture: mips32el
 Maintainer: PLi team
-MD5Sum: bb681e6bf491a817c06aa23d84f8db27
-SHA256sum: 1c519d8b7c3cccf9b7c81d544f5e04c73c00e2381927ad742b202c6a9b79d2e4
+MD5Sum: 885d6c021b1cb526a10488a40bb390bc
+SHA256sum: 5b1f0d1bc4b2adf8d3dc2266695b5d3647cc11cf281bf680e939b3390774f595
 Size: 726
-Filename: openpli-bootlogo-dev_20200625-r0_mips32el.ipk
+Filename: openpli-bootlogo-dev_20200628-r0_mips32el.ipk
 Source: openpli-bootlogo.bb
 Description: openpli-bootlogo version 1.0-r0 - Development files
 OE: openpli-bootlogo
@@ -80007,16 +80007,16 @@ License: CC-BY-NC-ND-4.0
 Priority: required
 
 Package: openpli-bootlogo
-Version: 20200625-r0
+Version: 20200628-r0
 Depends: showiframe
 Recommends: update-rc.d
 Section: base
 Architecture: mips32el
 Maintainer: PLi team
-MD5Sum: 5e1acf7ca565c6e4370be9c2e2a73177
-SHA256sum: b006a7e5fddc9c2bbf8c4bcef5d55f2e13e7604f1e6dea4c1d06d8ab1d1652da
+MD5Sum: 92220ca0bc29a12cc8f58548587cde81
+SHA256sum: 9fbd9c58d0fb245f73f937efc7ddf13ab7d92cc9545a7379a9ec35ac21236872
 Size: 262394
-Filename: openpli-bootlogo_20200625-r0_mips32el.ipk
+Filename: openpli-bootlogo_20200628-r0_mips32el.ipk
 Source: openpli-bootlogo.bb
 Description: openpli-bootlogo version 1.0-r0
 OE: openpli-bootlogo
@@ -80028,8 +80028,8 @@ Version: 1.0-r0
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 73e719b2616e59379c682436948fec4f
-SHA256sum: f37d5cca16783f6b6b9a99c46be461b702df8b6369c041d50eaea21491d9d1e9
+MD5Sum: 3c250ee97b818bbcd1f0a75a2134fb23
+SHA256sum: bfb4b164a50a9baab2960d2a4a9dc658c866136c916f931c13c0cfa6dea5460d
 Size: 670
 Filename: openpli-enigma2-feed-dbg_1.0-r0_mips32el.ipk
 Source: openpli-enigma2-feed.bb
@@ -80045,8 +80045,8 @@ Recommends: astra-sm-dev, autofs-dev, bitratecalc-dev, ccid-dev, channelsettings
 Section: devel
 Architecture: mips32el
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 8a6e133ed3b022addde8828305c2f822
-SHA256sum: d6c661d0060abb07313a85f6b2c47e3ba8a6990b324b20782c22f3c9fdee40f9
+MD5Sum: 9d518c7c67540ff1330a0d3bc6ec005b
+SHA256sum: 64d338b58fdac548b04210f869a920d3fc5f8744dcaf4a42f9a3ca7047ba8fa1
 Size: 1490
 Filename: openpli-enigma2-feed-dev_1.0-r0_mips32el.ipk
 Source: openpli-enigma2-feed.bb
