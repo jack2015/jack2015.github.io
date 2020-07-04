@@ -108841,6 +108841,55 @@ HomePage: https://www.gnu.org/software/wget/
 License: GPLv3
 Priority: optional
 
+Package: enigma2-plugin-softcams-wicardd-dbg
+Version: 1.19-r0
+Recommends: libc6-dbg
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f684cb7f66691b5138e89f03afb2bb72
+SHA256sum: 893b2979577e717695b6e06f955a609f45f290e22026ec9d18183d6b05b81614
+Size: 706
+Filename: enigma2-plugin-softcams-wicardd-dbg_1.19-r0_mips32el.ipk
+Source: enigma2-plugin-softcams-wicardd.bb
+Description: Wicardd Softcam for DM800se Ver1.19 - Debugging files
+OE: enigma2-plugin-softcams-wicardd
+License: GPLv2+
+Priority: optional
+
+Package: enigma2-plugin-softcams-wicardd-dev
+Version: 1.19-r0
+Depends: enigma2-plugin-softcams-wicardd (= 1.19-r0)
+Recommends: libc6-dev, libcrypto-compat-dev, libxcrypt-compat-dev
+Section: devel
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d12491ce345664a8f62a147808c3cf4a
+SHA256sum: da1880403271fd6b161aeb95486284fba70dcb1f60f5e8316d4a696113e031b9
+Size: 752
+Filename: enigma2-plugin-softcams-wicardd-dev_1.19-r0_mips32el.ipk
+Source: enigma2-plugin-softcams-wicardd.bb
+Description: Wicardd Softcam for DM800se Ver1.19 - Development files
+OE: enigma2-plugin-softcams-wicardd
+License: GPLv2+
+Priority: optional
+
+Package: enigma2-plugin-softcams-wicardd
+Version: 1.19-r0
+Depends: libc6 (>= 2.31+git0+1094741224), libcrypto-compat, libxcrypt-compat
+Section: base
+Architecture: mips32el
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 37bfec455fa2fadc01c4c0d36510d9c4
+SHA256sum: 653141c1725089a61a5a9fddc0f3a4b7b0528810c64523b5ac9f78770e7932d1
+Size: 249400
+Filename: enigma2-plugin-softcams-wicardd_1.19-r0_mips32el.ipk
+Source: enigma2-plugin-softcams-wicardd.bb
+Description: Wicardd Softcam for DM800se Ver1.19
+OE: enigma2-plugin-softcams-wicardd
+License: GPLv2+
+Priority: optional
+
 Package: wireless-tools-dbg
 Version: 1:30.pre9-r0
 Recommends: libc6-dbg
